@@ -1,0 +1,178 @@
+Home
+Build Agents Build Agents
+Get Started Get Started
+Python
+TypeScript
+Go
+Java
+Kotlin
+Agents CLI
+Installation
+Google Cloud
+Build your Agent Build your Agent
+Multi-tool agent
+Agent team
+Code with AI
+Agent Config
+Agents Agents
+Simple agents
+Managed agents
+Graph Workflows Graph Workflows
+Graph routes
+Data handling
+Human input
+Dynamic workflows
+Multi-Agent Workflows Multi-Agent Workflows
+Collaborative workflows
+Template workflows Template workflows
+Sequential workflow
+Loop workflow
+Parallel workflow
+Custom template workflows
+Agent routing
+Workflow patterns
+Models for Agents Models for Agents
+Gemini
+Gemma
+Claude
+Agent Platform hosted
+Apigee AI Gateway
+Model routing
+OpenAI
+Ollama
+vLLM
+LiteLLM
+LiteRT-LM
+Run Agents Run Agents
+Agent Runtime Agent Runtime
+Web Interface Web Interface
+Visual Builder
+Command Line
+API Server
+Ambient Agents
+Resume Agents
+Cancel Agent Runs
+Runtime Config
+Event Loop
+Deployment Deployment
+Agent Runtime Agent Runtime
+Standard deployment
+agents-cli
+Test deployed agents
+Cloud Run
+GKE
+Observability Observability
+Logging
+Metrics
+Traces
+Evaluation Evaluation
+Criteria
+User Simulation
+Environment Simulation
+Custom Metrics
+Optimization
+Safety and Security Safety and Security
+Components Components
+Technical Overview
+Custom Tools Custom Tools
+Function tools Function tools
+Overview
+Tool performance
+Action confirmations
+MCP tools
+OpenAPI tools
+Authentication
+Tool limitations
+Artifacts Artifacts
+Skills for Agents Skills for Agents
+App management App management
+Callbacks Callbacks
+Types of callbacks
+Callback patterns
+Plugins
+Agent context Agent context
+Conversational context
+Sessions Sessions
+Rewind sessions
+Migrate sessions
+State
+Events
+Memory
+Context compression
+Model context caching
+MCP MCP
+A2A Protocol A2A Protocol
+Introduction to A2A
+A2A Quickstart (Exposing) A2A Quickstart (Exposing)
+Python
+Go
+Java
+A2A Quickstart (Consuming) A2A Quickstart (Consuming)
+Python
+Go
+Java
+Kotlin
+A2A Extension
+Live and Voice Agents Live and Voice Agents
+Get started Get started
+Python
+Java
+Building Building
+Workflows
+Tools
+Sessions
+Events
+Audio and video
+Configuration
+Production Production
+Evaluation
+Build a custom server
+Supported models
+Grounding Grounding
+Google Search Grounding
+Grounding with Search
+Integrations Integrations
+Reference Reference
+API Reference API Reference
+Python ADK
+TypeScript ADK
+Go ADK Go ADK
+Go v2.x
+Go v1.x
+Java ADK
+Kotlin ADK
+CLI Reference
+Agent Config Reference
+REST API
+Release Notes
+Community Community
+Contributing Guide
+ADK 2.0 ADK 2.0
+Deployment Options
+Agent Runtime on Agent Platform
+Cloud Run
+Google Kubernetes Engine (GKE)
+Other Container-friendly Infrastructure
+Home
+Run Agents
+Deployment
+Deploying Your Agent ¶
+Once you've built and tested your agent using ADK, the next step is to deploy it so it can be accessed, queried, and used in production or integrated with other applications. Deployment moves your agent from your local development machine to a scalable and reliable environment.
+Deployment Options ¶
+Your ADK agent can be deployed to a range of different environments based on your needs for production readiness or custom flexibility:
+Agent Runtime on Agent Platform ¶
+Agent Runtime is a fully managed auto-scaling service on Google Cloud specifically designed for deploying, managing, and scaling AI agents built with frameworks such as ADK.
+Learn more about deploying your agent to Agent Runtime .
+Cloud Run ¶
+Cloud Run is a managed auto-scaling compute platform on Google Cloud that enables you to run your agent as a container-based application.
+Learn more about deploying your agent to Cloud Run .
+Google Kubernetes Engine (GKE) ¶
+Google Kubernetes Engine (GKE) is a managed Kubernetes service of Google Cloud that allows you to run your agent in a containerized environment. GKE is a good option if you need more control over the deployment as well as for running Open Models.
+Learn more about deploying your agent to GKE .
+Other Container-friendly Infrastructure ¶
+You can manually package your Agent into a container image and then run it in any environment that supports container images. For example you can run it locally in Docker or Podman. This is a good option if you prefer to run offline or disconnected, or otherwise in a system that has no connection to Google Cloud.
+Follow the instructions for deploying your agent to Cloud Run . In the "Deployment Commands" section for gcloud CLI, you will find an example FastAPI entry point and Dockerfile.
+Cookie consent
+We use cookies to recognize repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find the information they need. With your consent, you're helping us to make our documentation better.
+Google Analytics
+GitHub

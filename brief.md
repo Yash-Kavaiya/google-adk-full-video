@@ -1,0 +1,25 @@
+# Production Brief
+
+- Topic: Google Agent Development Kit (ADK) — complete product, architecture, runtime, and production guide
+- Audience: Developers, solution architects, and Google Cloud practitioners building production agents
+- Learning outcome: Explain what ADK is, how agents/tools/workflows run, and how to deploy, evaluate, and govern them
+- Format: Long-form educational explainer (same system as the Agent Assist video)
+- Aspect ratio: 16:9
+- Master resolution: 1920x1080
+- Frame rate: 30 fps
+- Target duration: 7 minutes
+- Duration tolerance: plus or minus about one minute; keep the full-info script if speech runs long
+- Narration language: English (India), `en-IN`
+- Voice provider: Sarvam AI
+- TTS model: `bulbul:v3`
+- Speaker: `priya`
+- Pace: 0.95
+- Audio sample rate: 48000 Hz
+- Visual theme: Google light theme — white surface, Google blue/red/yellow/green accents, dark neutral text
+- Beamer role: Source-grounded argument and static styleboard
+- Manim role: Object-level motion graphics timed to measured Sarvam WAVs
+- Citation policy: First-party ADK documentation at google.github.io/adk-docs only
+- Accuracy date: 2026-09-03
+- Brand disclaimer: Educational, independently produced; do not imply Google endorsement
+- Call to action: Start with one LlmAgent, add one tool, evaluate the trajectory, then deploy
+- Delivery: Beamer PDF, Manim source, Sarvam line audio, measured timing, narrated H.264/AAC MP4, SRT captions, QA evidence, and YouTube listing copy

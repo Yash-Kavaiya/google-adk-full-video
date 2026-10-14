@@ -1,0 +1,2146 @@
+[
+  {
+    "text": "Skip to content",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#deploy-to-cloud-run"
+  },
+  {
+    "text": "ADK TypeScript 2.0 GA",
+    "url": "https://google.github.io/2.0/"
+  },
+  {
+    "text": "Get started",
+    "url": "https://google.github.io/graphs/#typescript"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/"
+  },
+  {
+    "text": "Python",
+    "url": "https://github.com/google/adk-python"
+  },
+  {
+    "text": "JS",
+    "url": "https://github.com/google/adk-js"
+  },
+  {
+    "text": "Go",
+    "url": "https://github.com/google/adk-go"
+  },
+  {
+    "text": "Java",
+    "url": "https://github.com/google/adk-java"
+  },
+  {
+    "text": "Kotlin",
+    "url": "https://github.com/google/adk-kotlin"
+  },
+  {
+    "text": "Build Agents",
+    "url": "https://google.github.io/adk-docs/get-started/"
+  },
+  {
+    "text": "Run Agents",
+    "url": "https://google.github.io/adk-docs/runtime/"
+  },
+  {
+    "text": "Components",
+    "url": "https://google.github.io/adk-docs/get-started/about/"
+  },
+  {
+    "text": "Integrations",
+    "url": "https://google.github.io/adk-docs/integrations/"
+  },
+  {
+    "text": "Reference",
+    "url": "https://google.github.io/adk-docs/api-reference/"
+  },
+  {
+    "text": "Community",
+    "url": "https://google.github.io/adk-docs/community/"
+  },
+  {
+    "text": "ADK 2.0",
+    "url": "https://google.github.io/adk-docs/2.0/"
+  },
+  {
+    "text": "Python",
+    "url": "https://google.github.io/adk-docs/get-started/python/"
+  },
+  {
+    "text": "TypeScript",
+    "url": "https://google.github.io/adk-docs/get-started/typescript/"
+  },
+  {
+    "text": "Go",
+    "url": "https://google.github.io/adk-docs/get-started/go/"
+  },
+  {
+    "text": "Java",
+    "url": "https://google.github.io/adk-docs/get-started/java/"
+  },
+  {
+    "text": "Kotlin",
+    "url": "https://google.github.io/adk-docs/get-started/kotlin/"
+  },
+  {
+    "text": "Agents CLI",
+    "url": "https://google.github.io/adk-docs/get-started/agents-cli/"
+  },
+  {
+    "text": "Installation",
+    "url": "https://google.github.io/adk-docs/get-started/installation/"
+  },
+  {
+    "text": "Google Cloud",
+    "url": "https://google.github.io/adk-docs/get-started/google-cloud/"
+  },
+  {
+    "text": "Build your Agent",
+    "url": "https://google.github.io/adk-docs/tutorials/"
+  },
+  {
+    "text": "Multi-tool agent",
+    "url": "https://google.github.io/adk-docs/tutorials/multi-tool-agent/"
+  },
+  {
+    "text": "Agent team",
+    "url": "https://google.github.io/adk-docs/tutorials/agent-team/"
+  },
+  {
+    "text": "Code with AI",
+    "url": "https://google.github.io/adk-docs/tutorials/coding-with-ai/"
+  },
+  {
+    "text": "Agent Config",
+    "url": "https://google.github.io/adk-docs/agents/config/"
+  },
+  {
+    "text": "Agents",
+    "url": "https://google.github.io/adk-docs/agents/"
+  },
+  {
+    "text": "Simple agents",
+    "url": "https://google.github.io/adk-docs/agents/llm-agents/"
+  },
+  {
+    "text": "Managed agents",
+    "url": "https://google.github.io/adk-docs/agents/managed-agents/"
+  },
+  {
+    "text": "Graph Workflows",
+    "url": "https://google.github.io/adk-docs/graphs/"
+  },
+  {
+    "text": "Graph routes",
+    "url": "https://google.github.io/adk-docs/graphs/routes/"
+  },
+  {
+    "text": "Data handling",
+    "url": "https://google.github.io/adk-docs/graphs/data-handling/"
+  },
+  {
+    "text": "Human input",
+    "url": "https://google.github.io/adk-docs/graphs/human-input/"
+  },
+  {
+    "text": "Dynamic workflows",
+    "url": "https://google.github.io/adk-docs/graphs/dynamic/"
+  },
+  {
+    "text": "Multi-Agent Workflows",
+    "url": "https://google.github.io/adk-docs/workflows/"
+  },
+  {
+    "text": "Collaborative workflows",
+    "url": "https://google.github.io/adk-docs/workflows/collaboration/"
+  },
+  {
+    "text": "Template workflows",
+    "url": "https://google.github.io/adk-docs/agents/workflow-agents/"
+  },
+  {
+    "text": "Sequential workflow",
+    "url": "https://google.github.io/adk-docs/agents/workflow-agents/sequential-agents/"
+  },
+  {
+    "text": "Loop workflow",
+    "url": "https://google.github.io/adk-docs/agents/workflow-agents/loop-agents/"
+  },
+  {
+    "text": "Parallel workflow",
+    "url": "https://google.github.io/adk-docs/agents/workflow-agents/parallel-agents/"
+  },
+  {
+    "text": "Custom template workflows",
+    "url": "https://google.github.io/adk-docs/agents/custom-agents/"
+  },
+  {
+    "text": "Agent routing",
+    "url": "https://google.github.io/adk-docs/agents/routing/"
+  },
+  {
+    "text": "Workflow patterns",
+    "url": "https://google.github.io/adk-docs/workflows/patterns/"
+  },
+  {
+    "text": "Models for Agents",
+    "url": "https://google.github.io/adk-docs/agents/models/"
+  },
+  {
+    "text": "Gemini",
+    "url": "https://google.github.io/adk-docs/agents/models/google-gemini/"
+  },
+  {
+    "text": "Gemma",
+    "url": "https://google.github.io/adk-docs/agents/models/google-gemma/"
+  },
+  {
+    "text": "Claude",
+    "url": "https://google.github.io/adk-docs/agents/models/anthropic/"
+  },
+  {
+    "text": "Agent Platform hosted",
+    "url": "https://google.github.io/adk-docs/agents/models/agent-platform/"
+  },
+  {
+    "text": "Apigee AI Gateway",
+    "url": "https://google.github.io/adk-docs/agents/models/apigee/"
+  },
+  {
+    "text": "Model routing",
+    "url": "https://google.github.io/adk-docs/agents/models/routing/"
+  },
+  {
+    "text": "OpenAI",
+    "url": "https://google.github.io/adk-docs/agents/models/openai/"
+  },
+  {
+    "text": "Ollama",
+    "url": "https://google.github.io/adk-docs/agents/models/ollama/"
+  },
+  {
+    "text": "vLLM",
+    "url": "https://google.github.io/adk-docs/agents/models/vllm/"
+  },
+  {
+    "text": "LiteLLM",
+    "url": "https://google.github.io/adk-docs/agents/models/litellm/"
+  },
+  {
+    "text": "LiteRT-LM",
+    "url": "https://google.github.io/adk-docs/agents/models/litert-lm/"
+  },
+  {
+    "text": "Web Interface",
+    "url": "https://google.github.io/adk-docs/runtime/web-interface/"
+  },
+  {
+    "text": "Visual Builder",
+    "url": "https://google.github.io/adk-docs/visual-builder/"
+  },
+  {
+    "text": "Command Line",
+    "url": "https://google.github.io/adk-docs/runtime/command-line/"
+  },
+  {
+    "text": "API Server",
+    "url": "https://google.github.io/adk-docs/runtime/api-server/"
+  },
+  {
+    "text": "Ambient Agents",
+    "url": "https://google.github.io/adk-docs/runtime/ambient-agents/"
+  },
+  {
+    "text": "Resume Agents",
+    "url": "https://google.github.io/adk-docs/runtime/resume/"
+  },
+  {
+    "text": "Cancel Agent Runs",
+    "url": "https://google.github.io/adk-docs/runtime/cancel/"
+  },
+  {
+    "text": "Runtime Config",
+    "url": "https://google.github.io/adk-docs/runtime/runconfig/"
+  },
+  {
+    "text": "Event Loop",
+    "url": "https://google.github.io/adk-docs/runtime/event-loop/"
+  },
+  {
+    "text": "Deployment",
+    "url": "https://google.github.io/adk-docs/deploy/"
+  },
+  {
+    "text": "Agent Runtime",
+    "url": "https://google.github.io/adk-docs/deploy/agent-runtime/"
+  },
+  {
+    "text": "Standard deployment",
+    "url": "https://google.github.io/adk-docs/deploy/agent-runtime/deploy/"
+  },
+  {
+    "text": "agents-cli",
+    "url": "https://google.github.io/adk-docs/deploy/agent-runtime/agents-cli/"
+  },
+  {
+    "text": "Test deployed agents",
+    "url": "https://google.github.io/adk-docs/deploy/agent-runtime/test/"
+  },
+  {
+    "text": "Cloud Run",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/"
+  },
+  {
+    "text": "Agent sample",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#agent-sample"
+  },
+  {
+    "text": "Environment variables",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#environment-variables"
+  },
+  {
+    "text": "Prerequisites",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#prerequisites"
+  },
+  {
+    "text": "Secret",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#secret"
+  },
+  {
+    "text": "Cloud Build permissions",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#cloud-build-permissions"
+  },
+  {
+    "text": "Entry for GOOGLE_API_KEY secret",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#entry-for-google_api_key-secret"
+  },
+  {
+    "text": "Permissions to read",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#permissions-to-read"
+  },
+  {
+    "text": "Deployment payload",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#payload"
+  },
+  {
+    "text": "Deployment commands",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#deployment-commands"
+  },
+  {
+    "text": "adk CLI",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#adk-cli"
+  },
+  {
+    "text": "Setup environment variables",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#setup-environment-variables"
+  },
+  {
+    "text": "Command usage",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#command-usage"
+  },
+  {
+    "text": "Minimal command",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#minimal-command"
+  },
+  {
+    "text": "Full command with optional flags",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#full-command-with-optional-flags"
+  },
+  {
+    "text": "Arguments",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#arguments"
+  },
+  {
+    "text": "Options",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#options"
+  },
+  {
+    "text": "Passing gcloud CLI Arguments",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#passing-gcloud-cli-arguments"
+  },
+  {
+    "text": "Syntax example:",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#syntax-example"
+  },
+  {
+    "text": "Example:",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#example"
+  },
+  {
+    "text": "Authenticated access",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#authenticated-access"
+  },
+  {
+    "text": "gcloud CLI for Python",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#gcloud-cli-for-python"
+  },
+  {
+    "text": "Project structure",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#project-structure"
+  },
+  {
+    "text": "Code files",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#code-files"
+  },
+  {
+    "text": "Define Multiple Agents",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#define-multiple-agents"
+  },
+  {
+    "text": "Deploy using gcloud",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#deploy-using-gcloud"
+  },
+  {
+    "text": "adk CLI",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#adk-cli_1"
+  },
+  {
+    "text": "Set up environment variables",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#set-up-environment-variables"
+  },
+  {
+    "text": "Command usage",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#command-usage_1"
+  },
+  {
+    "text": "Minimal command",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#minimal-command_1"
+  },
+  {
+    "text": "Full command with optional flags",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#full-command-with-optional-flags_1"
+  },
+  {
+    "text": "Options",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#options_1"
+  },
+  {
+    "text": "Authenticated access",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#authenticated-access_1"
+  },
+  {
+    "text": "adk CLI",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#adk-cli_2"
+  },
+  {
+    "text": "Agent Code Structure",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#agent-code-structure"
+  },
+  {
+    "text": "How it Works",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#how-it-works"
+  },
+  {
+    "text": "Setup environment variables",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#setup-environment-variables_1"
+  },
+  {
+    "text": "Command usage",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#command-usage_2"
+  },
+  {
+    "text": "Required",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#required"
+  },
+  {
+    "text": "Optional",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#optional"
+  },
+  {
+    "text": "Authenticated access",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#authenticated-access_2"
+  },
+  {
+    "text": "gcloud CLI for Java",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#gcloud-cli-for-java"
+  },
+  {
+    "text": "Project Structure",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#project-structure_1"
+  },
+  {
+    "text": "Code files",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#code-files_1"
+  },
+  {
+    "text": "Deploy using gcloud",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#deploy-using-gcloud_1"
+  },
+  {
+    "text": "Test your agent",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#test-your-agent"
+  },
+  {
+    "text": "UI Testing",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#ui-testing"
+  },
+  {
+    "text": "API Testing (curl)",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#api-testing-curl"
+  },
+  {
+    "text": "Set the application URL",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#set-the-application-url"
+  },
+  {
+    "text": "Get an identity token (if needed)",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#get-an-identity-token-if-needed"
+  },
+  {
+    "text": "List available apps",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#list-available-apps"
+  },
+  {
+    "text": "Create or Update a Session",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#create-or-update-a-session"
+  },
+  {
+    "text": "Run the Agent",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#run-the-agent"
+  },
+  {
+    "text": "GKE",
+    "url": "https://google.github.io/adk-docs/deploy/gke/"
+  },
+  {
+    "text": "Observability",
+    "url": "https://google.github.io/adk-docs/observability/"
+  },
+  {
+    "text": "Logging",
+    "url": "https://google.github.io/adk-docs/observability/logging/"
+  },
+  {
+    "text": "Metrics",
+    "url": "https://google.github.io/adk-docs/observability/metrics/"
+  },
+  {
+    "text": "Traces",
+    "url": "https://google.github.io/adk-docs/observability/traces/"
+  },
+  {
+    "text": "Evaluation",
+    "url": "https://google.github.io/adk-docs/evaluate/"
+  },
+  {
+    "text": "Criteria",
+    "url": "https://google.github.io/adk-docs/evaluate/criteria/"
+  },
+  {
+    "text": "User Simulation",
+    "url": "https://google.github.io/adk-docs/evaluate/user-sim/"
+  },
+  {
+    "text": "Environment Simulation",
+    "url": "https://google.github.io/adk-docs/evaluate/environment_simulation/"
+  },
+  {
+    "text": "Custom Metrics",
+    "url": "https://google.github.io/adk-docs/evaluate/custom_metrics/"
+  },
+  {
+    "text": "Optimization",
+    "url": "https://google.github.io/adk-docs/optimize/"
+  },
+  {
+    "text": "Safety and Security",
+    "url": "https://google.github.io/adk-docs/safety/"
+  },
+  {
+    "text": "Custom Tools",
+    "url": "https://google.github.io/adk-docs/tools-custom/"
+  },
+  {
+    "text": "Overview",
+    "url": "https://google.github.io/adk-docs/tools-custom/function-tools/"
+  },
+  {
+    "text": "Tool performance",
+    "url": "https://google.github.io/adk-docs/tools-custom/performance/"
+  },
+  {
+    "text": "Action confirmations",
+    "url": "https://google.github.io/adk-docs/tools-custom/confirmation/"
+  },
+  {
+    "text": "MCP tools",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/"
+  },
+  {
+    "text": "OpenAPI tools",
+    "url": "https://google.github.io/adk-docs/tools-custom/openapi-tools/"
+  },
+  {
+    "text": "Authentication",
+    "url": "https://google.github.io/adk-docs/tools-custom/authentication/"
+  },
+  {
+    "text": "Tool limitations",
+    "url": "https://google.github.io/adk-docs/tools/limitations/"
+  },
+  {
+    "text": "Artifacts",
+    "url": "https://google.github.io/adk-docs/artifacts/"
+  },
+  {
+    "text": "Skills for Agents",
+    "url": "https://google.github.io/adk-docs/skills/"
+  },
+  {
+    "text": "App management",
+    "url": "https://google.github.io/adk-docs/apps/"
+  },
+  {
+    "text": "Callbacks",
+    "url": "https://google.github.io/adk-docs/callbacks/"
+  },
+  {
+    "text": "Types of callbacks",
+    "url": "https://google.github.io/adk-docs/callbacks/types-of-callbacks/"
+  },
+  {
+    "text": "Callback patterns",
+    "url": "https://google.github.io/adk-docs/callbacks/design-patterns-and-best-practices/"
+  },
+  {
+    "text": "Plugins",
+    "url": "https://google.github.io/adk-docs/plugins/"
+  },
+  {
+    "text": "Agent context",
+    "url": "https://google.github.io/adk-docs/context/"
+  },
+  {
+    "text": "Conversational context",
+    "url": "https://google.github.io/adk-docs/sessions/"
+  },
+  {
+    "text": "Sessions",
+    "url": "https://google.github.io/adk-docs/sessions/session/"
+  },
+  {
+    "text": "Rewind sessions",
+    "url": "https://google.github.io/adk-docs/sessions/session/rewind/"
+  },
+  {
+    "text": "Migrate sessions",
+    "url": "https://google.github.io/adk-docs/sessions/session/migrate/"
+  },
+  {
+    "text": "State",
+    "url": "https://google.github.io/adk-docs/sessions/state/"
+  },
+  {
+    "text": "Events",
+    "url": "https://google.github.io/adk-docs/events/"
+  },
+  {
+    "text": "Memory",
+    "url": "https://google.github.io/adk-docs/sessions/memory/"
+  },
+  {
+    "text": "Context compression",
+    "url": "https://google.github.io/adk-docs/context/compaction/"
+  },
+  {
+    "text": "Model context caching",
+    "url": "https://google.github.io/adk-docs/context/caching/"
+  },
+  {
+    "text": "MCP",
+    "url": "https://google.github.io/adk-docs/mcp/"
+  },
+  {
+    "text": "A2A Protocol",
+    "url": "https://google.github.io/adk-docs/a2a/"
+  },
+  {
+    "text": "Introduction to A2A",
+    "url": "https://google.github.io/adk-docs/a2a/intro/"
+  },
+  {
+    "text": "Python",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-exposing/"
+  },
+  {
+    "text": "Go",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-exposing-go/"
+  },
+  {
+    "text": "Java",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-exposing-java/"
+  },
+  {
+    "text": "Python",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-consuming/"
+  },
+  {
+    "text": "Go",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-consuming-go/"
+  },
+  {
+    "text": "Java",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-consuming-java/"
+  },
+  {
+    "text": "Kotlin",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-consuming-kotlin/"
+  },
+  {
+    "text": "A2A Extension",
+    "url": "https://google.github.io/adk-docs/a2a/a2a-extension/"
+  },
+  {
+    "text": "Live and Voice Agents",
+    "url": "https://google.github.io/adk-docs/live/"
+  },
+  {
+    "text": "Get started",
+    "url": "https://google.github.io/adk-docs/live/get-started/"
+  },
+  {
+    "text": "Python",
+    "url": "https://google.github.io/adk-docs/live/get-started/streaming-python/"
+  },
+  {
+    "text": "Java",
+    "url": "https://google.github.io/adk-docs/live/get-started/streaming-java/"
+  },
+  {
+    "text": "Workflows",
+    "url": "https://google.github.io/adk-docs/live/workflows/"
+  },
+  {
+    "text": "Tools",
+    "url": "https://google.github.io/adk-docs/live/tools/"
+  },
+  {
+    "text": "Sessions",
+    "url": "https://google.github.io/adk-docs/live/sessions/"
+  },
+  {
+    "text": "Events",
+    "url": "https://google.github.io/adk-docs/live/events/"
+  },
+  {
+    "text": "Audio and video",
+    "url": "https://google.github.io/adk-docs/live/audio-video/"
+  },
+  {
+    "text": "Configuration",
+    "url": "https://google.github.io/adk-docs/live/configuration/"
+  },
+  {
+    "text": "Evaluation",
+    "url": "https://google.github.io/adk-docs/live/evaluation/"
+  },
+  {
+    "text": "Build a custom server",
+    "url": "https://google.github.io/adk-docs/live/custom-server/"
+  },
+  {
+    "text": "Supported models",
+    "url": "https://google.github.io/adk-docs/live/models/"
+  },
+  {
+    "text": "Grounding",
+    "url": "https://google.github.io/adk-docs/grounding/"
+  },
+  {
+    "text": "Google Search Grounding",
+    "url": "https://google.github.io/adk-docs/grounding/google_search_grounding/"
+  },
+  {
+    "text": "Grounding with Search",
+    "url": "https://google.github.io/adk-docs/grounding/grounding_with_search/"
+  },
+  {
+    "text": "Python ADK",
+    "url": "https://google.github.io/adk-docs/api-reference/python/"
+  },
+  {
+    "text": "TypeScript ADK",
+    "url": "https://google.github.io/adk-docs/api-reference/typescript/"
+  },
+  {
+    "text": "Go v2.x",
+    "url": "https://pkg.go.dev/google.golang.org/adk/v2"
+  },
+  {
+    "text": "Go v1.x",
+    "url": "https://pkg.go.dev/google.golang.org/adk"
+  },
+  {
+    "text": "Java ADK",
+    "url": "https://google.github.io/adk-docs/api-reference/java/"
+  },
+  {
+    "text": "Kotlin ADK",
+    "url": "https://google.github.io/adk-docs/api-reference/kotlin/"
+  },
+  {
+    "text": "CLI Reference",
+    "url": "https://google.github.io/adk-docs/api-reference/cli/"
+  },
+  {
+    "text": "Agent Config Reference",
+    "url": "https://google.github.io/adk-docs/api-reference/agentconfig/"
+  },
+  {
+    "text": "REST API",
+    "url": "https://google.github.io/adk-docs/api-reference/rest/"
+  },
+  {
+    "text": "Release Notes",
+    "url": "https://google.github.io/adk-docs/release-notes/"
+  },
+  {
+    "text": "Contributing Guide",
+    "url": "https://google.github.io/adk-docs/community/contributing-guide/"
+  },
+  {
+    "text": "",
+    "url": "https://github.com/google/adk-docs/edit/main/docs/deploy/cloud-run.md"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/index.md"
+  },
+  {
+    "text": "Cloud Run",
+    "url": "https://cloud.google.com/run"
+  },
+  {
+    "text": "sample app",
+    "url": "https://github.com/google/adk-docs/tree/main/examples/go/cloud-run"
+  },
+  {
+    "text": "sample app",
+    "url": "https://github.com/google/adk-docs/tree/main/examples/java/cloud-run"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-0-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-0-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-0-3"
+  },
+  {
+    "text": "Connect to Google Cloud and Agent Platform",
+    "url": "https://google.github.io/get-started/google-cloud/"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-1-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-1-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-1-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-2-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-3-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-4-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-4-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-4-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-4-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-4-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-4-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-4-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-4-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-4-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-4-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-4-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-4-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-4-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-4-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-5-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-5-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-5-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-5-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-6-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-6-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-6-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-6-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-6-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-6-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-6-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-7-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-8-1"
+  },
+  {
+    "text": "FastAPI",
+    "url": "https://fastapi.tiangolo.com/"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-9-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-9-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-9-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-9-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-9-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-9-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-9-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-32"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-33"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-10-34"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-11-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-11-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-12-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-12-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-12-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-12-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-12-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-12-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-12-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-12-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-12-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-12-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-12-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-12-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-12-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-12-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-12-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-12-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-13-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-13-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-13-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-13-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-13-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-13-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-13-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-13-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-14-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-14-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-14-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-14-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-14-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-14-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-14-7"
+  },
+  {
+    "text": "gcloud run deploy reference documentation",
+    "url": "https://cloud.google.com/sdk/gcloud/reference/run/deploy"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-15-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-15-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-15-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-15-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-15-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-15-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-15-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-15-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-16-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-16-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-16-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-17-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-17-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-17-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-17-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-17-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-32"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-33"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-34"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-35"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-36"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-37"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-38"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-39"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-40"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-41"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-42"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-43"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-44"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-45"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-46"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-47"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-48"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-49"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-50"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-51"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-52"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-53"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-54"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-55"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-56"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-57"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-58"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-59"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-60"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-61"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-62"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-63"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-64"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-65"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-66"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-67"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-68"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-69"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-70"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-71"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-72"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-73"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-74"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-75"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-76"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-77"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-78"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-79"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-80"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-81"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-82"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-83"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-84"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-85"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-86"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-87"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-88"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-89"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-90"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-91"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-92"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-93"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-18-94"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-19-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-19-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-19-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-19-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-19-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-19-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-19-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-19-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-19-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-19-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-19-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-20-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-20-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-20-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-20-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-20-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-20-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-20-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-20-8"
+  },
+  {
+    "text": "authenticated",
+    "url": "https://cloud.google.com/docs/authentication/gcloud"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-21-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-21-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-21-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-21-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-21-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-21-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-21-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-21-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-21-9"
+  },
+  {
+    "text": "examples",
+    "url": "https://github.com/google/adk-docs/blob/main/examples/java/cloud-run/src/main/java/agents/capitalagent/CapitalAgent.java"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-22-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-22-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-22-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-22-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-22-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-22-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-22-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-22-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-22-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-22-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-22-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-22-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-22-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-22-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-22-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-22-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-22-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-22-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-22-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-22-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-22-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-22-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-23-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-23-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-23-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-23-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-23-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-23-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-23-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-23-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-23-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-23-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-23-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-23-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-23-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-23-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-23-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-23-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-23-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-23-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-23-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-23-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-24-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-24-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-24-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-24-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-24-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-24-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-24-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-25-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-25-2"
+  },
+  {
+    "text": "Cloud Run",
+    "url": "https://console.cloud.google.com/run"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-26-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-26-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-27-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-28-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-29-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-29-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-29-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-29-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-30-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-30-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-30-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-30-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-30-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-30-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-30-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-30-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-30-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-30-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-30-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-30-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-30-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-30-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__codelineno-30-15"
+  },
+  {
+    "text": "License",
+    "url": "https://github.com/google/adk-docs/blob/main/LICENSE"
+  },
+  {
+    "text": "Privacy",
+    "url": "https://policies.google.com/privacy"
+  },
+  {
+    "text": "Manage cookies",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/#__consent"
+  },
+  {
+    "text": "Material for MkDocs",
+    "url": "https://squidfunk.github.io/mkdocs-material/"
+  }
+]

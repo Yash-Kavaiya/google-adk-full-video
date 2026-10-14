@@ -1,0 +1,239 @@
+Home
+Build Agents Build Agents
+Get Started Get Started
+Python
+TypeScript
+Go
+Java
+Kotlin
+Agents CLI Agents CLI Table of contents
+Installation
+Authenticate
+Build your agent
+Run your agent
+Next: Evaluate and deploy your agent
+Installation
+Google Cloud
+Build your Agent Build your Agent
+Multi-tool agent
+Agent team
+Code with AI
+Agent Config
+Agents Agents
+Simple agents
+Managed agents
+Graph Workflows Graph Workflows
+Graph routes
+Data handling
+Human input
+Dynamic workflows
+Multi-Agent Workflows Multi-Agent Workflows
+Collaborative workflows
+Template workflows Template workflows
+Sequential workflow
+Loop workflow
+Parallel workflow
+Custom template workflows
+Agent routing
+Workflow patterns
+Models for Agents Models for Agents
+Gemini
+Gemma
+Claude
+Agent Platform hosted
+Apigee AI Gateway
+Model routing
+OpenAI
+Ollama
+vLLM
+LiteLLM
+LiteRT-LM
+Run Agents Run Agents
+Agent Runtime Agent Runtime
+Web Interface Web Interface
+Visual Builder
+Command Line
+API Server
+Ambient Agents
+Resume Agents
+Cancel Agent Runs
+Runtime Config
+Event Loop
+Deployment Deployment
+Agent Runtime Agent Runtime
+Standard deployment
+agents-cli
+Test deployed agents
+Cloud Run
+GKE
+Observability Observability
+Logging
+Metrics
+Traces
+Evaluation Evaluation
+Criteria
+User Simulation
+Environment Simulation
+Custom Metrics
+Optimization
+Safety and Security Safety and Security
+Components Components
+Technical Overview
+Custom Tools Custom Tools
+Function tools Function tools
+Overview
+Tool performance
+Action confirmations
+MCP tools
+OpenAPI tools
+Authentication
+Tool limitations
+Artifacts Artifacts
+Skills for Agents Skills for Agents
+App management App management
+Callbacks Callbacks
+Types of callbacks
+Callback patterns
+Plugins
+Agent context Agent context
+Conversational context
+Sessions Sessions
+Rewind sessions
+Migrate sessions
+State
+Events
+Memory
+Context compression
+Model context caching
+MCP MCP
+A2A Protocol A2A Protocol
+Introduction to A2A
+A2A Quickstart (Exposing) A2A Quickstart (Exposing)
+Python
+Go
+Java
+A2A Quickstart (Consuming) A2A Quickstart (Consuming)
+Python
+Go
+Java
+Kotlin
+A2A Extension
+Live and Voice Agents Live and Voice Agents
+Get started Get started
+Python
+Java
+Building Building
+Workflows
+Tools
+Sessions
+Events
+Audio and video
+Configuration
+Production Production
+Evaluation
+Build a custom server
+Supported models
+Grounding Grounding
+Google Search Grounding
+Grounding with Search
+Integrations Integrations
+Reference Reference
+API Reference API Reference
+Python ADK
+TypeScript ADK
+Go ADK Go ADK
+Go v2.x
+Go v1.x
+Java ADK
+Kotlin ADK
+CLI Reference
+Agent Config Reference
+REST API
+Release Notes
+Community Community
+Contributing Guide
+ADK 2.0 ADK 2.0
+Installation
+Authenticate
+Build your agent
+Run your agent
+Next: Evaluate and deploy your agent
+Home
+Build Agents
+Get Started
+Agents CLI Quickstart for ADK ¶
+This guide shows you how to get up and running with Agent Development Kit (ADK) using Agents CLI. You can use the Agents CLI tool set with coding agents like Antigravity, Claude Code, and Codex to build, evaluate, and deploy ADK agents. For more information, see the Agents CLI documentation. Before you start, make sure you have the following installed:
+Python 3.11 or later: Agents CLI supports ADK agents in Python
+The
+uv
+tool to manage environments and dependencies
+Node.js , for installing the skills
+Coding agent such as Antigravity , Claude Code , or Codex
+If you want to deploy ADK agents to services like Google Cloud, make sure the following tools are also installed:
+Google Cloud CLI
+Terraform
+Installation ¶
+Install Agents CLI by running the following command. This step installs the
+agents-cli
+command, the ADK Python packages, and the ADK skills into any coding agents already on your machine:
+uvx google-agents-cli setup
+pipx:
+pipx install google-agents-cli && agents-cli setup
+pip:
+pip install google-agents-cli && agents-cli setup
+Skills only:
+npx skills add google/agents-cli
+The installation command is the only one you have to run yourself. Once installed, you can use your coding agent to build and run an ADK agent.
+Authenticate ¶
+Agents CLI needs credentials for a generative AI API to run your agents. The simplest option is a Gemini API key from Google AI Studio. Create a key on the API Keys page, then after you scaffold a project in the next step, open its
+.env
+file and set:
+GEMINI_API_KEY=YOUR_API_KEY
+Comment out the three
+GOOGLE_CLOUD_*
+lines in the same file so the SDK uses your key instead of Vertex AI.
+If you already have a Google Cloud project, Agents CLI picks up your Application Default Credentials:
+gcloud auth application-default login
+Make sure the
+GOOGLE_CLOUD_*
+lines in the generated
+.env
+file are uncommented and set them to your project identifiers. For more information on connecting to Google Cloud services and projects with ADK, see the Google Cloud setup guide for ADK.
+Build your agent ¶
+Open your coding agent and confirm it can see the skills:
+antigravity # launch from your IDE or terminal # then verify the Agents CLI skills are listed in your environment
+claude /skills # expect google-agents-cli-* entries in the list
+codex /skills # expect google-agents-cli-* entries in the list
+Agents CLI works with any coding agent that supports skills . Most agents list them through a
+/skills
+command or a settings panel.
+Then tell the coding agent what you want to build:
+Use agents-cli to build an agent that turns long text into short bullet-point summaries
+Your coding agent activates the
+google-agents-cli-workflow
+and
+google-agents-cli-scaffold
+skills, asks clarifying questions about the tools your agent calls, the inputs and outputs you expect, and the success criteria to evaluate against, and then scaffolds the project.
+Next, your coding agent uses the
+google-agents-cli-adk-code
+skill to write your agent into
+app/agent.py
+. You end up with a working project with the agent code, tests, and an eval dataset in the following file structure:
+my-agent/ app/ agent.py # main agent code fast_api_app.py # server, telemetry, and routes app_utils/ # session and artifact services tests/ eval/ # evaluation datasets and metrics integration/ # end-to-end agent tests unit/ pyproject.toml # project config and dependencies agents-cli-manifest.yaml # Agents CLI configuration Dockerfile # container image for deployment GEMINI.md # project guidance for coding agents .env # API keys or project IDs
+Use this project structure when you plan to test, evaluate, and deploy an agent. If you want a create single-file agent for learning ADK, use the
+adk create
+command instead.
+Run your agent ¶
+Ask your coding agent to start the local playground, or run it yourself:
+agents-cli playground
+This command starts the ADK web interface with hot reload, so your changes are reflected in the project as you edit. You can access the playground at (http://localhost:8080). Select the agent at the upper left corner and paste in a few paragraphs of text. The agent replies with a short bullet-point summary.
+Next: Evaluate and deploy your agent ¶
+Now that you have Agents CLI installed and your first agent running, you can evaluate and deploy it with your coding agent using instructions like the following:
+"Write evals for this agent and run them" to evaluate your agent against the success criteria you set when you scoped it. Your coding agent grades the results, groups the failures by cause, and tunes the agent's instructions until it passes
+"Deploy this to Cloud Run" to deploy your agent to Agent Runtime, Cloud Run, or GKE.
+"Set up observability infrastructure for my agent" to add prompt-response logging and content logs.
+For the full walkthrough, including evaluation, deployment, and observability, see the Agents CLI Tutorial: Build your first agent .
+Cookie consent
+We use cookies to recognize repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find the information they need. With your consent, you're helping us to make our documentation better.
+Google Analytics
+GitHub

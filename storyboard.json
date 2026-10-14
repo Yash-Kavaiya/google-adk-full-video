@@ -1,0 +1,1053 @@
+{
+  "title": "Google Agent Development Kit: Complete Guide",
+  "accuracy_date": "2026-09-03",
+  "theme": "Google light",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "What ADK Is",
+      "beats": [
+        {
+          "id": "c01-b01",
+          "scene": "chapter-01",
+          "chapter": 1,
+          "chapter_title": "What ADK Is",
+          "text": "An agent framework is not a chatbot wrapper; it is a managed, repeatable task runtime.",
+          "visual": "Framework, not a chat toy",
+          "source_type": "documented",
+          "source_ids": [
+            1
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/"
+          ]
+        },
+        {
+          "id": "c01-b02",
+          "scene": "chapter-01",
+          "chapter": 1,
+          "chapter_title": "What ADK Is",
+          "text": "Google Agent Development Kit is an open-source framework for building, debugging, and deploying production agents.",
+          "visual": "Open-source production framework",
+          "source_type": "documented",
+          "source_ids": [
+            1
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/"
+          ]
+        },
+        {
+          "id": "c01-b03",
+          "scene": "chapter-01",
+          "chapter": 1,
+          "chapter_title": "What ADK Is",
+          "text": "ADK is available in Python, TypeScript, Go, Java, and Kotlin.",
+          "visual": "Five language SDKs",
+          "source_type": "documented",
+          "source_ids": [
+            1
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/"
+          ]
+        },
+        {
+          "id": "c01-b04",
+          "scene": "chapter-01",
+          "chapter": 1,
+          "chapter_title": "What ADK Is",
+          "text": "The homepage positioning is explicit: build production agents, not prototypes.",
+          "visual": "Production, not prototypes",
+          "source_type": "documented",
+          "source_ids": [
+            1
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/"
+          ]
+        },
+        {
+          "id": "c01-b05",
+          "scene": "chapter-01",
+          "chapter": 1,
+          "chapter_title": "What ADK Is",
+          "text": "You can start with a prompt and tools, then grow into multi-agent orchestration and graph workflows.",
+          "visual": "Start simple, grow structured",
+          "source_type": "documented",
+          "source_ids": [
+            1,
+            2
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/",
+            "https://google.github.io/adk-docs/get-started/about/"
+          ]
+        },
+        {
+          "id": "c01-b06",
+          "scene": "chapter-01",
+          "chapter": 1,
+          "chapter_title": "What ADK Is",
+          "text": "ADK is designed to be written by both humans and AI coding assistants.",
+          "visual": "Human and AI authors",
+          "source_type": "documented",
+          "source_ids": [
+            1
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/"
+          ]
+        },
+        {
+          "id": "c01-b07",
+          "scene": "chapter-01",
+          "chapter": 1,
+          "chapter_title": "What ADK Is",
+          "text": "The kit works with Gemini and many other models, including hosted and local options.",
+          "visual": "Model-flexible",
+          "source_type": "documented",
+          "source_ids": [
+            1,
+            2
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/",
+            "https://google.github.io/adk-docs/get-started/about/"
+          ]
+        },
+        {
+          "id": "c01-b08",
+          "scene": "chapter-01",
+          "chapter": 1,
+          "chapter_title": "What ADK Is",
+          "text": "Context is treated like source code: sessions, memory, tools, and artifacts are assembled, not pasted until overflow.",
+          "visual": "Context as source code",
+          "source_type": "documented",
+          "source_ids": [
+            1
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Core Primitives",
+      "beats": [
+        {
+          "id": "c02-b01",
+          "scene": "chapter-02",
+          "chapter": 2,
+          "chapter_title": "Core Primitives",
+          "text": "The fundamental worker is an Agent, usually an LlmAgent for reasoning, or a workflow agent for deterministic control.",
+          "visual": "Agent is the worker unit",
+          "source_type": "documented",
+          "source_ids": [
+            2
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/get-started/about/"
+          ]
+        },
+        {
+          "id": "c02-b02",
+          "scene": "chapter-02",
+          "chapter": 2,
+          "chapter_title": "Core Primitives",
+          "text": "A Tool gives the agent abilities beyond conversation: APIs, search, code, and other services.",
+          "visual": "Tools extend the agent",
+          "source_type": "documented",
+          "source_ids": [
+            2,
+            5
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/get-started/about/",
+            "https://google.github.io/adk-docs/tools-custom/"
+          ]
+        },
+        {
+          "id": "c02-b03",
+          "scene": "chapter-02",
+          "chapter": 2,
+          "chapter_title": "Core Primitives",
+          "text": "Callbacks run at defined points so you can inspect, log, or change behavior without rewriting the agent core.",
+          "visual": "Callbacks hook the lifecycle",
+          "source_type": "documented",
+          "source_ids": [
+            2,
+            18
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/get-started/about/",
+            "https://google.github.io/adk-docs/callbacks/"
+          ]
+        },
+        {
+          "id": "c02-b04",
+          "scene": "chapter-02",
+          "chapter": 2,
+          "chapter_title": "Core Primitives",
+          "text": "A Session holds one conversation thread: events, history, and working State.",
+          "visual": "Session is the thread",
+          "source_type": "documented",
+          "source_ids": [
+            2,
+            6
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/get-started/about/",
+            "https://google.github.io/adk-docs/sessions/"
+          ]
+        },
+        {
+          "id": "c02-b05",
+          "scene": "chapter-02",
+          "chapter": 2,
+          "chapter_title": "Core Primitives",
+          "text": "Memory is long-term knowledge across sessions, distinct from short-term session State.",
+          "visual": "Memory is not State",
+          "source_type": "documented",
+          "source_ids": [
+            2,
+            7
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/get-started/about/",
+            "https://google.github.io/adk-docs/sessions/memory/"
+          ]
+        },
+        {
+          "id": "c02-b06",
+          "scene": "chapter-02",
+          "chapter": 2,
+          "chapter_title": "Core Primitives",
+          "text": "Artifacts let agents save and load files or binary data associated with a session or user.",
+          "visual": "Artifacts persist files",
+          "source_type": "documented",
+          "source_ids": [
+            2
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/get-started/about/"
+          ]
+        },
+        {
+          "id": "c02-b07",
+          "scene": "chapter-02",
+          "chapter": 2,
+          "chapter_title": "Core Primitives",
+          "text": "An Event is the unit of communication: user message, agent reply, or tool use.",
+          "visual": "Events form history",
+          "source_type": "documented",
+          "source_ids": [
+            2
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/get-started/about/"
+          ]
+        },
+        {
+          "id": "c02-b08",
+          "scene": "chapter-02",
+          "chapter": 2,
+          "chapter_title": "Core Primitives",
+          "text": "The Runner is the engine that orchestrates execution from events and coordinates backend services.",
+          "visual": "Runner drives execution",
+          "source_type": "documented",
+          "source_ids": [
+            2,
+            15
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/get-started/about/",
+            "https://google.github.io/adk-docs/context/"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Build and Run",
+      "beats": [
+        {
+          "id": "c03-b01",
+          "scene": "chapter-03",
+          "chapter": 3,
+          "chapter_title": "Build and Run",
+          "text": "Python ADK requires Python 3.10 or later, then pip install google-adk.",
+          "visual": "Install the SDK",
+          "source_type": "documented",
+          "source_ids": [
+            3
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/get-started/python/"
+          ]
+        },
+        {
+          "id": "c03-b02",
+          "scene": "chapter-03",
+          "chapter": 3,
+          "chapter_title": "Build and Run",
+          "text": "adk create scaffolds a project with agent.py, a dotenv file, and package init.",
+          "visual": "Scaffold the project",
+          "source_type": "documented",
+          "source_ids": [
+            3
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/get-started/python/"
+          ]
+        },
+        {
+          "id": "c03-b03",
+          "scene": "chapter-03",
+          "chapter": 3,
+          "chapter_title": "Build and Run",
+          "text": "The only required element is a root_agent definition in agent.py.",
+          "visual": "root_agent is required",
+          "source_type": "documented",
+          "source_ids": [
+            3
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/get-started/python/"
+          ]
+        },
+        {
+          "id": "c03-b04",
+          "scene": "chapter-03",
+          "chapter": 3,
+          "chapter_title": "Build and Run",
+          "text": "A first agent can be a Gemini model, an instruction, and one Python function used as a tool.",
+          "visual": "Model, instruction, tool",
+          "source_type": "documented",
+          "source_ids": [
+            3,
+            4
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/get-started/python/",
+            "https://google.github.io/adk-docs/agents/"
+          ]
+        },
+        {
+          "id": "c03-b05",
+          "scene": "chapter-03",
+          "chapter": 3,
+          "chapter_title": "Build and Run",
+          "text": "Gemini API use needs GOOGLE_API_KEY in the environment, never committed to source control.",
+          "visual": "Keep keys out of git",
+          "source_type": "documented",
+          "source_ids": [
+            3,
+            19
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/get-started/python/",
+            "https://google.github.io/adk-docs/get-started/google-cloud/"
+          ]
+        },
+        {
+          "id": "c03-b06",
+          "scene": "chapter-03",
+          "chapter": 3,
+          "chapter_title": "Build and Run",
+          "text": "adk run starts an interactive command-line session against your agent folder.",
+          "visual": "Test with adk run",
+          "source_type": "documented",
+          "source_ids": [
+            3
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/get-started/python/"
+          ]
+        },
+        {
+          "id": "c03-b07",
+          "scene": "chapter-03",
+          "chapter": 3,
+          "chapter_title": "Build and Run",
+          "text": "adk web starts a local chat UI, typically on port 8000, launched from the parent folder.",
+          "visual": "Inspect with adk web",
+          "source_type": "documented",
+          "source_ids": [
+            3
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/get-started/python/"
+          ]
+        },
+        {
+          "id": "c03-b08",
+          "scene": "chapter-03",
+          "chapter": 3,
+          "chapter_title": "Build and Run",
+          "text": "The documentation warns that ADK Web is for development and debugging, not production deployments.",
+          "visual": "Web UI is not production",
+          "source_type": "documented",
+          "source_ids": [
+            3
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/get-started/python/"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Tools and Skills",
+      "beats": [
+        {
+          "id": "c04-b01",
+          "scene": "chapter-04",
+          "chapter": 4,
+          "chapter_title": "Tools and Skills",
+          "text": "A tool is developer-defined logic. It does not reason on its own; the model chooses when to call it.",
+          "visual": "Tools execute, models reason",
+          "source_type": "documented",
+          "source_ids": [
+            5
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/tools-custom/"
+          ]
+        },
+        {
+          "id": "c04-b02",
+          "scene": "chapter-04",
+          "chapter": 4,
+          "chapter_title": "Tools and Skills",
+          "text": "The loop is reason, select, invoke with arguments, then fold the result back into the next step.",
+          "visual": "Reason, select, invoke",
+          "source_type": "documented",
+          "source_ids": [
+            5
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/tools-custom/"
+          ]
+        },
+        {
+          "id": "c04-b03",
+          "scene": "chapter-04",
+          "chapter": 4,
+          "chapter_title": "Tools and Skills",
+          "text": "Function tools wrap ordinary functions. Clear names and docstrings drive tool selection.",
+          "visual": "Function tools first",
+          "source_type": "documented",
+          "source_ids": [
+            5
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/tools-custom/"
+          ]
+        },
+        {
+          "id": "c04-b04",
+          "scene": "chapter-04",
+          "chapter": 4,
+          "chapter_title": "Tools and Skills",
+          "text": "You can also wrap another agent as AgentTool, or connect MCP and OpenAPI surfaces.",
+          "visual": "MCP, OpenAPI, AgentTool",
+          "source_type": "documented",
+          "source_ids": [
+            2,
+            5
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/get-started/about/",
+            "https://google.github.io/adk-docs/tools-custom/"
+          ]
+        },
+        {
+          "id": "c04-b05",
+          "scene": "chapter-04",
+          "chapter": 4,
+          "chapter_title": "Tools and Skills",
+          "text": "Long-running tools exist for asynchronous work that should not block the whole turn.",
+          "visual": "Async tool support",
+          "source_type": "documented",
+          "source_ids": [
+            2
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/get-started/about/"
+          ]
+        },
+        {
+          "id": "c04-b06",
+          "scene": "chapter-04",
+          "chapter": 4,
+          "chapter_title": "Tools and Skills",
+          "text": "Action confirmations let you gate dangerous tool calls before they execute.",
+          "visual": "Confirm before acting",
+          "source_type": "documented",
+          "source_ids": [
+            5
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/tools-custom/"
+          ]
+        },
+        {
+          "id": "c04-b07",
+          "scene": "chapter-04",
+          "chapter": 4,
+          "chapter_title": "Tools and Skills",
+          "text": "Agent Skills package instructions, resources, and tools, loaded on demand to protect the context window.",
+          "visual": "Skills load on demand",
+          "source_type": "documented",
+          "source_ids": [
+            17
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/skills/"
+          ]
+        },
+        {
+          "id": "c04-b08",
+          "scene": "chapter-04",
+          "chapter": 4,
+          "chapter_title": "Tools and Skills",
+          "text": "The Skills feature is experimental; treat it as evolving, not as a frozen contract.",
+          "visual": "Skills are experimental",
+          "source_type": "documented",
+          "source_ids": [
+            17
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/skills/"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Workflows and Graphs",
+      "beats": [
+        {
+          "id": "c05-b01",
+          "scene": "chapter-05",
+          "chapter": 5,
+          "chapter_title": "Workflows and Graphs",
+          "text": "A workflow begins when more than one agent or executable node must cooperate.",
+          "visual": "One agent is not a workflow",
+          "source_type": "documented",
+          "source_ids": [
+            4
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/agents/"
+          ]
+        },
+        {
+          "id": "c05-b02",
+          "scene": "chapter-05",
+          "chapter": 5,
+          "chapter_title": "Workflows and Graphs",
+          "text": "Split when instructions get unreliable, context overflows, or you need reusable modules.",
+          "visual": "When to split",
+          "source_type": "documented",
+          "source_ids": [
+            4
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/agents/"
+          ]
+        },
+        {
+          "id": "c05-b03",
+          "scene": "chapter-05",
+          "chapter": 5,
+          "chapter_title": "Workflows and Graphs",
+          "text": "Template workflow agents are Sequential, Parallel, and Loop. They orchestrate without asking a model how to route.",
+          "visual": "Sequential, Parallel, Loop",
+          "source_type": "documented",
+          "source_ids": [
+            12
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/agents/workflow-agents/"
+          ]
+        },
+        {
+          "id": "c05-b04",
+          "scene": "chapter-05",
+          "chapter": 5,
+          "chapter_title": "Workflows and Graphs",
+          "text": "ADK 2.0 adds graph-based workflows: nodes and edges with explicit routing for deterministic control.",
+          "visual": "Graphs for control",
+          "source_type": "documented",
+          "source_ids": [
+            11,
+            14
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/graphs/",
+            "https://google.github.io/adk-docs/2.0/"
+          ]
+        },
+        {
+          "id": "c05-b05",
+          "scene": "chapter-05",
+          "chapter": 5,
+          "chapter_title": "Workflows and Graphs",
+          "text": "Dynamic workflows use your own code for loops, branching, and recursion that a static graph cannot express cleanly.",
+          "visual": "Code-driven dynamics",
+          "source_type": "documented",
+          "source_ids": [
+            11,
+            14
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/graphs/",
+            "https://google.github.io/adk-docs/2.0/"
+          ]
+        },
+        {
+          "id": "c05-b06",
+          "scene": "chapter-05",
+          "chapter": 5,
+          "chapter_title": "Workflows and Graphs",
+          "text": "Collaborative workflows use coordinator agents and sub-agents working together.",
+          "visual": "Coordinator plus specialists",
+          "source_type": "documented",
+          "source_ids": [
+            14
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/2.0/"
+          ]
+        },
+        {
+          "id": "c05-b07",
+          "scene": "chapter-05",
+          "chapter": 5,
+          "chapter_title": "Workflows and Graphs",
+          "text": "Python ADK 2.0 reached general availability on 19 May 2026.",
+          "visual": "Python 2.0 GA date",
+          "source_type": "documented",
+          "source_ids": [
+            14
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/2.0/"
+          ]
+        },
+        {
+          "id": "c05-b08",
+          "scene": "chapter-05",
+          "chapter": 5,
+          "chapter_title": "Workflows and Graphs",
+          "text": "Agents, tools, and functions become nodes in the workflow graph; review breaking changes before you upgrade 1.x apps.",
+          "visual": "Upgrade is a migration",
+          "source_type": "documented",
+          "source_ids": [
+            14
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/2.0/"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Context and Memory",
+      "beats": [
+        {
+          "id": "c06-b01",
+          "scene": "chapter-06",
+          "chapter": 6,
+          "chapter_title": "Context and Memory",
+          "text": "Context is the bundle of state, artifacts, memory, and credentials available during one invocation.",
+          "visual": "Context is the working set",
+          "source_type": "documented",
+          "source_ids": [
+            15
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/context/"
+          ]
+        },
+        {
+          "id": "c06-b02",
+          "scene": "chapter-06",
+          "chapter": 6,
+          "chapter_title": "Context and Memory",
+          "text": "The framework creates InvocationContext. You rarely construct it by hand.",
+          "visual": "Runner supplies context",
+          "source_type": "documented",
+          "source_ids": [
+            15
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/context/"
+          ]
+        },
+        {
+          "id": "c06-b03",
+          "scene": "chapter-06",
+          "chapter": 6,
+          "chapter_title": "Context and Memory",
+          "text": "Session history and State cover the current thread only, such as a cart in this chat.",
+          "visual": "State is this thread",
+          "source_type": "documented",
+          "source_ids": [
+            6
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/sessions/"
+          ]
+        },
+        {
+          "id": "c06-b04",
+          "scene": "chapter-06",
+          "chapter": 6,
+          "chapter_title": "Context and Memory",
+          "text": "Memory is a searchable archive across past sessions or external knowledge.",
+          "visual": "Memory is the archive",
+          "source_type": "documented",
+          "source_ids": [
+            6,
+            7
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/sessions/",
+            "https://google.github.io/adk-docs/sessions/memory/"
+          ]
+        },
+        {
+          "id": "c06-b05",
+          "scene": "chapter-06",
+          "chapter": 6,
+          "chapter_title": "Context and Memory",
+          "text": "Memory services can ingest a session, append a delta, add facts, and search. Not every backend implements every method.",
+          "visual": "Check backend capabilities",
+          "source_type": "documented",
+          "source_ids": [
+            7
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/sessions/memory/"
+          ]
+        },
+        {
+          "id": "c06-b06",
+          "scene": "chapter-06",
+          "chapter": 6,
+          "chapter_title": "Context and Memory",
+          "text": "In-memory session and memory implementations are for local testing, not production durability.",
+          "visual": "In-memory is for tests",
+          "source_type": "documented",
+          "source_ids": [
+            6
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/sessions/"
+          ]
+        },
+        {
+          "id": "c06-b07",
+          "scene": "chapter-06",
+          "chapter": 6,
+          "chapter_title": "Context and Memory",
+          "text": "ADK can filter irrelevant events, summarize older turns, lazy-load artifacts, and track token use.",
+          "visual": "Compaction is built in",
+          "source_type": "documented",
+          "source_ids": [
+            1,
+            15
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/",
+            "https://google.github.io/adk-docs/context/"
+          ]
+        },
+        {
+          "id": "c06-b08",
+          "scene": "chapter-06",
+          "chapter": 6,
+          "chapter_title": "Context and Memory",
+          "text": "Treat context like source code: every token should earn its place.",
+          "visual": "Every token earns its place",
+          "source_type": "documented",
+          "source_ids": [
+            1
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Runtime, Deploy, Evaluate",
+      "beats": [
+        {
+          "id": "c07-b01",
+          "scene": "chapter-07",
+          "chapter": 7,
+          "chapter_title": "Runtime, Deploy, Evaluate",
+          "text": "Development runtimes include the CLI, the web UI, an API server, and ambient event-driven agents.",
+          "visual": "Many ways to run",
+          "source_type": "documented",
+          "source_ids": [
+            8
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/runtime/"
+          ]
+        },
+        {
+          "id": "c07-b02",
+          "scene": "chapter-07",
+          "chapter": 7,
+          "chapter_title": "Runtime, Deploy, Evaluate",
+          "text": "The event loop is a yield, pause, and resume cycle, not a single blocking script.",
+          "visual": "Yield, pause, resume",
+          "source_type": "documented",
+          "source_ids": [
+            8
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/runtime/"
+          ]
+        },
+        {
+          "id": "c07-b03",
+          "scene": "chapter-07",
+          "chapter": 7,
+          "chapter_title": "Runtime, Deploy, Evaluate",
+          "text": "You can resume and cancel runs; design long jobs so interruption is recoverable.",
+          "visual": "Resume and cancel",
+          "source_type": "documented",
+          "source_ids": [
+            8
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/runtime/"
+          ]
+        },
+        {
+          "id": "c07-b04",
+          "scene": "chapter-07",
+          "chapter": 7,
+          "chapter_title": "Runtime, Deploy, Evaluate",
+          "text": "Deploy to Agent Runtime for a managed agent service, Cloud Run for containers, or GKE for Kubernetes control.",
+          "visual": "Three Google Cloud paths",
+          "source_type": "documented",
+          "source_ids": [
+            9
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/deploy/"
+          ]
+        },
+        {
+          "id": "c07-b05",
+          "scene": "chapter-07",
+          "chapter": 7,
+          "chapter_title": "Runtime, Deploy, Evaluate",
+          "text": "You can also containerize and run anywhere Docker or Podman can run, including offline hosts.",
+          "visual": "Deploy anywhere",
+          "source_type": "documented",
+          "source_ids": [
+            1,
+            9
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/",
+            "https://google.github.io/adk-docs/deploy/"
+          ]
+        },
+        {
+          "id": "c07-b06",
+          "scene": "chapter-07",
+          "chapter": 7,
+          "chapter_title": "Runtime, Deploy, Evaluate",
+          "text": "Agent evaluation scores both the final answer and the trajectory of tool steps.",
+          "visual": "Score path and answer",
+          "source_type": "documented",
+          "source_ids": [
+            13
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/evaluate/"
+          ]
+        },
+        {
+          "id": "c07-b07",
+          "scene": "chapter-07",
+          "chapter": 7,
+          "chapter_title": "Runtime, Deploy, Evaluate",
+          "text": "Compare expected steps such as determine intent, use tool, review results, then generate the report.",
+          "visual": "Trajectory is a checklist",
+          "source_type": "documented",
+          "source_ids": [
+            13
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/evaluate/"
+          ]
+        },
+        {
+          "id": "c07-b08",
+          "scene": "chapter-07",
+          "chapter": 7,
+          "chapter_title": "Runtime, Deploy, Evaluate",
+          "text": "If you intend to leave the prototype stage, automated evaluation is a documented best practice, not optional polish.",
+          "visual": "Evaluate before scale",
+          "source_type": "documented",
+          "source_ids": [
+            13
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/evaluate/"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Safety, A2A, Production",
+      "beats": [
+        {
+          "id": "c08-b01",
+          "scene": "chapter-08",
+          "chapter": 8,
+          "chapter_title": "Safety, A2A, Production",
+          "text": "Uncontrolled agents can take misaligned actions, including data exfiltration.",
+          "visual": "Safety is a product requirement",
+          "source_type": "documented",
+          "source_ids": [
+            10
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/safety/"
+          ]
+        },
+        {
+          "id": "c08-b02",
+          "scene": "chapter-08",
+          "chapter": 8,
+          "chapter_title": "Safety, A2A, Production",
+          "text": "Control identity: decide whether the agent acts as itself or as the user.",
+          "visual": "Identity and authorization",
+          "source_type": "documented",
+          "source_ids": [
+            10
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/safety/"
+          ]
+        },
+        {
+          "id": "c08-b03",
+          "scene": "chapter-08",
+          "chapter": 8,
+          "chapter_title": "Safety, A2A, Production",
+          "text": "Use input and output guardrails, in-tool policies, callbacks, plugins, and Gemini content filters.",
+          "visual": "Layered guardrails",
+          "source_type": "documented",
+          "source_ids": [
+            10,
+            18
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/safety/",
+            "https://google.github.io/adk-docs/callbacks/"
+          ]
+        },
+        {
+          "id": "c08-b04",
+          "scene": "chapter-08",
+          "chapter": 8,
+          "chapter_title": "Safety, A2A, Production",
+          "text": "Sandbox model-generated code, and confine cloud activity with network controls such as VPC Service Controls.",
+          "visual": "Sandbox and perimeter",
+          "source_type": "documented",
+          "source_ids": [
+            10
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/safety/"
+          ]
+        },
+        {
+          "id": "c08-b05",
+          "scene": "chapter-08",
+          "chapter": 8,
+          "chapter_title": "Safety, A2A, Production",
+          "text": "Local sub-agents organize code in-process. Remote A2A agents are separate services on a network.",
+          "visual": "Local versus remote",
+          "source_type": "documented",
+          "source_ids": [
+            16
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/a2a/intro/"
+          ]
+        },
+        {
+          "id": "c08-b06",
+          "scene": "chapter-08",
+          "chapter": 8,
+          "chapter_title": "Safety, A2A, Production",
+          "text": "Use A2A when languages, teams, or standalone services must share a formal agent contract.",
+          "visual": "A2A is the contract",
+          "source_type": "documented",
+          "source_ids": [
+            16
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/a2a/intro/"
+          ]
+        },
+        {
+          "id": "c08-b07",
+          "scene": "chapter-08",
+          "chapter": 8,
+          "chapter_title": "Safety, A2A, Production",
+          "text": "Do not use ADK Web in production. Authenticate to Google Cloud with ADC or a service account, never committed keys.",
+          "visual": "Production auth, not the UI",
+          "source_type": "documented",
+          "source_ids": [
+            3,
+            19
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/get-started/python/",
+            "https://google.github.io/adk-docs/get-started/google-cloud/"
+          ]
+        },
+        {
+          "id": "c08-b08",
+          "scene": "chapter-08",
+          "chapter": 8,
+          "chapter_title": "Safety, A2A, Production",
+          "text": "Start with one LlmAgent and one tool, measure the trajectory, then add graphs, memory, and deployment from evidence.",
+          "visual": "Pilot, measure, expand",
+          "source_type": "documented",
+          "source_ids": [
+            3,
+            13,
+            4
+          ],
+          "source_urls": [
+            "https://google.github.io/adk-docs/get-started/python/",
+            "https://google.github.io/adk-docs/evaluate/",
+            "https://google.github.io/adk-docs/agents/"
+          ]
+        }
+      ]
+    }
+  ]
+}

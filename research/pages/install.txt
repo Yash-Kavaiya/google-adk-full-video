@@ -1,0 +1,219 @@
+Home
+Build Agents Build Agents
+Get Started Get Started
+Python
+TypeScript
+Go
+Java
+Kotlin
+Agents CLI
+Installation
+Google Cloud
+Build your Agent Build your Agent
+Multi-tool agent
+Agent team
+Code with AI
+Agent Config
+Agents Agents
+Simple agents
+Managed agents
+Graph Workflows Graph Workflows
+Graph routes
+Data handling
+Human input
+Dynamic workflows
+Multi-Agent Workflows Multi-Agent Workflows
+Collaborative workflows
+Template workflows Template workflows
+Sequential workflow
+Loop workflow
+Parallel workflow
+Custom template workflows
+Agent routing
+Workflow patterns
+Models for Agents Models for Agents
+Gemini
+Gemma
+Claude
+Agent Platform hosted
+Apigee AI Gateway
+Model routing
+OpenAI
+Ollama
+vLLM
+LiteLLM
+LiteRT-LM
+Run Agents Run Agents
+Agent Runtime Agent Runtime
+Web Interface Web Interface
+Visual Builder
+Command Line
+API Server
+Ambient Agents
+Resume Agents
+Cancel Agent Runs
+Runtime Config
+Event Loop
+Deployment Deployment
+Agent Runtime Agent Runtime
+Standard deployment
+agents-cli
+Test deployed agents
+Cloud Run
+GKE
+Observability Observability
+Logging
+Metrics
+Traces
+Evaluation Evaluation
+Criteria
+User Simulation
+Environment Simulation
+Custom Metrics
+Optimization
+Safety and Security Safety and Security
+Components Components
+Technical Overview
+Custom Tools Custom Tools
+Function tools Function tools
+Overview
+Tool performance
+Action confirmations
+MCP tools
+OpenAPI tools
+Authentication
+Tool limitations
+Artifacts Artifacts
+Skills for Agents Skills for Agents
+App management App management
+Callbacks Callbacks
+Types of callbacks
+Callback patterns
+Plugins
+Agent context Agent context
+Conversational context
+Sessions Sessions
+Rewind sessions
+Migrate sessions
+State
+Events
+Memory
+Context compression
+Model context caching
+MCP MCP
+A2A Protocol A2A Protocol
+Introduction to A2A
+A2A Quickstart (Exposing) A2A Quickstart (Exposing)
+Python
+Go
+Java
+A2A Quickstart (Consuming) A2A Quickstart (Consuming)
+Python
+Go
+Java
+Kotlin
+A2A Extension
+Live and Voice Agents Live and Voice Agents
+Get started Get started
+Python
+Java
+Building Building
+Workflows
+Tools
+Sessions
+Events
+Audio and video
+Configuration
+Production Production
+Evaluation
+Build a custom server
+Supported models
+Grounding Grounding
+Google Search Grounding
+Grounding with Search
+Integrations Integrations
+Reference Reference
+API Reference API Reference
+Python ADK
+TypeScript ADK
+Go ADK Go ADK
+Go v2.x
+Go v1.x
+Java ADK
+Kotlin ADK
+CLI Reference
+Agent Config Reference
+REST API
+Release Notes
+Community Community
+Contributing Guide
+ADK 2.0 ADK 2.0
+Home
+Build Agents
+Get Started
+Advanced setup ¶
+This page provides detailed installation and configuration instructions for ADK across supported languages. For a guided introduction, start with the quickstart for your language .
+Create & activate virtual environment
+We recommend creating a virtual Python environment using venv :
+python3 -m venv .venv
+Now, you can activate the virtual environment using the appropriate command for your operating system and environment:
+# Mac / Linux source .venv/bin/activate # Windows CMD: .venv\Scripts\activate.bat # Windows PowerShell: .venv\Scripts\Activate.ps1
+Install ADK
+pip install google-adk
+(Optional) Verify your installation:
+pip show google-adk
+Install ADK and ADK DevTools
+npm install @google/adk @google/adk-devtools
+Prerequisites: Go 1.25 or later is required for ADK Go v2.0.0.
+Create a new Go module
+If you are starting a new project, you can create a new Go module:
+go mod init example.com/my-agent
+Install ADK Go v2.0.0
+To add ADK Go v2.0.0 to your project, run the following command:
+go get google.golang.org/adk/v2
+This will add ADK Go v2.0.0 as a dependency to your
+go.mod
+file.
+(Optional) Verify your installation by checking your
+go.mod
+file for the
+google.golang.org/adk/v2
+entry.
+If you are not yet ready to upgrade to v2.0.0, you can continue using the v1.x release line:
+go get google.golang.org/adk@v1
+See the ADK 2.0 release page for upgrade guidance, including breaking changes and migration steps for ADK Go 1.x projects.
+You can either use maven or gradle to add the
+google-adk
+and
+google-adk-dev
+package.
+google-adk
+is the core Java ADK library. Java ADK also comes with a pluggable example SpringBoot server to run your agents seamlessly. This optional package is present as part of
+google-adk-dev
+.
+If you are using maven, add the following to your
+pom.xml
+:
+<?xml version="1.0" encoding="UTF-8"?> <project xmlns= "http://maven.apache.org/POM/4.0.0" xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation= "http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" > <modelVersion> 4.0.0 </modelVersion> <groupId> com.example.agent </groupId> <artifactId> adk-agents </artifactId> <version> 1.0-SNAPSHOT </version> <!-- Specify the version of Java you'll be using --> <properties> <maven.compiler.source> 17 </maven.compiler.source> <maven.compiler.target> 17 </maven.compiler.target> <project.build.sourceEncoding> UTF-8 </project.build.sourceEncoding> </properties> <dependencies> <!-- The ADK core dependency --> <dependency> <groupId> com.google.adk </groupId> <artifactId> google-adk </artifactId> <version> 1.6.0 </version> </dependency> <!-- The ADK dev web UI to debug your agent --> <dependency> <groupId> com.google.adk </groupId> <artifactId> google-adk-dev </artifactId> <version> 1.6.0 </version> </dependency> </dependencies> </project>
+Here's a complete pom.xml file for reference.
+If you are using gradle, add the dependency to your build.gradle:
+dependencies { implementation 'com.google.adk:google-adk:1.6.0' implementation 'com.google.adk:google-adk-dev:1.6.0' }
+You should also configure Gradle to pass
+-parameters
+to
+javac
+. (Alternatively, use
+@Schema(name = "...")
+).
+Use ADK Kotlin on the JVM
+For Kotlin on the JVM, add the ADK core library and the KSP annotation processor to your
+build.gradle.kts
+:
+plugins { kotlin ( "jvm" ) version "2.1.20" id ( "com.google.devtools.ksp" ) version "2.1.20-2.0.1" } dependencies { implementation ( "com.google.adk:google-adk-kotlin-core:0.9.0" ) ksp ( "com.google.adk:google-adk-kotlin-processor:0.9.0" ) }
+The KSP processor generates code for the
+@Tool
+annotation used to register function tools. See the Kotlin Quickstart for a complete project setup.
+Cookie consent
+We use cookies to recognize repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find the information they need. With your consent, you're helping us to make our documentation better.
+Google Analytics
+GitHub

@@ -1,0 +1,838 @@
+[
+  {
+    "text": "Skip to content",
+    "url": "https://google.github.io/adk-docs/2.0/#welcome-to-adk-20"
+  },
+  {
+    "text": "ADK TypeScript 2.0 GA",
+    "url": "https://google.github.io/2.0/"
+  },
+  {
+    "text": "Get started",
+    "url": "https://google.github.io/graphs/#typescript"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/"
+  },
+  {
+    "text": "Python",
+    "url": "https://github.com/google/adk-python"
+  },
+  {
+    "text": "JS",
+    "url": "https://github.com/google/adk-js"
+  },
+  {
+    "text": "Go",
+    "url": "https://github.com/google/adk-go"
+  },
+  {
+    "text": "Java",
+    "url": "https://github.com/google/adk-java"
+  },
+  {
+    "text": "Kotlin",
+    "url": "https://github.com/google/adk-kotlin"
+  },
+  {
+    "text": "Build Agents",
+    "url": "https://google.github.io/adk-docs/get-started/"
+  },
+  {
+    "text": "Run Agents",
+    "url": "https://google.github.io/adk-docs/runtime/"
+  },
+  {
+    "text": "Components",
+    "url": "https://google.github.io/adk-docs/get-started/about/"
+  },
+  {
+    "text": "Integrations",
+    "url": "https://google.github.io/adk-docs/integrations/"
+  },
+  {
+    "text": "Reference",
+    "url": "https://google.github.io/adk-docs/api-reference/"
+  },
+  {
+    "text": "Community",
+    "url": "https://google.github.io/adk-docs/community/"
+  },
+  {
+    "text": "ADK 2.0",
+    "url": "https://google.github.io/adk-docs/2.0/"
+  },
+  {
+    "text": "Python",
+    "url": "https://google.github.io/adk-docs/get-started/python/"
+  },
+  {
+    "text": "TypeScript",
+    "url": "https://google.github.io/adk-docs/get-started/typescript/"
+  },
+  {
+    "text": "Go",
+    "url": "https://google.github.io/adk-docs/get-started/go/"
+  },
+  {
+    "text": "Java",
+    "url": "https://google.github.io/adk-docs/get-started/java/"
+  },
+  {
+    "text": "Kotlin",
+    "url": "https://google.github.io/adk-docs/get-started/kotlin/"
+  },
+  {
+    "text": "Agents CLI",
+    "url": "https://google.github.io/adk-docs/get-started/agents-cli/"
+  },
+  {
+    "text": "Installation",
+    "url": "https://google.github.io/adk-docs/get-started/installation/"
+  },
+  {
+    "text": "Google Cloud",
+    "url": "https://google.github.io/adk-docs/get-started/google-cloud/"
+  },
+  {
+    "text": "Build your Agent",
+    "url": "https://google.github.io/adk-docs/tutorials/"
+  },
+  {
+    "text": "Multi-tool agent",
+    "url": "https://google.github.io/adk-docs/tutorials/multi-tool-agent/"
+  },
+  {
+    "text": "Agent team",
+    "url": "https://google.github.io/adk-docs/tutorials/agent-team/"
+  },
+  {
+    "text": "Code with AI",
+    "url": "https://google.github.io/adk-docs/tutorials/coding-with-ai/"
+  },
+  {
+    "text": "Agent Config",
+    "url": "https://google.github.io/adk-docs/agents/config/"
+  },
+  {
+    "text": "Agents",
+    "url": "https://google.github.io/adk-docs/agents/"
+  },
+  {
+    "text": "Simple agents",
+    "url": "https://google.github.io/adk-docs/agents/llm-agents/"
+  },
+  {
+    "text": "Managed agents",
+    "url": "https://google.github.io/adk-docs/agents/managed-agents/"
+  },
+  {
+    "text": "Graph Workflows",
+    "url": "https://google.github.io/adk-docs/graphs/"
+  },
+  {
+    "text": "Graph routes",
+    "url": "https://google.github.io/adk-docs/graphs/routes/"
+  },
+  {
+    "text": "Data handling",
+    "url": "https://google.github.io/adk-docs/graphs/data-handling/"
+  },
+  {
+    "text": "Human input",
+    "url": "https://google.github.io/adk-docs/graphs/human-input/"
+  },
+  {
+    "text": "Dynamic workflows",
+    "url": "https://google.github.io/adk-docs/graphs/dynamic/"
+  },
+  {
+    "text": "Multi-Agent Workflows",
+    "url": "https://google.github.io/adk-docs/workflows/"
+  },
+  {
+    "text": "Collaborative workflows",
+    "url": "https://google.github.io/adk-docs/workflows/collaboration/"
+  },
+  {
+    "text": "Template workflows",
+    "url": "https://google.github.io/adk-docs/agents/workflow-agents/"
+  },
+  {
+    "text": "Sequential workflow",
+    "url": "https://google.github.io/adk-docs/agents/workflow-agents/sequential-agents/"
+  },
+  {
+    "text": "Loop workflow",
+    "url": "https://google.github.io/adk-docs/agents/workflow-agents/loop-agents/"
+  },
+  {
+    "text": "Parallel workflow",
+    "url": "https://google.github.io/adk-docs/agents/workflow-agents/parallel-agents/"
+  },
+  {
+    "text": "Custom template workflows",
+    "url": "https://google.github.io/adk-docs/agents/custom-agents/"
+  },
+  {
+    "text": "Agent routing",
+    "url": "https://google.github.io/adk-docs/agents/routing/"
+  },
+  {
+    "text": "Workflow patterns",
+    "url": "https://google.github.io/adk-docs/workflows/patterns/"
+  },
+  {
+    "text": "Models for Agents",
+    "url": "https://google.github.io/adk-docs/agents/models/"
+  },
+  {
+    "text": "Gemini",
+    "url": "https://google.github.io/adk-docs/agents/models/google-gemini/"
+  },
+  {
+    "text": "Gemma",
+    "url": "https://google.github.io/adk-docs/agents/models/google-gemma/"
+  },
+  {
+    "text": "Claude",
+    "url": "https://google.github.io/adk-docs/agents/models/anthropic/"
+  },
+  {
+    "text": "Agent Platform hosted",
+    "url": "https://google.github.io/adk-docs/agents/models/agent-platform/"
+  },
+  {
+    "text": "Apigee AI Gateway",
+    "url": "https://google.github.io/adk-docs/agents/models/apigee/"
+  },
+  {
+    "text": "Model routing",
+    "url": "https://google.github.io/adk-docs/agents/models/routing/"
+  },
+  {
+    "text": "OpenAI",
+    "url": "https://google.github.io/adk-docs/agents/models/openai/"
+  },
+  {
+    "text": "Ollama",
+    "url": "https://google.github.io/adk-docs/agents/models/ollama/"
+  },
+  {
+    "text": "vLLM",
+    "url": "https://google.github.io/adk-docs/agents/models/vllm/"
+  },
+  {
+    "text": "LiteLLM",
+    "url": "https://google.github.io/adk-docs/agents/models/litellm/"
+  },
+  {
+    "text": "LiteRT-LM",
+    "url": "https://google.github.io/adk-docs/agents/models/litert-lm/"
+  },
+  {
+    "text": "Web Interface",
+    "url": "https://google.github.io/adk-docs/runtime/web-interface/"
+  },
+  {
+    "text": "Visual Builder",
+    "url": "https://google.github.io/adk-docs/visual-builder/"
+  },
+  {
+    "text": "Command Line",
+    "url": "https://google.github.io/adk-docs/runtime/command-line/"
+  },
+  {
+    "text": "API Server",
+    "url": "https://google.github.io/adk-docs/runtime/api-server/"
+  },
+  {
+    "text": "Ambient Agents",
+    "url": "https://google.github.io/adk-docs/runtime/ambient-agents/"
+  },
+  {
+    "text": "Resume Agents",
+    "url": "https://google.github.io/adk-docs/runtime/resume/"
+  },
+  {
+    "text": "Cancel Agent Runs",
+    "url": "https://google.github.io/adk-docs/runtime/cancel/"
+  },
+  {
+    "text": "Runtime Config",
+    "url": "https://google.github.io/adk-docs/runtime/runconfig/"
+  },
+  {
+    "text": "Event Loop",
+    "url": "https://google.github.io/adk-docs/runtime/event-loop/"
+  },
+  {
+    "text": "Deployment",
+    "url": "https://google.github.io/adk-docs/deploy/"
+  },
+  {
+    "text": "Agent Runtime",
+    "url": "https://google.github.io/adk-docs/deploy/agent-runtime/"
+  },
+  {
+    "text": "Standard deployment",
+    "url": "https://google.github.io/adk-docs/deploy/agent-runtime/deploy/"
+  },
+  {
+    "text": "agents-cli",
+    "url": "https://google.github.io/adk-docs/deploy/agent-runtime/agents-cli/"
+  },
+  {
+    "text": "Test deployed agents",
+    "url": "https://google.github.io/adk-docs/deploy/agent-runtime/test/"
+  },
+  {
+    "text": "Cloud Run",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/"
+  },
+  {
+    "text": "GKE",
+    "url": "https://google.github.io/adk-docs/deploy/gke/"
+  },
+  {
+    "text": "Observability",
+    "url": "https://google.github.io/adk-docs/observability/"
+  },
+  {
+    "text": "Logging",
+    "url": "https://google.github.io/adk-docs/observability/logging/"
+  },
+  {
+    "text": "Metrics",
+    "url": "https://google.github.io/adk-docs/observability/metrics/"
+  },
+  {
+    "text": "Traces",
+    "url": "https://google.github.io/adk-docs/observability/traces/"
+  },
+  {
+    "text": "Evaluation",
+    "url": "https://google.github.io/adk-docs/evaluate/"
+  },
+  {
+    "text": "Criteria",
+    "url": "https://google.github.io/adk-docs/evaluate/criteria/"
+  },
+  {
+    "text": "User Simulation",
+    "url": "https://google.github.io/adk-docs/evaluate/user-sim/"
+  },
+  {
+    "text": "Environment Simulation",
+    "url": "https://google.github.io/adk-docs/evaluate/environment_simulation/"
+  },
+  {
+    "text": "Custom Metrics",
+    "url": "https://google.github.io/adk-docs/evaluate/custom_metrics/"
+  },
+  {
+    "text": "Optimization",
+    "url": "https://google.github.io/adk-docs/optimize/"
+  },
+  {
+    "text": "Safety and Security",
+    "url": "https://google.github.io/adk-docs/safety/"
+  },
+  {
+    "text": "Custom Tools",
+    "url": "https://google.github.io/adk-docs/tools-custom/"
+  },
+  {
+    "text": "Overview",
+    "url": "https://google.github.io/adk-docs/tools-custom/function-tools/"
+  },
+  {
+    "text": "Tool performance",
+    "url": "https://google.github.io/adk-docs/tools-custom/performance/"
+  },
+  {
+    "text": "Action confirmations",
+    "url": "https://google.github.io/adk-docs/tools-custom/confirmation/"
+  },
+  {
+    "text": "MCP tools",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/"
+  },
+  {
+    "text": "OpenAPI tools",
+    "url": "https://google.github.io/adk-docs/tools-custom/openapi-tools/"
+  },
+  {
+    "text": "Authentication",
+    "url": "https://google.github.io/adk-docs/tools-custom/authentication/"
+  },
+  {
+    "text": "Tool limitations",
+    "url": "https://google.github.io/adk-docs/tools/limitations/"
+  },
+  {
+    "text": "Artifacts",
+    "url": "https://google.github.io/adk-docs/artifacts/"
+  },
+  {
+    "text": "Skills for Agents",
+    "url": "https://google.github.io/adk-docs/skills/"
+  },
+  {
+    "text": "App management",
+    "url": "https://google.github.io/adk-docs/apps/"
+  },
+  {
+    "text": "Callbacks",
+    "url": "https://google.github.io/adk-docs/callbacks/"
+  },
+  {
+    "text": "Types of callbacks",
+    "url": "https://google.github.io/adk-docs/callbacks/types-of-callbacks/"
+  },
+  {
+    "text": "Callback patterns",
+    "url": "https://google.github.io/adk-docs/callbacks/design-patterns-and-best-practices/"
+  },
+  {
+    "text": "Plugins",
+    "url": "https://google.github.io/adk-docs/plugins/"
+  },
+  {
+    "text": "Agent context",
+    "url": "https://google.github.io/adk-docs/context/"
+  },
+  {
+    "text": "Conversational context",
+    "url": "https://google.github.io/adk-docs/sessions/"
+  },
+  {
+    "text": "Sessions",
+    "url": "https://google.github.io/adk-docs/sessions/session/"
+  },
+  {
+    "text": "Rewind sessions",
+    "url": "https://google.github.io/adk-docs/sessions/session/rewind/"
+  },
+  {
+    "text": "Migrate sessions",
+    "url": "https://google.github.io/adk-docs/sessions/session/migrate/"
+  },
+  {
+    "text": "State",
+    "url": "https://google.github.io/adk-docs/sessions/state/"
+  },
+  {
+    "text": "Events",
+    "url": "https://google.github.io/adk-docs/events/"
+  },
+  {
+    "text": "Memory",
+    "url": "https://google.github.io/adk-docs/sessions/memory/"
+  },
+  {
+    "text": "Context compression",
+    "url": "https://google.github.io/adk-docs/context/compaction/"
+  },
+  {
+    "text": "Model context caching",
+    "url": "https://google.github.io/adk-docs/context/caching/"
+  },
+  {
+    "text": "MCP",
+    "url": "https://google.github.io/adk-docs/mcp/"
+  },
+  {
+    "text": "A2A Protocol",
+    "url": "https://google.github.io/adk-docs/a2a/"
+  },
+  {
+    "text": "Introduction to A2A",
+    "url": "https://google.github.io/adk-docs/a2a/intro/"
+  },
+  {
+    "text": "Python",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-exposing/"
+  },
+  {
+    "text": "Go",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-exposing-go/"
+  },
+  {
+    "text": "Java",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-exposing-java/"
+  },
+  {
+    "text": "Python",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-consuming/"
+  },
+  {
+    "text": "Go",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-consuming-go/"
+  },
+  {
+    "text": "Java",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-consuming-java/"
+  },
+  {
+    "text": "Kotlin",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-consuming-kotlin/"
+  },
+  {
+    "text": "A2A Extension",
+    "url": "https://google.github.io/adk-docs/a2a/a2a-extension/"
+  },
+  {
+    "text": "Live and Voice Agents",
+    "url": "https://google.github.io/adk-docs/live/"
+  },
+  {
+    "text": "Get started",
+    "url": "https://google.github.io/adk-docs/live/get-started/"
+  },
+  {
+    "text": "Python",
+    "url": "https://google.github.io/adk-docs/live/get-started/streaming-python/"
+  },
+  {
+    "text": "Java",
+    "url": "https://google.github.io/adk-docs/live/get-started/streaming-java/"
+  },
+  {
+    "text": "Workflows",
+    "url": "https://google.github.io/adk-docs/live/workflows/"
+  },
+  {
+    "text": "Tools",
+    "url": "https://google.github.io/adk-docs/live/tools/"
+  },
+  {
+    "text": "Sessions",
+    "url": "https://google.github.io/adk-docs/live/sessions/"
+  },
+  {
+    "text": "Events",
+    "url": "https://google.github.io/adk-docs/live/events/"
+  },
+  {
+    "text": "Audio and video",
+    "url": "https://google.github.io/adk-docs/live/audio-video/"
+  },
+  {
+    "text": "Configuration",
+    "url": "https://google.github.io/adk-docs/live/configuration/"
+  },
+  {
+    "text": "Evaluation",
+    "url": "https://google.github.io/adk-docs/live/evaluation/"
+  },
+  {
+    "text": "Build a custom server",
+    "url": "https://google.github.io/adk-docs/live/custom-server/"
+  },
+  {
+    "text": "Supported models",
+    "url": "https://google.github.io/adk-docs/live/models/"
+  },
+  {
+    "text": "Grounding",
+    "url": "https://google.github.io/adk-docs/grounding/"
+  },
+  {
+    "text": "Google Search Grounding",
+    "url": "https://google.github.io/adk-docs/grounding/google_search_grounding/"
+  },
+  {
+    "text": "Grounding with Search",
+    "url": "https://google.github.io/adk-docs/grounding/grounding_with_search/"
+  },
+  {
+    "text": "Python ADK",
+    "url": "https://google.github.io/adk-docs/api-reference/python/"
+  },
+  {
+    "text": "TypeScript ADK",
+    "url": "https://google.github.io/adk-docs/api-reference/typescript/"
+  },
+  {
+    "text": "Go v2.x",
+    "url": "https://pkg.go.dev/google.golang.org/adk/v2"
+  },
+  {
+    "text": "Go v1.x",
+    "url": "https://pkg.go.dev/google.golang.org/adk"
+  },
+  {
+    "text": "Java ADK",
+    "url": "https://google.github.io/adk-docs/api-reference/java/"
+  },
+  {
+    "text": "Kotlin ADK",
+    "url": "https://google.github.io/adk-docs/api-reference/kotlin/"
+  },
+  {
+    "text": "CLI Reference",
+    "url": "https://google.github.io/adk-docs/api-reference/cli/"
+  },
+  {
+    "text": "Agent Config Reference",
+    "url": "https://google.github.io/adk-docs/api-reference/agentconfig/"
+  },
+  {
+    "text": "REST API",
+    "url": "https://google.github.io/adk-docs/api-reference/rest/"
+  },
+  {
+    "text": "Release Notes",
+    "url": "https://google.github.io/adk-docs/release-notes/"
+  },
+  {
+    "text": "Contributing Guide",
+    "url": "https://google.github.io/adk-docs/community/contributing-guide/"
+  },
+  {
+    "text": "ADK Python 1.x compatibility",
+    "url": "https://google.github.io/adk-docs/2.0/#adk-python-1x-compatibility"
+  },
+  {
+    "text": "Event Schema & Custom Session Storage",
+    "url": "https://google.github.io/adk-docs/2.0/#event-schema-custom-session-storage"
+  },
+  {
+    "text": "Agent Execution: BaseAgent to BaseNode",
+    "url": "https://google.github.io/adk-docs/2.0/#agent-execution-baseagent-to-basenode"
+  },
+  {
+    "text": "Context & Callbacks: In-Place Mutation",
+    "url": "https://google.github.io/adk-docs/2.0/#context-callbacks-in-place-mutation"
+  },
+  {
+    "text": "Error Handling & Automatic Retries",
+    "url": "https://google.github.io/adk-docs/2.0/#error-handling-automatic-retries"
+  },
+  {
+    "text": "Installing ADK Python 1.x",
+    "url": "https://google.github.io/adk-docs/2.0/#install"
+  },
+  {
+    "text": "ADK TypeScript 1.x compatibility",
+    "url": "https://google.github.io/adk-docs/2.0/#adk-typescript-1x-compatibility"
+  },
+  {
+    "text": "Event Schema & Custom Session Storage",
+    "url": "https://google.github.io/adk-docs/2.0/#event-schema-custom-session-storage_1"
+  },
+  {
+    "text": "Agent Execution: BaseAgent extends BaseNode",
+    "url": "https://google.github.io/adk-docs/2.0/#agent-execution-baseagent-extends-basenode"
+  },
+  {
+    "text": "Context: InvocationContext.agent is optional",
+    "url": "https://google.github.io/adk-docs/2.0/#context-invocationcontextagent-is-optional"
+  },
+  {
+    "text": "Deprecated: SequentialAgent, ParallelAgent, and LoopAgent",
+    "url": "https://google.github.io/adk-docs/2.0/#deprecated-sequentialagent-parallelagent-and-loopagent"
+  },
+  {
+    "text": "Installing ADK TypeScript 1.x",
+    "url": "https://google.github.io/adk-docs/2.0/#install-ts"
+  },
+  {
+    "text": "ADK Go 1.x compatibility",
+    "url": "https://google.github.io/adk-docs/2.0/#adk-go-1x-compatibility"
+  },
+  {
+    "text": "Module import path",
+    "url": "https://google.github.io/adk-docs/2.0/#module-import-path"
+  },
+  {
+    "text": "Agent Execution: Agent interface changes",
+    "url": "https://google.github.io/adk-docs/2.0/#agent-execution-agent-interface-changes"
+  },
+  {
+    "text": "Event Construction: session.NewEvent signature change",
+    "url": "https://google.github.io/adk-docs/2.0/#event-construction-sessionnewevent-signature-change"
+  },
+  {
+    "text": "Event Schema & Custom Session Storage",
+    "url": "https://google.github.io/adk-docs/2.0/#event-schema-custom-session-storage_2"
+  },
+  {
+    "text": "Installing ADK Go 1.x",
+    "url": "https://google.github.io/adk-docs/2.0/#install-go"
+  },
+  {
+    "text": "Next steps",
+    "url": "https://google.github.io/adk-docs/2.0/#next-steps"
+  },
+  {
+    "text": "",
+    "url": "https://github.com/google/adk-docs/edit/main/docs/2.0/index.md"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/index.md"
+  },
+  {
+    "text": "Graph-based workflows",
+    "url": "https://google.github.io/graphs/"
+  },
+  {
+    "text": "Dynamic workflows",
+    "url": "https://google.github.io/graphs/dynamic/"
+  },
+  {
+    "text": "Collaborative workflows",
+    "url": "https://google.github.io/workflows/collaboration/"
+  },
+  {
+    "text": "issue tracker",
+    "url": "https://github.com/google/adk-python/issues/new?template=bug_report.md&labels=v2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/#__codelineno-0-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/#__codelineno-1-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/#__codelineno-2-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/#__codelineno-3-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/#__codelineno-4-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/#__codelineno-5-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/#__codelineno-5-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/#__codelineno-5-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/#__codelineno-5-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/#__codelineno-5-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/#__codelineno-5-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/#__codelineno-5-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/#__codelineno-5-8"
+  },
+  {
+    "text": "issue tracker",
+    "url": "https://github.com/google/adk-js/issues/new?template=bug_report.md&labels=v2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/#__codelineno-6-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/#__codelineno-7-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/#__codelineno-7-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/#__codelineno-7-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/#__codelineno-7-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/#__codelineno-7-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/#__codelineno-7-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/#__codelineno-7-7"
+  },
+  {
+    "text": "issue tracker",
+    "url": "https://github.com/google/adk-go/issues/new?template=bug_report.md&labels=v2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/2.0/#__codelineno-8-1"
+  },
+  {
+    "text": "Workflow samples",
+    "url": "https://github.com/google/adk-python/tree/main/contributing/samples/workflows"
+  },
+  {
+    "text": "Collaborative task samples",
+    "url": "https://github.com/google/adk-python/tree/main/contributing/samples/multi_agent"
+  },
+  {
+    "text": "Workflow samples",
+    "url": "https://github.com/google/adk-js/tree/main/samples/workflows"
+  },
+  {
+    "text": "All workflow agents samples",
+    "url": "https://github.com/google/adk-go/tree/main/examples/workflow"
+  },
+  {
+    "text": "Collaborative task sample",
+    "url": "https://github.com/google/adk-go/tree/main/examples/multiagent/collaboration"
+  },
+  {
+    "text": "ADK Go",
+    "url": "https://github.com/google/adk-go/issues/new"
+  },
+  {
+    "text": "ADK TypeScript",
+    "url": "https://github.com/google/adk-js/issues/new"
+  },
+  {
+    "text": "ADK Python",
+    "url": "https://github.com/google/adk-python/issues/new"
+  },
+  {
+    "text": "License",
+    "url": "https://github.com/google/adk-docs/blob/main/LICENSE"
+  },
+  {
+    "text": "Privacy",
+    "url": "https://policies.google.com/privacy"
+  },
+  {
+    "text": "Manage cookies",
+    "url": "https://google.github.io/adk-docs/2.0/#__consent"
+  },
+  {
+    "text": "Material for MkDocs",
+    "url": "https://squidfunk.github.io/mkdocs-material/"
+  }
+]

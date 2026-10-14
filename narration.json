@@ -1,0 +1,327 @@
+{
+  "language": "en-IN",
+  "speaker": "priya",
+  "model": "bulbul:v3",
+  "lines": [
+    {
+      "id": "c01-b01",
+      "scene": "chapter-01",
+      "text": "An agent framework is not a chatbot wrapper; it is a managed, repeatable task runtime."
+    },
+    {
+      "id": "c01-b02",
+      "scene": "chapter-01",
+      "text": "Google Agent Development Kit is an open-source framework for building, debugging, and deploying production agents."
+    },
+    {
+      "id": "c01-b03",
+      "scene": "chapter-01",
+      "text": "ADK is available in Python, TypeScript, Go, Java, and Kotlin."
+    },
+    {
+      "id": "c01-b04",
+      "scene": "chapter-01",
+      "text": "The homepage positioning is explicit: build production agents, not prototypes."
+    },
+    {
+      "id": "c01-b05",
+      "scene": "chapter-01",
+      "text": "You can start with a prompt and tools, then grow into multi-agent orchestration and graph workflows."
+    },
+    {
+      "id": "c01-b06",
+      "scene": "chapter-01",
+      "text": "ADK is designed to be written by both humans and AI coding assistants."
+    },
+    {
+      "id": "c01-b07",
+      "scene": "chapter-01",
+      "text": "The kit works with Gemini and many other models, including hosted and local options."
+    },
+    {
+      "id": "c01-b08",
+      "scene": "chapter-01",
+      "text": "Context is treated like source code: sessions, memory, tools, and artifacts are assembled, not pasted until overflow."
+    },
+    {
+      "id": "c02-b01",
+      "scene": "chapter-02",
+      "text": "The fundamental worker is an Agent, usually an LlmAgent for reasoning, or a workflow agent for deterministic control."
+    },
+    {
+      "id": "c02-b02",
+      "scene": "chapter-02",
+      "text": "A Tool gives the agent abilities beyond conversation: APIs, search, code, and other services."
+    },
+    {
+      "id": "c02-b03",
+      "scene": "chapter-02",
+      "text": "Callbacks run at defined points so you can inspect, log, or change behavior without rewriting the agent core."
+    },
+    {
+      "id": "c02-b04",
+      "scene": "chapter-02",
+      "text": "A Session holds one conversation thread: events, history, and working State."
+    },
+    {
+      "id": "c02-b05",
+      "scene": "chapter-02",
+      "text": "Memory is long-term knowledge across sessions, distinct from short-term session State."
+    },
+    {
+      "id": "c02-b06",
+      "scene": "chapter-02",
+      "text": "Artifacts let agents save and load files or binary data associated with a session or user."
+    },
+    {
+      "id": "c02-b07",
+      "scene": "chapter-02",
+      "text": "An Event is the unit of communication: user message, agent reply, or tool use."
+    },
+    {
+      "id": "c02-b08",
+      "scene": "chapter-02",
+      "text": "The Runner is the engine that orchestrates execution from events and coordinates backend services."
+    },
+    {
+      "id": "c03-b01",
+      "scene": "chapter-03",
+      "text": "Python ADK requires Python 3.10 or later, then pip install google-adk."
+    },
+    {
+      "id": "c03-b02",
+      "scene": "chapter-03",
+      "text": "adk create scaffolds a project with agent.py, a dotenv file, and package init."
+    },
+    {
+      "id": "c03-b03",
+      "scene": "chapter-03",
+      "text": "The only required element is a root_agent definition in agent.py."
+    },
+    {
+      "id": "c03-b04",
+      "scene": "chapter-03",
+      "text": "A first agent can be a Gemini model, an instruction, and one Python function used as a tool."
+    },
+    {
+      "id": "c03-b05",
+      "scene": "chapter-03",
+      "text": "Gemini API use needs GOOGLE_API_KEY in the environment, never committed to source control."
+    },
+    {
+      "id": "c03-b06",
+      "scene": "chapter-03",
+      "text": "adk run starts an interactive command-line session against your agent folder."
+    },
+    {
+      "id": "c03-b07",
+      "scene": "chapter-03",
+      "text": "adk web starts a local chat UI, typically on port 8000, launched from the parent folder."
+    },
+    {
+      "id": "c03-b08",
+      "scene": "chapter-03",
+      "text": "The documentation warns that ADK Web is for development and debugging, not production deployments."
+    },
+    {
+      "id": "c04-b01",
+      "scene": "chapter-04",
+      "text": "A tool is developer-defined logic. It does not reason on its own; the model chooses when to call it."
+    },
+    {
+      "id": "c04-b02",
+      "scene": "chapter-04",
+      "text": "The loop is reason, select, invoke with arguments, then fold the result back into the next step."
+    },
+    {
+      "id": "c04-b03",
+      "scene": "chapter-04",
+      "text": "Function tools wrap ordinary functions. Clear names and docstrings drive tool selection."
+    },
+    {
+      "id": "c04-b04",
+      "scene": "chapter-04",
+      "text": "You can also wrap another agent as AgentTool, or connect MCP and OpenAPI surfaces."
+    },
+    {
+      "id": "c04-b05",
+      "scene": "chapter-04",
+      "text": "Long-running tools exist for asynchronous work that should not block the whole turn."
+    },
+    {
+      "id": "c04-b06",
+      "scene": "chapter-04",
+      "text": "Action confirmations let you gate dangerous tool calls before they execute."
+    },
+    {
+      "id": "c04-b07",
+      "scene": "chapter-04",
+      "text": "Agent Skills package instructions, resources, and tools, loaded on demand to protect the context window."
+    },
+    {
+      "id": "c04-b08",
+      "scene": "chapter-04",
+      "text": "The Skills feature is experimental; treat it as evolving, not as a frozen contract."
+    },
+    {
+      "id": "c05-b01",
+      "scene": "chapter-05",
+      "text": "A workflow begins when more than one agent or executable node must cooperate."
+    },
+    {
+      "id": "c05-b02",
+      "scene": "chapter-05",
+      "text": "Split when instructions get unreliable, context overflows, or you need reusable modules."
+    },
+    {
+      "id": "c05-b03",
+      "scene": "chapter-05",
+      "text": "Template workflow agents are Sequential, Parallel, and Loop. They orchestrate without asking a model how to route."
+    },
+    {
+      "id": "c05-b04",
+      "scene": "chapter-05",
+      "text": "ADK 2.0 adds graph-based workflows: nodes and edges with explicit routing for deterministic control."
+    },
+    {
+      "id": "c05-b05",
+      "scene": "chapter-05",
+      "text": "Dynamic workflows use your own code for loops, branching, and recursion that a static graph cannot express cleanly."
+    },
+    {
+      "id": "c05-b06",
+      "scene": "chapter-05",
+      "text": "Collaborative workflows use coordinator agents and sub-agents working together."
+    },
+    {
+      "id": "c05-b07",
+      "scene": "chapter-05",
+      "text": "Python ADK 2.0 reached general availability on 19 May 2026."
+    },
+    {
+      "id": "c05-b08",
+      "scene": "chapter-05",
+      "text": "Agents, tools, and functions become nodes in the workflow graph; review breaking changes before you upgrade 1.x apps."
+    },
+    {
+      "id": "c06-b01",
+      "scene": "chapter-06",
+      "text": "Context is the bundle of state, artifacts, memory, and credentials available during one invocation."
+    },
+    {
+      "id": "c06-b02",
+      "scene": "chapter-06",
+      "text": "The framework creates InvocationContext. You rarely construct it by hand."
+    },
+    {
+      "id": "c06-b03",
+      "scene": "chapter-06",
+      "text": "Session history and State cover the current thread only, such as a cart in this chat."
+    },
+    {
+      "id": "c06-b04",
+      "scene": "chapter-06",
+      "text": "Memory is a searchable archive across past sessions or external knowledge."
+    },
+    {
+      "id": "c06-b05",
+      "scene": "chapter-06",
+      "text": "Memory services can ingest a session, append a delta, add facts, and search. Not every backend implements every method."
+    },
+    {
+      "id": "c06-b06",
+      "scene": "chapter-06",
+      "text": "In-memory session and memory implementations are for local testing, not production durability."
+    },
+    {
+      "id": "c06-b07",
+      "scene": "chapter-06",
+      "text": "ADK can filter irrelevant events, summarize older turns, lazy-load artifacts, and track token use."
+    },
+    {
+      "id": "c06-b08",
+      "scene": "chapter-06",
+      "text": "Treat context like source code: every token should earn its place."
+    },
+    {
+      "id": "c07-b01",
+      "scene": "chapter-07",
+      "text": "Development runtimes include the CLI, the web UI, an API server, and ambient event-driven agents."
+    },
+    {
+      "id": "c07-b02",
+      "scene": "chapter-07",
+      "text": "The event loop is a yield, pause, and resume cycle, not a single blocking script."
+    },
+    {
+      "id": "c07-b03",
+      "scene": "chapter-07",
+      "text": "You can resume and cancel runs; design long jobs so interruption is recoverable."
+    },
+    {
+      "id": "c07-b04",
+      "scene": "chapter-07",
+      "text": "Deploy to Agent Runtime for a managed agent service, Cloud Run for containers, or GKE for Kubernetes control."
+    },
+    {
+      "id": "c07-b05",
+      "scene": "chapter-07",
+      "text": "You can also containerize and run anywhere Docker or Podman can run, including offline hosts."
+    },
+    {
+      "id": "c07-b06",
+      "scene": "chapter-07",
+      "text": "Agent evaluation scores both the final answer and the trajectory of tool steps."
+    },
+    {
+      "id": "c07-b07",
+      "scene": "chapter-07",
+      "text": "Compare expected steps such as determine intent, use tool, review results, then generate the report."
+    },
+    {
+      "id": "c07-b08",
+      "scene": "chapter-07",
+      "text": "If you intend to leave the prototype stage, automated evaluation is a documented best practice, not optional polish."
+    },
+    {
+      "id": "c08-b01",
+      "scene": "chapter-08",
+      "text": "Uncontrolled agents can take misaligned actions, including data exfiltration."
+    },
+    {
+      "id": "c08-b02",
+      "scene": "chapter-08",
+      "text": "Control identity: decide whether the agent acts as itself or as the user."
+    },
+    {
+      "id": "c08-b03",
+      "scene": "chapter-08",
+      "text": "Use input and output guardrails, in-tool policies, callbacks, plugins, and Gemini content filters."
+    },
+    {
+      "id": "c08-b04",
+      "scene": "chapter-08",
+      "text": "Sandbox model-generated code, and confine cloud activity with network controls such as VPC Service Controls."
+    },
+    {
+      "id": "c08-b05",
+      "scene": "chapter-08",
+      "text": "Local sub-agents organize code in-process. Remote A2A agents are separate services on a network."
+    },
+    {
+      "id": "c08-b06",
+      "scene": "chapter-08",
+      "text": "Use A2A when languages, teams, or standalone services must share a formal agent contract."
+    },
+    {
+      "id": "c08-b07",
+      "scene": "chapter-08",
+      "text": "Do not use ADK Web in production. Authenticate to Google Cloud with ADC or a service account, never committed keys."
+    },
+    {
+      "id": "c08-b08",
+      "scene": "chapter-08",
+      "text": "Start with one LlmAgent and one tool, measure the trajectory, then add graphs, memory, and deployment from evidence."
+    }
+  ]
+}

@@ -1,0 +1,966 @@
+{
+  "endpoint": "https://api.sarvam.ai/text-to-speech",
+  "line_count": 64,
+  "requests": [
+    {
+      "id": "c01-b01",
+      "scene": "chapter-01",
+      "body": {
+        "inputs": [
+          "An agent framework is not a chatbot wrapper; it is a managed, repeatable task runtime."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c01-b02",
+      "scene": "chapter-01",
+      "body": {
+        "inputs": [
+          "Google Agent Development Kit is an open-source framework for building, debugging, and deploying production agents."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c01-b03",
+      "scene": "chapter-01",
+      "body": {
+        "inputs": [
+          "ADK is available in Python, TypeScript, Go, Java, and Kotlin."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c01-b04",
+      "scene": "chapter-01",
+      "body": {
+        "inputs": [
+          "The homepage positioning is explicit: build production agents, not prototypes."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c01-b05",
+      "scene": "chapter-01",
+      "body": {
+        "inputs": [
+          "You can start with a prompt and tools, then grow into multi-agent orchestration and graph workflows."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c01-b06",
+      "scene": "chapter-01",
+      "body": {
+        "inputs": [
+          "ADK is designed to be written by both humans and AI coding assistants."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c01-b07",
+      "scene": "chapter-01",
+      "body": {
+        "inputs": [
+          "The kit works with Gemini and many other models, including hosted and local options."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c01-b08",
+      "scene": "chapter-01",
+      "body": {
+        "inputs": [
+          "Context is treated like source code: sessions, memory, tools, and artifacts are assembled, not pasted until overflow."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c02-b01",
+      "scene": "chapter-02",
+      "body": {
+        "inputs": [
+          "The fundamental worker is an Agent, usually an LlmAgent for reasoning, or a workflow agent for deterministic control."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c02-b02",
+      "scene": "chapter-02",
+      "body": {
+        "inputs": [
+          "A Tool gives the agent abilities beyond conversation: APIs, search, code, and other services."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c02-b03",
+      "scene": "chapter-02",
+      "body": {
+        "inputs": [
+          "Callbacks run at defined points so you can inspect, log, or change behavior without rewriting the agent core."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c02-b04",
+      "scene": "chapter-02",
+      "body": {
+        "inputs": [
+          "A Session holds one conversation thread: events, history, and working State."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c02-b05",
+      "scene": "chapter-02",
+      "body": {
+        "inputs": [
+          "Memory is long-term knowledge across sessions, distinct from short-term session State."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c02-b06",
+      "scene": "chapter-02",
+      "body": {
+        "inputs": [
+          "Artifacts let agents save and load files or binary data associated with a session or user."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c02-b07",
+      "scene": "chapter-02",
+      "body": {
+        "inputs": [
+          "An Event is the unit of communication: user message, agent reply, or tool use."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c02-b08",
+      "scene": "chapter-02",
+      "body": {
+        "inputs": [
+          "The Runner is the engine that orchestrates execution from events and coordinates backend services."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c03-b01",
+      "scene": "chapter-03",
+      "body": {
+        "inputs": [
+          "Python ADK requires Python 3.10 or later, then pip install google-adk."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c03-b02",
+      "scene": "chapter-03",
+      "body": {
+        "inputs": [
+          "adk create scaffolds a project with agent.py, a dotenv file, and package init."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c03-b03",
+      "scene": "chapter-03",
+      "body": {
+        "inputs": [
+          "The only required element is a root_agent definition in agent.py."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c03-b04",
+      "scene": "chapter-03",
+      "body": {
+        "inputs": [
+          "A first agent can be a Gemini model, an instruction, and one Python function used as a tool."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c03-b05",
+      "scene": "chapter-03",
+      "body": {
+        "inputs": [
+          "Gemini API use needs GOOGLE_API_KEY in the environment, never committed to source control."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c03-b06",
+      "scene": "chapter-03",
+      "body": {
+        "inputs": [
+          "adk run starts an interactive command-line session against your agent folder."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c03-b07",
+      "scene": "chapter-03",
+      "body": {
+        "inputs": [
+          "adk web starts a local chat UI, typically on port 8000, launched from the parent folder."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c03-b08",
+      "scene": "chapter-03",
+      "body": {
+        "inputs": [
+          "The documentation warns that ADK Web is for development and debugging, not production deployments."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c04-b01",
+      "scene": "chapter-04",
+      "body": {
+        "inputs": [
+          "A tool is developer-defined logic. It does not reason on its own; the model chooses when to call it."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c04-b02",
+      "scene": "chapter-04",
+      "body": {
+        "inputs": [
+          "The loop is reason, select, invoke with arguments, then fold the result back into the next step."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c04-b03",
+      "scene": "chapter-04",
+      "body": {
+        "inputs": [
+          "Function tools wrap ordinary functions. Clear names and docstrings drive tool selection."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c04-b04",
+      "scene": "chapter-04",
+      "body": {
+        "inputs": [
+          "You can also wrap another agent as AgentTool, or connect MCP and OpenAPI surfaces."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c04-b05",
+      "scene": "chapter-04",
+      "body": {
+        "inputs": [
+          "Long-running tools exist for asynchronous work that should not block the whole turn."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c04-b06",
+      "scene": "chapter-04",
+      "body": {
+        "inputs": [
+          "Action confirmations let you gate dangerous tool calls before they execute."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c04-b07",
+      "scene": "chapter-04",
+      "body": {
+        "inputs": [
+          "Agent Skills package instructions, resources, and tools, loaded on demand to protect the context window."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c04-b08",
+      "scene": "chapter-04",
+      "body": {
+        "inputs": [
+          "The Skills feature is experimental; treat it as evolving, not as a frozen contract."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c05-b01",
+      "scene": "chapter-05",
+      "body": {
+        "inputs": [
+          "A workflow begins when more than one agent or executable node must cooperate."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c05-b02",
+      "scene": "chapter-05",
+      "body": {
+        "inputs": [
+          "Split when instructions get unreliable, context overflows, or you need reusable modules."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c05-b03",
+      "scene": "chapter-05",
+      "body": {
+        "inputs": [
+          "Template workflow agents are Sequential, Parallel, and Loop. They orchestrate without asking a model how to route."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c05-b04",
+      "scene": "chapter-05",
+      "body": {
+        "inputs": [
+          "ADK 2.0 adds graph-based workflows: nodes and edges with explicit routing for deterministic control."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c05-b05",
+      "scene": "chapter-05",
+      "body": {
+        "inputs": [
+          "Dynamic workflows use your own code for loops, branching, and recursion that a static graph cannot express cleanly."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c05-b06",
+      "scene": "chapter-05",
+      "body": {
+        "inputs": [
+          "Collaborative workflows use coordinator agents and sub-agents working together."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c05-b07",
+      "scene": "chapter-05",
+      "body": {
+        "inputs": [
+          "Python ADK 2.0 reached general availability on 19 May 2026."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c05-b08",
+      "scene": "chapter-05",
+      "body": {
+        "inputs": [
+          "Agents, tools, and functions become nodes in the workflow graph; review breaking changes before you upgrade 1.x apps."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c06-b01",
+      "scene": "chapter-06",
+      "body": {
+        "inputs": [
+          "Context is the bundle of state, artifacts, memory, and credentials available during one invocation."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c06-b02",
+      "scene": "chapter-06",
+      "body": {
+        "inputs": [
+          "The framework creates InvocationContext. You rarely construct it by hand."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c06-b03",
+      "scene": "chapter-06",
+      "body": {
+        "inputs": [
+          "Session history and State cover the current thread only, such as a cart in this chat."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c06-b04",
+      "scene": "chapter-06",
+      "body": {
+        "inputs": [
+          "Memory is a searchable archive across past sessions or external knowledge."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c06-b05",
+      "scene": "chapter-06",
+      "body": {
+        "inputs": [
+          "Memory services can ingest a session, append a delta, add facts, and search. Not every backend implements every method."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c06-b06",
+      "scene": "chapter-06",
+      "body": {
+        "inputs": [
+          "In-memory session and memory implementations are for local testing, not production durability."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c06-b07",
+      "scene": "chapter-06",
+      "body": {
+        "inputs": [
+          "ADK can filter irrelevant events, summarize older turns, lazy-load artifacts, and track token use."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c06-b08",
+      "scene": "chapter-06",
+      "body": {
+        "inputs": [
+          "Treat context like source code: every token should earn its place."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c07-b01",
+      "scene": "chapter-07",
+      "body": {
+        "inputs": [
+          "Development runtimes include the CLI, the web UI, an API server, and ambient event-driven agents."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c07-b02",
+      "scene": "chapter-07",
+      "body": {
+        "inputs": [
+          "The event loop is a yield, pause, and resume cycle, not a single blocking script."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c07-b03",
+      "scene": "chapter-07",
+      "body": {
+        "inputs": [
+          "You can resume and cancel runs; design long jobs so interruption is recoverable."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c07-b04",
+      "scene": "chapter-07",
+      "body": {
+        "inputs": [
+          "Deploy to Agent Runtime for a managed agent service, Cloud Run for containers, or GKE for Kubernetes control."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c07-b05",
+      "scene": "chapter-07",
+      "body": {
+        "inputs": [
+          "You can also containerize and run anywhere Docker or Podman can run, including offline hosts."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c07-b06",
+      "scene": "chapter-07",
+      "body": {
+        "inputs": [
+          "Agent evaluation scores both the final answer and the trajectory of tool steps."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c07-b07",
+      "scene": "chapter-07",
+      "body": {
+        "inputs": [
+          "Compare expected steps such as determine intent, use tool, review results, then generate the report."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c07-b08",
+      "scene": "chapter-07",
+      "body": {
+        "inputs": [
+          "If you intend to leave the prototype stage, automated evaluation is a documented best practice, not optional polish."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c08-b01",
+      "scene": "chapter-08",
+      "body": {
+        "inputs": [
+          "Uncontrolled agents can take misaligned actions, including data exfiltration."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c08-b02",
+      "scene": "chapter-08",
+      "body": {
+        "inputs": [
+          "Control identity: decide whether the agent acts as itself or as the user."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c08-b03",
+      "scene": "chapter-08",
+      "body": {
+        "inputs": [
+          "Use input and output guardrails, in-tool policies, callbacks, plugins, and Gemini content filters."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c08-b04",
+      "scene": "chapter-08",
+      "body": {
+        "inputs": [
+          "Sandbox model-generated code, and confine cloud activity with network controls such as VPC Service Controls."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c08-b05",
+      "scene": "chapter-08",
+      "body": {
+        "inputs": [
+          "Local sub-agents organize code in-process. Remote A2A agents are separate services on a network."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c08-b06",
+      "scene": "chapter-08",
+      "body": {
+        "inputs": [
+          "Use A2A when languages, teams, or standalone services must share a formal agent contract."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c08-b07",
+      "scene": "chapter-08",
+      "body": {
+        "inputs": [
+          "Do not use ADK Web in production. Authenticate to Google Cloud with ADC or a service account, never committed keys."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    },
+    {
+      "id": "c08-b08",
+      "scene": "chapter-08",
+      "body": {
+        "inputs": [
+          "Start with one LlmAgent and one tool, measure the trajectory, then add graphs, memory, and deployment from evidence."
+        ],
+        "target_language_code": "en-IN",
+        "speaker": "priya",
+        "model": "bulbul:v3",
+        "speech_sample_rate": 48000,
+        "pace": 0.95,
+        "enable_preprocessing": true
+      }
+    }
+  ]
+}

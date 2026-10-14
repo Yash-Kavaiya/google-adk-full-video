@@ -1,0 +1,93 @@
+\documentclass[aspectratio=169,11pt,t]{beamer}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\IfFileExists{lmodern.sty}
+  {\usepackage{lmodern}\usepackage{microtype}}
+  {\usepackage{anyfontsize}\usepackage[expansion=false]{microtype}}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning}
+\usepackage{amsmath,amssymb}
+
+\usetheme[palette=google,progressbar=true,sectionslide=true,counter=frac]{Triad}
+\usepackage{triadgraphics}
+
+\title[Google ADK]{Google Agent Development Kit}
+\subtitle{Build, run, evaluate, and deploy production agents}
+\author[GEN AI GURU]{GEN AI GURU}
+\institute[Independent explainer]{Independent educational explainer}
+\date{Documentation checked 3 September 2026}
+
+\newcommand{\sourceids}[1]{\par\vspace{0.25em}{\scriptsize\color{triadMuted}Official ADK sources: #1}}
+
+\begin{document}
+
+\begin{frame}[plain,noframenumbering]
+  \titlepage
+\end{frame}
+
+\begin{frame}{ADK is an open-source production agent framework}
+  \triadlead{Build production agents, not prototypes, across five official language SDKs.}
+  \begin{itemize}
+    \item Python, TypeScript, Go, Java, and Kotlin.
+    \item Start with a prompt and tools, then grow into graphs and multi-agent workflows.
+    \item Context is assembled like source code, not pasted until overflow.
+  \end{itemize}
+  \sourceids{[1] [2]}
+\end{frame}
+
+\begin{frame}{Eight primitives define the runtime}
+  \begin{itemize}
+    \item Agent: LlmAgent for reasoning, or workflow agents for deterministic control.
+    \item Tool, Callback, Session, State, Memory, Artifact, Event, Runner.
+  \end{itemize}
+  \triadtakeaway{Session State is this conversation. Memory is the long-term archive.}
+  \sourceids{[2] [6] [7]}
+\end{frame}
+
+\begin{frame}{Python path: install, scaffold, run}
+  \begin{itemize}
+    \item Python 3.10+ and \texttt{pip install google-adk}.
+    \item \texttt{adk create} writes \texttt{agent.py} with a required \texttt{root\_agent}.
+    \item \texttt{adk run} for CLI. \texttt{adk web} for a local chat UI.
+    \item ADK Web is documented as development-only, not production.
+  \end{itemize}
+  \sourceids{[3]}
+\end{frame}
+
+\begin{frame}{Tools execute. Models reason.}
+  \begin{itemize}
+    \item Function tools wrap developer code. Docstrings drive selection.
+    \item MCP, OpenAPI, and AgentTool extend the surface.
+    \item Confirm dangerous actions. Keep long-running work asynchronous.
+    \item Skills load instructions on demand; the feature is experimental.
+  \end{itemize}
+  \sourceids{[5] [17]}
+\end{frame}
+
+\begin{frame}{Workflows and ADK 2.0 graphs}
+  \begin{itemize}
+    \item Sequential, Parallel, and Loop agents orchestrate without asking a model to route.
+    \item Graphs add nodes, edges, and explicit routing.
+    \item Python ADK 2.0 GA: 19 May 2026. Review breaking changes before upgrading 1.x.
+  \end{itemize}
+  \sourceids{[4] [11] [12] [14]}
+\end{frame}
+
+\begin{frame}{Deploy, evaluate, then govern}
+  \begin{itemize}
+    \item Agent Runtime, Cloud Run, GKE, or any container host.
+    \item Score both the final answer and the tool trajectory.
+    \item Identity, guardrails, sandboxes, VPC-SC, and A2A for remote contracts.
+  \end{itemize}
+  \triadtakeaway{Pilot one LlmAgent and one tool. Expand from measured trajectories.}
+  \sourceids{[9] [10] [13] [16]}
+\end{frame}
+
+\begin{frame}[plain,noframenumbering]
+  \triadstatement[Pilot one agent. Measure the path. Then add graphs, memory, and deployment.]{Trusted agents are designed, evaluated, and governed.}
+\end{frame}
+
+\end{document}

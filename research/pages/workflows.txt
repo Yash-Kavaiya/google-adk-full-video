@@ -1,0 +1,172 @@
+Home
+Build Agents Build Agents
+Get Started Get Started
+Python
+TypeScript
+Go
+Java
+Kotlin
+Agents CLI
+Installation
+Google Cloud
+Build your Agent Build your Agent
+Multi-tool agent
+Agent team
+Code with AI
+Agent Config
+Agents Agents
+Simple agents
+Managed agents
+Graph Workflows Graph Workflows
+Graph routes
+Data handling
+Human input
+Dynamic workflows
+Multi-Agent Workflows Multi-Agent Workflows
+Collaborative workflows
+Template workflows Template workflows
+Sequential workflow
+Loop workflow
+Parallel workflow
+Custom template workflows
+Agent routing
+Workflow patterns
+Models for Agents Models for Agents
+Gemini
+Gemma
+Claude
+Agent Platform hosted
+Apigee AI Gateway
+Model routing
+OpenAI
+Ollama
+vLLM
+LiteLLM
+LiteRT-LM
+Run Agents Run Agents
+Agent Runtime Agent Runtime
+Web Interface Web Interface
+Visual Builder
+Command Line
+API Server
+Ambient Agents
+Resume Agents
+Cancel Agent Runs
+Runtime Config
+Event Loop
+Deployment Deployment
+Agent Runtime Agent Runtime
+Standard deployment
+agents-cli
+Test deployed agents
+Cloud Run
+GKE
+Observability Observability
+Logging
+Metrics
+Traces
+Evaluation Evaluation
+Criteria
+User Simulation
+Environment Simulation
+Custom Metrics
+Optimization
+Safety and Security Safety and Security
+Components Components
+Technical Overview
+Custom Tools Custom Tools
+Function tools Function tools
+Overview
+Tool performance
+Action confirmations
+MCP tools
+OpenAPI tools
+Authentication
+Tool limitations
+Artifacts Artifacts
+Skills for Agents Skills for Agents
+App management App management
+Callbacks Callbacks
+Types of callbacks
+Callback patterns
+Plugins
+Agent context Agent context
+Conversational context
+Sessions Sessions
+Rewind sessions
+Migrate sessions
+State
+Events
+Memory
+Context compression
+Model context caching
+MCP MCP
+A2A Protocol A2A Protocol
+Introduction to A2A
+A2A Quickstart (Exposing) A2A Quickstart (Exposing)
+Python
+Go
+Java
+A2A Quickstart (Consuming) A2A Quickstart (Consuming)
+Python
+Go
+Java
+Kotlin
+A2A Extension
+Live and Voice Agents Live and Voice Agents
+Get started Get started
+Python
+Java
+Building Building
+Workflows
+Tools
+Sessions
+Events
+Audio and video
+Configuration
+Production Production
+Evaluation
+Build a custom server
+Supported models
+Grounding Grounding
+Google Search Grounding
+Grounding with Search
+Integrations Integrations
+Reference Reference
+API Reference API Reference
+Python ADK
+TypeScript ADK
+Go ADK Go ADK
+Go v2.x
+Go v1.x
+Java ADK
+Kotlin ADK
+CLI Reference
+Agent Config Reference
+REST API
+Release Notes
+Community Community
+Contributing Guide
+ADK 2.0 ADK 2.0
+Home
+Build Agents
+Multi-Agent Workflows
+Workflows: multi-agent, multi-node applications ¶
+As agentic applications grow in complexity, structuring them as a single, monolithic agent can become challenging to develop, evaluate, and maintain. Agent Development Kit (ADK) supports building sophisticated agent applications by composing multiple agents and executable nodes into agent workflows . Structuring agents using multiple elements can provide a number of benefits as your agent applications grow more complex and sophisticated:
+Predictability: Create more controlled task execution flow using templated logic or graph-based execution mechanisms.
+Reliability: Ensure tasks run in the required order or pattern consistently.
+Structure: Build complex processes more manageably by composing agents elements, separating task responsibilities, and limiting data contexts for given tasks.
+Workflows can be built using several structures and architectures, as illustrated in the following diagram:
+Figure 1. ADK workflows can have flexible execution paths, or follow specific, templated execution patterns.
+The following is a quick guide to the multiple methods for building workflows for your agent application with ADK:
+Graph-based workflows: (ADK 2.0 and higher) This workflow type allows you to compose both AI-powered agents and deterministic execution nodes into a flexible execution graph that can include decision branching.
+Dynamic workflows: (ADK 2.0 and higher) This workflow type allows you to compose AI-powered agents and deterministic execution nodes using full programmatic code logic.
+Collaborative workflows: (ADK 2.0 and higher) This workflow type allows a single agent to act in a dynamic coordinator role to accomplish tasks with a set of specified sub-agents.
+Template workflows: These pre-built workflows are extended from BaseAgent and provide fixed execution logic structures including sequences, loops, and parallel execution.
+Follow the links provide above for more information about each type of ADK workflow architecture.
+Experimental: Agent Routing
+Agent Routing is an experimental feature that allows you to select between multiple agents at runtime using router functions for fallback, A/B testing, and auto-routing. For more information, see Agent Routing .
+Cookie consent
+We use cookies to recognize repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find the information they need. With your consent, you're helping us to make our documentation better.
+Google Analytics
+GitHub

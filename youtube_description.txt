@@ -1,0 +1,50 @@
+A chatbot wrapper is not an agent runtime. Google Agent Development Kit is the open-source framework for building, debugging, evaluating, and deploying production agents.
+
+This independent GEN AI GURU explainer is a complete ADK walkthrough: 7 minutes 29 seconds, 1920x1080, 30 fps, H.264 video with AAC 48 kHz narration. Voice is Sarvam Bulbul v3, speaker priya, English India. Captions ship as a separate SRT. This is not a Google-endorsed product demo.
+
+WHAT THIS VIDEO IS
+Agent Development Kit (ADK) is Google's open-source agent framework. It is available in Python, TypeScript, Go, Java, and Kotlin. The documented goal is production agents, not prototypes. You start with a model, an instruction, and tools, then grow into multi-agent workflows, graph routing, evaluation, and cloud deployment.
+
+The briefing is source-grounded against first-party ADK documentation checked on 3 September 2026 at google.github.io/adk-docs.
+
+WHAT YOU WILL LEARN
+What ADK is: an open-source, multi-language runtime that treats context like source code rather than an overflowing paste buffer.
+
+Core primitives: LlmAgent and workflow agents, Tools, Callbacks, Session, State, Memory, Artifacts, Events, and the Runner.
+
+Build and run: Python 3.10+, pip install google-adk, adk create, a required root_agent in agent.py, adk run, and adk web. The docs warn that ADK Web is for development and debugging, not production.
+
+Tools and skills: tools execute developer-defined logic while the model reasons, selects, and invokes. Function tools, MCP, OpenAPI, AgentTool, confirmations, and experimental on-demand Skills.
+
+Workflows and ADK 2.0: Sequential, Parallel, and Loop templates; graph nodes and edges; dynamic code-driven flow; collaborative coordinators. Python ADK 2.0 GA is 19 May 2026. Treat a 1.x upgrade as a migration.
+
+Context and memory: Session State is this thread. Memory is a searchable long-term archive. In-memory backends are for local tests. Compaction filters, summarizes, and lazy-loads.
+
+Runtime, deploy, evaluate: CLI, web, API server, ambient agents; Agent Runtime, Cloud Run, GKE, or any container. Score both the tool trajectory and the final answer.
+
+Safety and A2A: identity, guardrails, callbacks, sandboxed code, VPC-SC, local sub-agents versus remote A2A contracts. Production auth uses ADC or a service account, never committed keys.
+
+CHAPTERS (measured from narration timing)
+00:00 What ADK Is
+00:52 Core Primitives
+01:47 Build and Run
+02:44 Tools and Skills
+03:37 Workflows and Graphs
+04:37 Context and Memory
+05:30 Runtime, Deploy, Evaluate
+06:26 Safety, A2A, Production
+
+HOW TO USE THIS
+Treat this as an architecture briefing, not a click-path tutorial. After watching, install google-adk, create one LlmAgent with one tool, run it with adk run, then evaluate the trajectory before you add graphs, memory, or a production deploy. Recheck the live ADK docs on the day you implement.
+
+LIKE / SUBSCRIBE / COMMENT
+If this briefing helped, like the video, subscribe to GEN AI GURU, and comment with the ADK topic you want next: graphs, A2A, evaluation, or a Gujarati version.
+
+INDEPENDENCE AND TRADEMARKS
+This is an independently produced educational explainer by GEN AI GURU. It is not affiliated with, sponsored by, or endorsed by Google or Google Cloud. Google, Gemini, and Agent Development Kit are trademarks of Google LLC. Always verify current APIs, breaking changes, and deployment guidance in official ADK documentation before you design or ship.
+
+Start here: https://google.github.io/adk-docs/
+Python quickstart: https://google.github.io/adk-docs/get-started/python/
+ADK 2.0: https://google.github.io/adk-docs/2.0/
+
+#GoogleADK #AgentDevelopmentKit #Gemini #AIAgents #GENAIGURU

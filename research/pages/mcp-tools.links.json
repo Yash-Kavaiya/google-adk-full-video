@@ -1,0 +1,4178 @@
+[
+  {
+    "text": "Skip to content",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#model-context-protocol-tools"
+  },
+  {
+    "text": "ADK TypeScript 2.0 GA",
+    "url": "https://google.github.io/2.0/"
+  },
+  {
+    "text": "Get started",
+    "url": "https://google.github.io/graphs/#typescript"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/"
+  },
+  {
+    "text": "Python",
+    "url": "https://github.com/google/adk-python"
+  },
+  {
+    "text": "JS",
+    "url": "https://github.com/google/adk-js"
+  },
+  {
+    "text": "Go",
+    "url": "https://github.com/google/adk-go"
+  },
+  {
+    "text": "Java",
+    "url": "https://github.com/google/adk-java"
+  },
+  {
+    "text": "Kotlin",
+    "url": "https://github.com/google/adk-kotlin"
+  },
+  {
+    "text": "Build Agents",
+    "url": "https://google.github.io/adk-docs/get-started/"
+  },
+  {
+    "text": "Run Agents",
+    "url": "https://google.github.io/adk-docs/runtime/"
+  },
+  {
+    "text": "Components",
+    "url": "https://google.github.io/adk-docs/get-started/about/"
+  },
+  {
+    "text": "Integrations",
+    "url": "https://google.github.io/adk-docs/integrations/"
+  },
+  {
+    "text": "Reference",
+    "url": "https://google.github.io/adk-docs/api-reference/"
+  },
+  {
+    "text": "Community",
+    "url": "https://google.github.io/adk-docs/community/"
+  },
+  {
+    "text": "ADK 2.0",
+    "url": "https://google.github.io/adk-docs/2.0/"
+  },
+  {
+    "text": "Python",
+    "url": "https://google.github.io/adk-docs/get-started/python/"
+  },
+  {
+    "text": "TypeScript",
+    "url": "https://google.github.io/adk-docs/get-started/typescript/"
+  },
+  {
+    "text": "Go",
+    "url": "https://google.github.io/adk-docs/get-started/go/"
+  },
+  {
+    "text": "Java",
+    "url": "https://google.github.io/adk-docs/get-started/java/"
+  },
+  {
+    "text": "Kotlin",
+    "url": "https://google.github.io/adk-docs/get-started/kotlin/"
+  },
+  {
+    "text": "Agents CLI",
+    "url": "https://google.github.io/adk-docs/get-started/agents-cli/"
+  },
+  {
+    "text": "Installation",
+    "url": "https://google.github.io/adk-docs/get-started/installation/"
+  },
+  {
+    "text": "Google Cloud",
+    "url": "https://google.github.io/adk-docs/get-started/google-cloud/"
+  },
+  {
+    "text": "Build your Agent",
+    "url": "https://google.github.io/adk-docs/tutorials/"
+  },
+  {
+    "text": "Multi-tool agent",
+    "url": "https://google.github.io/adk-docs/tutorials/multi-tool-agent/"
+  },
+  {
+    "text": "Agent team",
+    "url": "https://google.github.io/adk-docs/tutorials/agent-team/"
+  },
+  {
+    "text": "Code with AI",
+    "url": "https://google.github.io/adk-docs/tutorials/coding-with-ai/"
+  },
+  {
+    "text": "Agent Config",
+    "url": "https://google.github.io/adk-docs/agents/config/"
+  },
+  {
+    "text": "Agents",
+    "url": "https://google.github.io/adk-docs/agents/"
+  },
+  {
+    "text": "Simple agents",
+    "url": "https://google.github.io/adk-docs/agents/llm-agents/"
+  },
+  {
+    "text": "Managed agents",
+    "url": "https://google.github.io/adk-docs/agents/managed-agents/"
+  },
+  {
+    "text": "Graph Workflows",
+    "url": "https://google.github.io/adk-docs/graphs/"
+  },
+  {
+    "text": "Graph routes",
+    "url": "https://google.github.io/adk-docs/graphs/routes/"
+  },
+  {
+    "text": "Data handling",
+    "url": "https://google.github.io/adk-docs/graphs/data-handling/"
+  },
+  {
+    "text": "Human input",
+    "url": "https://google.github.io/adk-docs/graphs/human-input/"
+  },
+  {
+    "text": "Dynamic workflows",
+    "url": "https://google.github.io/adk-docs/graphs/dynamic/"
+  },
+  {
+    "text": "Multi-Agent Workflows",
+    "url": "https://google.github.io/adk-docs/workflows/"
+  },
+  {
+    "text": "Collaborative workflows",
+    "url": "https://google.github.io/adk-docs/workflows/collaboration/"
+  },
+  {
+    "text": "Template workflows",
+    "url": "https://google.github.io/adk-docs/agents/workflow-agents/"
+  },
+  {
+    "text": "Sequential workflow",
+    "url": "https://google.github.io/adk-docs/agents/workflow-agents/sequential-agents/"
+  },
+  {
+    "text": "Loop workflow",
+    "url": "https://google.github.io/adk-docs/agents/workflow-agents/loop-agents/"
+  },
+  {
+    "text": "Parallel workflow",
+    "url": "https://google.github.io/adk-docs/agents/workflow-agents/parallel-agents/"
+  },
+  {
+    "text": "Custom template workflows",
+    "url": "https://google.github.io/adk-docs/agents/custom-agents/"
+  },
+  {
+    "text": "Agent routing",
+    "url": "https://google.github.io/adk-docs/agents/routing/"
+  },
+  {
+    "text": "Workflow patterns",
+    "url": "https://google.github.io/adk-docs/workflows/patterns/"
+  },
+  {
+    "text": "Models for Agents",
+    "url": "https://google.github.io/adk-docs/agents/models/"
+  },
+  {
+    "text": "Gemini",
+    "url": "https://google.github.io/adk-docs/agents/models/google-gemini/"
+  },
+  {
+    "text": "Gemma",
+    "url": "https://google.github.io/adk-docs/agents/models/google-gemma/"
+  },
+  {
+    "text": "Claude",
+    "url": "https://google.github.io/adk-docs/agents/models/anthropic/"
+  },
+  {
+    "text": "Agent Platform hosted",
+    "url": "https://google.github.io/adk-docs/agents/models/agent-platform/"
+  },
+  {
+    "text": "Apigee AI Gateway",
+    "url": "https://google.github.io/adk-docs/agents/models/apigee/"
+  },
+  {
+    "text": "Model routing",
+    "url": "https://google.github.io/adk-docs/agents/models/routing/"
+  },
+  {
+    "text": "OpenAI",
+    "url": "https://google.github.io/adk-docs/agents/models/openai/"
+  },
+  {
+    "text": "Ollama",
+    "url": "https://google.github.io/adk-docs/agents/models/ollama/"
+  },
+  {
+    "text": "vLLM",
+    "url": "https://google.github.io/adk-docs/agents/models/vllm/"
+  },
+  {
+    "text": "LiteLLM",
+    "url": "https://google.github.io/adk-docs/agents/models/litellm/"
+  },
+  {
+    "text": "LiteRT-LM",
+    "url": "https://google.github.io/adk-docs/agents/models/litert-lm/"
+  },
+  {
+    "text": "Web Interface",
+    "url": "https://google.github.io/adk-docs/runtime/web-interface/"
+  },
+  {
+    "text": "Visual Builder",
+    "url": "https://google.github.io/adk-docs/visual-builder/"
+  },
+  {
+    "text": "Command Line",
+    "url": "https://google.github.io/adk-docs/runtime/command-line/"
+  },
+  {
+    "text": "API Server",
+    "url": "https://google.github.io/adk-docs/runtime/api-server/"
+  },
+  {
+    "text": "Ambient Agents",
+    "url": "https://google.github.io/adk-docs/runtime/ambient-agents/"
+  },
+  {
+    "text": "Resume Agents",
+    "url": "https://google.github.io/adk-docs/runtime/resume/"
+  },
+  {
+    "text": "Cancel Agent Runs",
+    "url": "https://google.github.io/adk-docs/runtime/cancel/"
+  },
+  {
+    "text": "Runtime Config",
+    "url": "https://google.github.io/adk-docs/runtime/runconfig/"
+  },
+  {
+    "text": "Event Loop",
+    "url": "https://google.github.io/adk-docs/runtime/event-loop/"
+  },
+  {
+    "text": "Deployment",
+    "url": "https://google.github.io/adk-docs/deploy/"
+  },
+  {
+    "text": "Agent Runtime",
+    "url": "https://google.github.io/adk-docs/deploy/agent-runtime/"
+  },
+  {
+    "text": "Standard deployment",
+    "url": "https://google.github.io/adk-docs/deploy/agent-runtime/deploy/"
+  },
+  {
+    "text": "agents-cli",
+    "url": "https://google.github.io/adk-docs/deploy/agent-runtime/agents-cli/"
+  },
+  {
+    "text": "Test deployed agents",
+    "url": "https://google.github.io/adk-docs/deploy/agent-runtime/test/"
+  },
+  {
+    "text": "Cloud Run",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/"
+  },
+  {
+    "text": "GKE",
+    "url": "https://google.github.io/adk-docs/deploy/gke/"
+  },
+  {
+    "text": "Observability",
+    "url": "https://google.github.io/adk-docs/observability/"
+  },
+  {
+    "text": "Logging",
+    "url": "https://google.github.io/adk-docs/observability/logging/"
+  },
+  {
+    "text": "Metrics",
+    "url": "https://google.github.io/adk-docs/observability/metrics/"
+  },
+  {
+    "text": "Traces",
+    "url": "https://google.github.io/adk-docs/observability/traces/"
+  },
+  {
+    "text": "Evaluation",
+    "url": "https://google.github.io/adk-docs/evaluate/"
+  },
+  {
+    "text": "Criteria",
+    "url": "https://google.github.io/adk-docs/evaluate/criteria/"
+  },
+  {
+    "text": "User Simulation",
+    "url": "https://google.github.io/adk-docs/evaluate/user-sim/"
+  },
+  {
+    "text": "Environment Simulation",
+    "url": "https://google.github.io/adk-docs/evaluate/environment_simulation/"
+  },
+  {
+    "text": "Custom Metrics",
+    "url": "https://google.github.io/adk-docs/evaluate/custom_metrics/"
+  },
+  {
+    "text": "Optimization",
+    "url": "https://google.github.io/adk-docs/optimize/"
+  },
+  {
+    "text": "Safety and Security",
+    "url": "https://google.github.io/adk-docs/safety/"
+  },
+  {
+    "text": "Custom Tools",
+    "url": "https://google.github.io/adk-docs/tools-custom/"
+  },
+  {
+    "text": "Overview",
+    "url": "https://google.github.io/adk-docs/tools-custom/function-tools/"
+  },
+  {
+    "text": "Tool performance",
+    "url": "https://google.github.io/adk-docs/tools-custom/performance/"
+  },
+  {
+    "text": "Action confirmations",
+    "url": "https://google.github.io/adk-docs/tools-custom/confirmation/"
+  },
+  {
+    "text": "MCP tools",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/"
+  },
+  {
+    "text": "What is Model Context Protocol (MCP)?",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#what-is-model-context-protocol-mcp"
+  },
+  {
+    "text": "Key considerations",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#key-considerations"
+  },
+  {
+    "text": "Prerequisites",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#prerequisites"
+  },
+  {
+    "text": "1. Using MCP servers with ADK agents (ADK as an MCP client) in adk web",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#1-using-mcp-servers-with-adk-agents-adk-as-an-mcp-client-in-adk-web"
+  },
+  {
+    "text": "McpToolset class",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#mcptoolset-class"
+  },
+  {
+    "text": "Example 1: File System MCP Server",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#example-1-file-system-mcp-server"
+  },
+  {
+    "text": "Step 1: Define your Agent with McpToolset",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#step-1-define-your-agent-with-mcptoolset"
+  },
+  {
+    "text": "Step 2: Create an __init__.py file",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#step-2-create-an-__init__py-file"
+  },
+  {
+    "text": "Step 3: Run adk web and Interact",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#step-3-run-adk-web-and-interact"
+  },
+  {
+    "text": "Example 2: Google Maps Grounding Lite MCP Server",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#example-2-google-maps-grounding-lite-mcp-server"
+  },
+  {
+    "text": "Step 1: Enable the Maps Grounding Lite service on your Google Cloud project",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#step-1-enable-the-maps-grounding-lite-service-on-your-google-cloud-project"
+  },
+  {
+    "text": "Step 2: Define your Agent with McpToolset for Google Maps Grounding Lite",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#step-2-define-your-agent-with-mcptoolset-for-google-maps-grounding-lite"
+  },
+  {
+    "text": "Step 3: Ensure __init__.py Exists",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#step-3-ensure-__init__py-exists"
+  },
+  {
+    "text": "Step 4: Run adk web and Interact",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#step-4-run-adk-web-and-interact"
+  },
+  {
+    "text": "2. Build an MCP server with ADK tools (MCP server exposing ADK)",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#2-build-an-mcp-server-with-adk-tools-mcp-server-exposing-adk"
+  },
+  {
+    "text": "Summary of steps",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#summary-of-steps"
+  },
+  {
+    "text": "Prerequisites",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#prerequisites_1"
+  },
+  {
+    "text": "Step 1: Create the MCP Server Script",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#step-1-create-the-mcp-server-script"
+  },
+  {
+    "text": "Step 2: Implement the Server Logic",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#step-2-implement-the-server-logic"
+  },
+  {
+    "text": "Step 3: Test your Custom MCP Server with an ADK Agent",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#step-3-test-your-custom-mcp-server-with-an-adk-agent"
+  },
+  {
+    "text": "Advanced use cases",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#advanced-use-cases"
+  },
+  {
+    "text": "Use MCP Tools without adk web",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#use-mcp-tools-without-adk-web"
+  },
+  {
+    "text": "Handling progress updates",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#handling-progress-updates"
+  },
+  {
+    "text": "Deploy Agents with MCP Tools",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#deploy-agents-with-mcp-tools"
+  },
+  {
+    "text": "Critical Deployment Requirement: Synchronous Agent Definition",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#critical-deployment-requirement-synchronous-agent-definition"
+  },
+  {
+    "text": "Quick Deployment Commands",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#quick-deployment-commands"
+  },
+  {
+    "text": "Agent Runtime",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#agent-runtime"
+  },
+  {
+    "text": "Cloud Run",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#cloud-run"
+  },
+  {
+    "text": "Deployment Patterns",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#deployment-patterns"
+  },
+  {
+    "text": "Pattern 1: Self-Contained Stdio MCP Servers",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#pattern-1-self-contained-stdio-mcp-servers"
+  },
+  {
+    "text": "Pattern 2: Remote MCP Servers (Streamable HTTP)",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#pattern-2-remote-mcp-servers-streamable-http"
+  },
+  {
+    "text": "Pattern 3: Sidecar MCP Servers (GKE)",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#pattern-3-sidecar-mcp-servers-gke"
+  },
+  {
+    "text": "Connection Management Considerations",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#connection-management-considerations"
+  },
+  {
+    "text": "Stdio Connections",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#stdio-connections"
+  },
+  {
+    "text": "SSE/HTTP Connections",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#ssehttp-connections"
+  },
+  {
+    "text": "Production Deployment Checklist",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#production-deployment-checklist"
+  },
+  {
+    "text": "Environment-Specific Configurations",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#environment-specific-configurations"
+  },
+  {
+    "text": "Cloud Run",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#cloud-run_1"
+  },
+  {
+    "text": "GKE",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#gke"
+  },
+  {
+    "text": "Agent Runtime",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#agent-runtime_1"
+  },
+  {
+    "text": "Troubleshooting Deployment Issues",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#troubleshooting-deployment-issues"
+  },
+  {
+    "text": "Further Resources",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#further-resources"
+  },
+  {
+    "text": "OpenAPI tools",
+    "url": "https://google.github.io/adk-docs/tools-custom/openapi-tools/"
+  },
+  {
+    "text": "Authentication",
+    "url": "https://google.github.io/adk-docs/tools-custom/authentication/"
+  },
+  {
+    "text": "Tool limitations",
+    "url": "https://google.github.io/adk-docs/tools/limitations/"
+  },
+  {
+    "text": "Artifacts",
+    "url": "https://google.github.io/adk-docs/artifacts/"
+  },
+  {
+    "text": "Skills for Agents",
+    "url": "https://google.github.io/adk-docs/skills/"
+  },
+  {
+    "text": "App management",
+    "url": "https://google.github.io/adk-docs/apps/"
+  },
+  {
+    "text": "Callbacks",
+    "url": "https://google.github.io/adk-docs/callbacks/"
+  },
+  {
+    "text": "Types of callbacks",
+    "url": "https://google.github.io/adk-docs/callbacks/types-of-callbacks/"
+  },
+  {
+    "text": "Callback patterns",
+    "url": "https://google.github.io/adk-docs/callbacks/design-patterns-and-best-practices/"
+  },
+  {
+    "text": "Plugins",
+    "url": "https://google.github.io/adk-docs/plugins/"
+  },
+  {
+    "text": "Agent context",
+    "url": "https://google.github.io/adk-docs/context/"
+  },
+  {
+    "text": "Conversational context",
+    "url": "https://google.github.io/adk-docs/sessions/"
+  },
+  {
+    "text": "Sessions",
+    "url": "https://google.github.io/adk-docs/sessions/session/"
+  },
+  {
+    "text": "Rewind sessions",
+    "url": "https://google.github.io/adk-docs/sessions/session/rewind/"
+  },
+  {
+    "text": "Migrate sessions",
+    "url": "https://google.github.io/adk-docs/sessions/session/migrate/"
+  },
+  {
+    "text": "State",
+    "url": "https://google.github.io/adk-docs/sessions/state/"
+  },
+  {
+    "text": "Events",
+    "url": "https://google.github.io/adk-docs/events/"
+  },
+  {
+    "text": "Memory",
+    "url": "https://google.github.io/adk-docs/sessions/memory/"
+  },
+  {
+    "text": "Context compression",
+    "url": "https://google.github.io/adk-docs/context/compaction/"
+  },
+  {
+    "text": "Model context caching",
+    "url": "https://google.github.io/adk-docs/context/caching/"
+  },
+  {
+    "text": "MCP",
+    "url": "https://google.github.io/adk-docs/mcp/"
+  },
+  {
+    "text": "A2A Protocol",
+    "url": "https://google.github.io/adk-docs/a2a/"
+  },
+  {
+    "text": "Introduction to A2A",
+    "url": "https://google.github.io/adk-docs/a2a/intro/"
+  },
+  {
+    "text": "Python",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-exposing/"
+  },
+  {
+    "text": "Go",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-exposing-go/"
+  },
+  {
+    "text": "Java",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-exposing-java/"
+  },
+  {
+    "text": "Python",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-consuming/"
+  },
+  {
+    "text": "Go",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-consuming-go/"
+  },
+  {
+    "text": "Java",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-consuming-java/"
+  },
+  {
+    "text": "Kotlin",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-consuming-kotlin/"
+  },
+  {
+    "text": "A2A Extension",
+    "url": "https://google.github.io/adk-docs/a2a/a2a-extension/"
+  },
+  {
+    "text": "Live and Voice Agents",
+    "url": "https://google.github.io/adk-docs/live/"
+  },
+  {
+    "text": "Get started",
+    "url": "https://google.github.io/adk-docs/live/get-started/"
+  },
+  {
+    "text": "Python",
+    "url": "https://google.github.io/adk-docs/live/get-started/streaming-python/"
+  },
+  {
+    "text": "Java",
+    "url": "https://google.github.io/adk-docs/live/get-started/streaming-java/"
+  },
+  {
+    "text": "Workflows",
+    "url": "https://google.github.io/adk-docs/live/workflows/"
+  },
+  {
+    "text": "Tools",
+    "url": "https://google.github.io/adk-docs/live/tools/"
+  },
+  {
+    "text": "Sessions",
+    "url": "https://google.github.io/adk-docs/live/sessions/"
+  },
+  {
+    "text": "Events",
+    "url": "https://google.github.io/adk-docs/live/events/"
+  },
+  {
+    "text": "Audio and video",
+    "url": "https://google.github.io/adk-docs/live/audio-video/"
+  },
+  {
+    "text": "Configuration",
+    "url": "https://google.github.io/adk-docs/live/configuration/"
+  },
+  {
+    "text": "Evaluation",
+    "url": "https://google.github.io/adk-docs/live/evaluation/"
+  },
+  {
+    "text": "Build a custom server",
+    "url": "https://google.github.io/adk-docs/live/custom-server/"
+  },
+  {
+    "text": "Supported models",
+    "url": "https://google.github.io/adk-docs/live/models/"
+  },
+  {
+    "text": "Grounding",
+    "url": "https://google.github.io/adk-docs/grounding/"
+  },
+  {
+    "text": "Google Search Grounding",
+    "url": "https://google.github.io/adk-docs/grounding/google_search_grounding/"
+  },
+  {
+    "text": "Grounding with Search",
+    "url": "https://google.github.io/adk-docs/grounding/grounding_with_search/"
+  },
+  {
+    "text": "Python ADK",
+    "url": "https://google.github.io/adk-docs/api-reference/python/"
+  },
+  {
+    "text": "TypeScript ADK",
+    "url": "https://google.github.io/adk-docs/api-reference/typescript/"
+  },
+  {
+    "text": "Go v2.x",
+    "url": "https://pkg.go.dev/google.golang.org/adk/v2"
+  },
+  {
+    "text": "Go v1.x",
+    "url": "https://pkg.go.dev/google.golang.org/adk"
+  },
+  {
+    "text": "Java ADK",
+    "url": "https://google.github.io/adk-docs/api-reference/java/"
+  },
+  {
+    "text": "Kotlin ADK",
+    "url": "https://google.github.io/adk-docs/api-reference/kotlin/"
+  },
+  {
+    "text": "CLI Reference",
+    "url": "https://google.github.io/adk-docs/api-reference/cli/"
+  },
+  {
+    "text": "Agent Config Reference",
+    "url": "https://google.github.io/adk-docs/api-reference/agentconfig/"
+  },
+  {
+    "text": "REST API",
+    "url": "https://google.github.io/adk-docs/api-reference/rest/"
+  },
+  {
+    "text": "Release Notes",
+    "url": "https://google.github.io/adk-docs/release-notes/"
+  },
+  {
+    "text": "Contributing Guide",
+    "url": "https://google.github.io/adk-docs/community/contributing-guide/"
+  },
+  {
+    "text": "",
+    "url": "https://github.com/google/adk-docs/edit/main/docs/tools-custom/mcp-tools.md"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/index.md"
+  },
+  {
+    "text": "Tools and Integrations",
+    "url": "https://google.github.io/integrations/?topic=mcp"
+  },
+  {
+    "text": "https://nodejs.org/en",
+    "url": "https://nodejs.org/en"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-0-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-0-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-0-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-1-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-1-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-1-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-32"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-33"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-34"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-35"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-36"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-37"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-38"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-39"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-40"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-41"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-2-42"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-3-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-3-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-4-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-4-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-32"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-33"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-34"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-35"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-36"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-37"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-38"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-39"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-40"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-41"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-42"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-43"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-44"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-45"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-46"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-47"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-48"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-49"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-50"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-51"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-52"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-53"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-54"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-55"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-56"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-57"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-58"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-59"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-60"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-61"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-62"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-63"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-64"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-65"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-66"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-67"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-68"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-5-69"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-6-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-6-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-6-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-6-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-6-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-32"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-7-33"
+  },
+  {
+    "text": "Google Maps Platform Grounding Lite",
+    "url": "https://developers.google.com/maps/ai/grounding-lite"
+  },
+  {
+    "text": "Set up your Google Cloud project",
+    "url": "https://developers.google.com/maps/get-started#create-project"
+  },
+  {
+    "text": "Google Cloud Console",
+    "url": "https://console.developers.google.com"
+  },
+  {
+    "text": "Google Cloud Console API Library",
+    "url": "https://console.developers.google.com/apis/library/mapstools.googleapis.com"
+  },
+  {
+    "text": "Get a Google Maps Platform API Key",
+    "url": "https://developers.google.com/maps/get-started#api-key"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-32"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-33"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-34"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-35"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-8-36"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-9-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-9-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-10-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-11-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-11-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-32"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-33"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-34"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-35"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-36"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-37"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-38"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-39"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-40"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-41"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-42"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-43"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-44"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-45"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-46"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-47"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-48"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-49"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-50"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-51"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-52"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-53"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-54"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-55"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-56"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-57"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-58"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-59"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-60"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-61"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-62"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-63"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-64"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-65"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-66"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-67"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-68"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-69"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-70"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-71"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-72"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-73"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-74"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-75"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-76"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-77"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-78"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-12-79"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-13-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-14-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-32"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-33"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-34"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-35"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-36"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-37"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-38"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-39"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-40"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-41"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-42"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-43"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-44"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-45"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-46"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-47"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-48"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-49"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-50"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-51"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-52"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-53"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-54"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-55"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-56"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-57"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-58"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-59"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-60"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-61"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-62"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-63"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-64"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-65"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-66"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-67"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-68"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-69"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-70"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-71"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-72"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-73"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-74"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-75"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-76"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-77"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-78"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-79"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-80"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-81"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-82"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-83"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-84"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-85"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-86"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-87"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-88"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-89"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-90"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-91"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-92"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-93"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-94"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-95"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-96"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-97"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-98"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-99"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-100"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-101"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-102"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-103"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-104"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-105"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-106"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-107"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-108"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-109"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-110"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-111"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-112"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-113"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-114"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-115"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-15-116"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-16-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-17-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-17-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-18-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-19-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-19-2"
+  },
+  {
+    "text": "documentation",
+    "url": "https://modelcontextprotocol.io/quickstart/server#core-mcp-concepts"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-32"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-33"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-34"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-35"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-36"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-37"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-38"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-39"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-40"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-41"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-42"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-43"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-44"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-45"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-46"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-47"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-48"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-49"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-50"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-51"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-52"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-53"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-54"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-55"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-56"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-57"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-58"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-59"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-60"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-61"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-62"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-63"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-64"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-65"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-66"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-67"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-68"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-69"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-70"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-71"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-72"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-73"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-74"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-75"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-76"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-77"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-78"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-79"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-80"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-81"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-82"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-83"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-84"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-85"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-86"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-87"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-88"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-89"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-90"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-91"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-20-92"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-21-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-21-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-21-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-21-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-21-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-21-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-21-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-22-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-23-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-23-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-23-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-23-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-24-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-24-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-24-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-24-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-24-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-24-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-25-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-25-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-25-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-25-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-25-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-26-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-26-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-26-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-26-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-26-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-26-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-26-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-26-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-26-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-26-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-26-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-26-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-26-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-26-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-26-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-27-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-27-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-27-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-27-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-27-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-27-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-27-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-27-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-27-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-32"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-33"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-34"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-35"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-36"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-37"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-38"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-39"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-40"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-41"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-42"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-43"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-44"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-45"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-46"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-47"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-48"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-49"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-50"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-51"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-52"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-53"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-54"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-55"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-56"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-57"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-58"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-59"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-60"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-61"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-62"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-63"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-64"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-65"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-66"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-67"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-68"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-69"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-70"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-71"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-72"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-73"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-74"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-75"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-76"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-77"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-78"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-79"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-80"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-81"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-82"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-83"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-84"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-85"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-86"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-87"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-88"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-89"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-90"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-91"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-92"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-93"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-94"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-95"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-96"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-97"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-98"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-28-99"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-29-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-29-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-29-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-29-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-29-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-29-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-29-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-30-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-30-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-30-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-30-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-30-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-30-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-30-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-30-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-30-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-30-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-30-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-31-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-31-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-31-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-31-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-31-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-31-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-31-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-31-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-31-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-31-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-31-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-31-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-31-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-32-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-33-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-33-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-33-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-33-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-33-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-33-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-33-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-33-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-33-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-33-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-33-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-33-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-33-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-33-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-33-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-33-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-33-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-33-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-33-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-33-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-34-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-34-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-34-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-34-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-34-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-34-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-34-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-35-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-35-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-35-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-35-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-35-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-35-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-35-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-35-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-36-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-36-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-36-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-36-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-36-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-36-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-36-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-36-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-36-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-36-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-36-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-37-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-37-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-37-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-37-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-37-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-37-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__codelineno-37-7"
+  },
+  {
+    "text": "Model Context Protocol Documentation",
+    "url": "https://modelcontextprotocol.io/"
+  },
+  {
+    "text": "MCP Specification",
+    "url": "https://modelcontextprotocol.io/specification/"
+  },
+  {
+    "text": "MCP Python SDK & Examples",
+    "url": "https://github.com/modelcontextprotocol/"
+  },
+  {
+    "text": "License",
+    "url": "https://github.com/google/adk-docs/blob/main/LICENSE"
+  },
+  {
+    "text": "Privacy",
+    "url": "https://policies.google.com/privacy"
+  },
+  {
+    "text": "Manage cookies",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/#__consent"
+  },
+  {
+    "text": "Material for MkDocs",
+    "url": "https://squidfunk.github.io/mkdocs-material/"
+  }
+]

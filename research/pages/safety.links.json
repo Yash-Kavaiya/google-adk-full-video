@@ -1,0 +1,2302 @@
+[
+  {
+    "text": "Skip to content",
+    "url": "https://google.github.io/adk-docs/safety/#safety-and-security-for-ai-agents"
+  },
+  {
+    "text": "ADK TypeScript 2.0 GA",
+    "url": "https://google.github.io/2.0/"
+  },
+  {
+    "text": "Get started",
+    "url": "https://google.github.io/graphs/#typescript"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/"
+  },
+  {
+    "text": "Python",
+    "url": "https://github.com/google/adk-python"
+  },
+  {
+    "text": "JS",
+    "url": "https://github.com/google/adk-js"
+  },
+  {
+    "text": "Go",
+    "url": "https://github.com/google/adk-go"
+  },
+  {
+    "text": "Java",
+    "url": "https://github.com/google/adk-java"
+  },
+  {
+    "text": "Kotlin",
+    "url": "https://github.com/google/adk-kotlin"
+  },
+  {
+    "text": "Build Agents",
+    "url": "https://google.github.io/adk-docs/get-started/"
+  },
+  {
+    "text": "Run Agents",
+    "url": "https://google.github.io/adk-docs/runtime/"
+  },
+  {
+    "text": "Components",
+    "url": "https://google.github.io/adk-docs/get-started/about/"
+  },
+  {
+    "text": "Integrations",
+    "url": "https://google.github.io/adk-docs/integrations/"
+  },
+  {
+    "text": "Reference",
+    "url": "https://google.github.io/adk-docs/api-reference/"
+  },
+  {
+    "text": "Community",
+    "url": "https://google.github.io/adk-docs/community/"
+  },
+  {
+    "text": "ADK 2.0",
+    "url": "https://google.github.io/adk-docs/2.0/"
+  },
+  {
+    "text": "Python",
+    "url": "https://google.github.io/adk-docs/get-started/python/"
+  },
+  {
+    "text": "TypeScript",
+    "url": "https://google.github.io/adk-docs/get-started/typescript/"
+  },
+  {
+    "text": "Go",
+    "url": "https://google.github.io/adk-docs/get-started/go/"
+  },
+  {
+    "text": "Java",
+    "url": "https://google.github.io/adk-docs/get-started/java/"
+  },
+  {
+    "text": "Kotlin",
+    "url": "https://google.github.io/adk-docs/get-started/kotlin/"
+  },
+  {
+    "text": "Agents CLI",
+    "url": "https://google.github.io/adk-docs/get-started/agents-cli/"
+  },
+  {
+    "text": "Installation",
+    "url": "https://google.github.io/adk-docs/get-started/installation/"
+  },
+  {
+    "text": "Google Cloud",
+    "url": "https://google.github.io/adk-docs/get-started/google-cloud/"
+  },
+  {
+    "text": "Build your Agent",
+    "url": "https://google.github.io/adk-docs/tutorials/"
+  },
+  {
+    "text": "Multi-tool agent",
+    "url": "https://google.github.io/adk-docs/tutorials/multi-tool-agent/"
+  },
+  {
+    "text": "Agent team",
+    "url": "https://google.github.io/adk-docs/tutorials/agent-team/"
+  },
+  {
+    "text": "Code with AI",
+    "url": "https://google.github.io/adk-docs/tutorials/coding-with-ai/"
+  },
+  {
+    "text": "Agent Config",
+    "url": "https://google.github.io/adk-docs/agents/config/"
+  },
+  {
+    "text": "Agents",
+    "url": "https://google.github.io/adk-docs/agents/"
+  },
+  {
+    "text": "Simple agents",
+    "url": "https://google.github.io/adk-docs/agents/llm-agents/"
+  },
+  {
+    "text": "Managed agents",
+    "url": "https://google.github.io/adk-docs/agents/managed-agents/"
+  },
+  {
+    "text": "Graph Workflows",
+    "url": "https://google.github.io/adk-docs/graphs/"
+  },
+  {
+    "text": "Graph routes",
+    "url": "https://google.github.io/adk-docs/graphs/routes/"
+  },
+  {
+    "text": "Data handling",
+    "url": "https://google.github.io/adk-docs/graphs/data-handling/"
+  },
+  {
+    "text": "Human input",
+    "url": "https://google.github.io/adk-docs/graphs/human-input/"
+  },
+  {
+    "text": "Dynamic workflows",
+    "url": "https://google.github.io/adk-docs/graphs/dynamic/"
+  },
+  {
+    "text": "Multi-Agent Workflows",
+    "url": "https://google.github.io/adk-docs/workflows/"
+  },
+  {
+    "text": "Collaborative workflows",
+    "url": "https://google.github.io/adk-docs/workflows/collaboration/"
+  },
+  {
+    "text": "Template workflows",
+    "url": "https://google.github.io/adk-docs/agents/workflow-agents/"
+  },
+  {
+    "text": "Sequential workflow",
+    "url": "https://google.github.io/adk-docs/agents/workflow-agents/sequential-agents/"
+  },
+  {
+    "text": "Loop workflow",
+    "url": "https://google.github.io/adk-docs/agents/workflow-agents/loop-agents/"
+  },
+  {
+    "text": "Parallel workflow",
+    "url": "https://google.github.io/adk-docs/agents/workflow-agents/parallel-agents/"
+  },
+  {
+    "text": "Custom template workflows",
+    "url": "https://google.github.io/adk-docs/agents/custom-agents/"
+  },
+  {
+    "text": "Agent routing",
+    "url": "https://google.github.io/adk-docs/agents/routing/"
+  },
+  {
+    "text": "Workflow patterns",
+    "url": "https://google.github.io/adk-docs/workflows/patterns/"
+  },
+  {
+    "text": "Models for Agents",
+    "url": "https://google.github.io/adk-docs/agents/models/"
+  },
+  {
+    "text": "Gemini",
+    "url": "https://google.github.io/adk-docs/agents/models/google-gemini/"
+  },
+  {
+    "text": "Gemma",
+    "url": "https://google.github.io/adk-docs/agents/models/google-gemma/"
+  },
+  {
+    "text": "Claude",
+    "url": "https://google.github.io/adk-docs/agents/models/anthropic/"
+  },
+  {
+    "text": "Agent Platform hosted",
+    "url": "https://google.github.io/adk-docs/agents/models/agent-platform/"
+  },
+  {
+    "text": "Apigee AI Gateway",
+    "url": "https://google.github.io/adk-docs/agents/models/apigee/"
+  },
+  {
+    "text": "Model routing",
+    "url": "https://google.github.io/adk-docs/agents/models/routing/"
+  },
+  {
+    "text": "OpenAI",
+    "url": "https://google.github.io/adk-docs/agents/models/openai/"
+  },
+  {
+    "text": "Ollama",
+    "url": "https://google.github.io/adk-docs/agents/models/ollama/"
+  },
+  {
+    "text": "vLLM",
+    "url": "https://google.github.io/adk-docs/agents/models/vllm/"
+  },
+  {
+    "text": "LiteLLM",
+    "url": "https://google.github.io/adk-docs/agents/models/litellm/"
+  },
+  {
+    "text": "LiteRT-LM",
+    "url": "https://google.github.io/adk-docs/agents/models/litert-lm/"
+  },
+  {
+    "text": "Web Interface",
+    "url": "https://google.github.io/adk-docs/runtime/web-interface/"
+  },
+  {
+    "text": "Visual Builder",
+    "url": "https://google.github.io/adk-docs/visual-builder/"
+  },
+  {
+    "text": "Command Line",
+    "url": "https://google.github.io/adk-docs/runtime/command-line/"
+  },
+  {
+    "text": "API Server",
+    "url": "https://google.github.io/adk-docs/runtime/api-server/"
+  },
+  {
+    "text": "Ambient Agents",
+    "url": "https://google.github.io/adk-docs/runtime/ambient-agents/"
+  },
+  {
+    "text": "Resume Agents",
+    "url": "https://google.github.io/adk-docs/runtime/resume/"
+  },
+  {
+    "text": "Cancel Agent Runs",
+    "url": "https://google.github.io/adk-docs/runtime/cancel/"
+  },
+  {
+    "text": "Runtime Config",
+    "url": "https://google.github.io/adk-docs/runtime/runconfig/"
+  },
+  {
+    "text": "Event Loop",
+    "url": "https://google.github.io/adk-docs/runtime/event-loop/"
+  },
+  {
+    "text": "Deployment",
+    "url": "https://google.github.io/adk-docs/deploy/"
+  },
+  {
+    "text": "Agent Runtime",
+    "url": "https://google.github.io/adk-docs/deploy/agent-runtime/"
+  },
+  {
+    "text": "Standard deployment",
+    "url": "https://google.github.io/adk-docs/deploy/agent-runtime/deploy/"
+  },
+  {
+    "text": "agents-cli",
+    "url": "https://google.github.io/adk-docs/deploy/agent-runtime/agents-cli/"
+  },
+  {
+    "text": "Test deployed agents",
+    "url": "https://google.github.io/adk-docs/deploy/agent-runtime/test/"
+  },
+  {
+    "text": "Cloud Run",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/"
+  },
+  {
+    "text": "GKE",
+    "url": "https://google.github.io/adk-docs/deploy/gke/"
+  },
+  {
+    "text": "Observability",
+    "url": "https://google.github.io/adk-docs/observability/"
+  },
+  {
+    "text": "Logging",
+    "url": "https://google.github.io/adk-docs/observability/logging/"
+  },
+  {
+    "text": "Metrics",
+    "url": "https://google.github.io/adk-docs/observability/metrics/"
+  },
+  {
+    "text": "Traces",
+    "url": "https://google.github.io/adk-docs/observability/traces/"
+  },
+  {
+    "text": "Evaluation",
+    "url": "https://google.github.io/adk-docs/evaluate/"
+  },
+  {
+    "text": "Criteria",
+    "url": "https://google.github.io/adk-docs/evaluate/criteria/"
+  },
+  {
+    "text": "User Simulation",
+    "url": "https://google.github.io/adk-docs/evaluate/user-sim/"
+  },
+  {
+    "text": "Environment Simulation",
+    "url": "https://google.github.io/adk-docs/evaluate/environment_simulation/"
+  },
+  {
+    "text": "Custom Metrics",
+    "url": "https://google.github.io/adk-docs/evaluate/custom_metrics/"
+  },
+  {
+    "text": "Optimization",
+    "url": "https://google.github.io/adk-docs/optimize/"
+  },
+  {
+    "text": "Safety and Security",
+    "url": "https://google.github.io/adk-docs/safety/"
+  },
+  {
+    "text": "Custom Tools",
+    "url": "https://google.github.io/adk-docs/tools-custom/"
+  },
+  {
+    "text": "Overview",
+    "url": "https://google.github.io/adk-docs/tools-custom/function-tools/"
+  },
+  {
+    "text": "Tool performance",
+    "url": "https://google.github.io/adk-docs/tools-custom/performance/"
+  },
+  {
+    "text": "Action confirmations",
+    "url": "https://google.github.io/adk-docs/tools-custom/confirmation/"
+  },
+  {
+    "text": "MCP tools",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/"
+  },
+  {
+    "text": "OpenAPI tools",
+    "url": "https://google.github.io/adk-docs/tools-custom/openapi-tools/"
+  },
+  {
+    "text": "Authentication",
+    "url": "https://google.github.io/adk-docs/tools-custom/authentication/"
+  },
+  {
+    "text": "Tool limitations",
+    "url": "https://google.github.io/adk-docs/tools/limitations/"
+  },
+  {
+    "text": "Artifacts",
+    "url": "https://google.github.io/adk-docs/artifacts/"
+  },
+  {
+    "text": "Skills for Agents",
+    "url": "https://google.github.io/adk-docs/skills/"
+  },
+  {
+    "text": "App management",
+    "url": "https://google.github.io/adk-docs/apps/"
+  },
+  {
+    "text": "Callbacks",
+    "url": "https://google.github.io/adk-docs/callbacks/"
+  },
+  {
+    "text": "Types of callbacks",
+    "url": "https://google.github.io/adk-docs/callbacks/types-of-callbacks/"
+  },
+  {
+    "text": "Callback patterns",
+    "url": "https://google.github.io/adk-docs/callbacks/design-patterns-and-best-practices/"
+  },
+  {
+    "text": "Plugins",
+    "url": "https://google.github.io/adk-docs/plugins/"
+  },
+  {
+    "text": "Agent context",
+    "url": "https://google.github.io/adk-docs/context/"
+  },
+  {
+    "text": "Conversational context",
+    "url": "https://google.github.io/adk-docs/sessions/"
+  },
+  {
+    "text": "Sessions",
+    "url": "https://google.github.io/adk-docs/sessions/session/"
+  },
+  {
+    "text": "Rewind sessions",
+    "url": "https://google.github.io/adk-docs/sessions/session/rewind/"
+  },
+  {
+    "text": "Migrate sessions",
+    "url": "https://google.github.io/adk-docs/sessions/session/migrate/"
+  },
+  {
+    "text": "State",
+    "url": "https://google.github.io/adk-docs/sessions/state/"
+  },
+  {
+    "text": "Events",
+    "url": "https://google.github.io/adk-docs/events/"
+  },
+  {
+    "text": "Memory",
+    "url": "https://google.github.io/adk-docs/sessions/memory/"
+  },
+  {
+    "text": "Context compression",
+    "url": "https://google.github.io/adk-docs/context/compaction/"
+  },
+  {
+    "text": "Model context caching",
+    "url": "https://google.github.io/adk-docs/context/caching/"
+  },
+  {
+    "text": "MCP",
+    "url": "https://google.github.io/adk-docs/mcp/"
+  },
+  {
+    "text": "A2A Protocol",
+    "url": "https://google.github.io/adk-docs/a2a/"
+  },
+  {
+    "text": "Introduction to A2A",
+    "url": "https://google.github.io/adk-docs/a2a/intro/"
+  },
+  {
+    "text": "Python",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-exposing/"
+  },
+  {
+    "text": "Go",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-exposing-go/"
+  },
+  {
+    "text": "Java",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-exposing-java/"
+  },
+  {
+    "text": "Python",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-consuming/"
+  },
+  {
+    "text": "Go",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-consuming-go/"
+  },
+  {
+    "text": "Java",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-consuming-java/"
+  },
+  {
+    "text": "Kotlin",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-consuming-kotlin/"
+  },
+  {
+    "text": "A2A Extension",
+    "url": "https://google.github.io/adk-docs/a2a/a2a-extension/"
+  },
+  {
+    "text": "Live and Voice Agents",
+    "url": "https://google.github.io/adk-docs/live/"
+  },
+  {
+    "text": "Get started",
+    "url": "https://google.github.io/adk-docs/live/get-started/"
+  },
+  {
+    "text": "Python",
+    "url": "https://google.github.io/adk-docs/live/get-started/streaming-python/"
+  },
+  {
+    "text": "Java",
+    "url": "https://google.github.io/adk-docs/live/get-started/streaming-java/"
+  },
+  {
+    "text": "Workflows",
+    "url": "https://google.github.io/adk-docs/live/workflows/"
+  },
+  {
+    "text": "Tools",
+    "url": "https://google.github.io/adk-docs/live/tools/"
+  },
+  {
+    "text": "Sessions",
+    "url": "https://google.github.io/adk-docs/live/sessions/"
+  },
+  {
+    "text": "Events",
+    "url": "https://google.github.io/adk-docs/live/events/"
+  },
+  {
+    "text": "Audio and video",
+    "url": "https://google.github.io/adk-docs/live/audio-video/"
+  },
+  {
+    "text": "Configuration",
+    "url": "https://google.github.io/adk-docs/live/configuration/"
+  },
+  {
+    "text": "Evaluation",
+    "url": "https://google.github.io/adk-docs/live/evaluation/"
+  },
+  {
+    "text": "Build a custom server",
+    "url": "https://google.github.io/adk-docs/live/custom-server/"
+  },
+  {
+    "text": "Supported models",
+    "url": "https://google.github.io/adk-docs/live/models/"
+  },
+  {
+    "text": "Grounding",
+    "url": "https://google.github.io/adk-docs/grounding/"
+  },
+  {
+    "text": "Google Search Grounding",
+    "url": "https://google.github.io/adk-docs/grounding/google_search_grounding/"
+  },
+  {
+    "text": "Grounding with Search",
+    "url": "https://google.github.io/adk-docs/grounding/grounding_with_search/"
+  },
+  {
+    "text": "Python ADK",
+    "url": "https://google.github.io/adk-docs/api-reference/python/"
+  },
+  {
+    "text": "TypeScript ADK",
+    "url": "https://google.github.io/adk-docs/api-reference/typescript/"
+  },
+  {
+    "text": "Go v2.x",
+    "url": "https://pkg.go.dev/google.golang.org/adk/v2"
+  },
+  {
+    "text": "Go v1.x",
+    "url": "https://pkg.go.dev/google.golang.org/adk"
+  },
+  {
+    "text": "Java ADK",
+    "url": "https://google.github.io/adk-docs/api-reference/java/"
+  },
+  {
+    "text": "Kotlin ADK",
+    "url": "https://google.github.io/adk-docs/api-reference/kotlin/"
+  },
+  {
+    "text": "CLI Reference",
+    "url": "https://google.github.io/adk-docs/api-reference/cli/"
+  },
+  {
+    "text": "Agent Config Reference",
+    "url": "https://google.github.io/adk-docs/api-reference/agentconfig/"
+  },
+  {
+    "text": "REST API",
+    "url": "https://google.github.io/adk-docs/api-reference/rest/"
+  },
+  {
+    "text": "Release Notes",
+    "url": "https://google.github.io/adk-docs/release-notes/"
+  },
+  {
+    "text": "Contributing Guide",
+    "url": "https://google.github.io/adk-docs/community/contributing-guide/"
+  },
+  {
+    "text": "Safety and Security Risks",
+    "url": "https://google.github.io/adk-docs/safety/#safety-and-security-risks"
+  },
+  {
+    "text": "Best practices",
+    "url": "https://google.github.io/adk-docs/safety/#best-practices"
+  },
+  {
+    "text": "Identity and Authorization",
+    "url": "https://google.github.io/adk-docs/safety/#identity-and-authorization"
+  },
+  {
+    "text": "Agent-Auth",
+    "url": "https://google.github.io/adk-docs/safety/#agent-auth"
+  },
+  {
+    "text": "User Auth",
+    "url": "https://google.github.io/adk-docs/safety/#user-auth"
+  },
+  {
+    "text": "Guardrails to screen inputs and outputs",
+    "url": "https://google.github.io/adk-docs/safety/#guardrails-to-screen-inputs-and-outputs"
+  },
+  {
+    "text": "In-tool guardrails",
+    "url": "https://google.github.io/adk-docs/safety/#in-tool-guardrails"
+  },
+  {
+    "text": "Built-in Gemini Safety Features",
+    "url": "https://google.github.io/adk-docs/safety/#built-in-gemini-safety-features"
+  },
+  {
+    "text": "Callbacks and Plugins for Security Guardrails",
+    "url": "https://google.github.io/adk-docs/safety/#callbacks-and-plugins-for-security-guardrails"
+  },
+  {
+    "text": "Sandboxed Code Execution",
+    "url": "https://google.github.io/adk-docs/safety/#sandboxed-code-execution"
+  },
+  {
+    "text": "Evaluations",
+    "url": "https://google.github.io/adk-docs/safety/#evaluations"
+  },
+  {
+    "text": "VPC-SC Perimeters and Network Controls",
+    "url": "https://google.github.io/adk-docs/safety/#vpc-sc-perimeters-and-network-controls"
+  },
+  {
+    "text": "Other Security Risks",
+    "url": "https://google.github.io/adk-docs/safety/#other-security-risks"
+  },
+  {
+    "text": "Always Escape Model-Generated Content in UIs",
+    "url": "https://google.github.io/adk-docs/safety/#always-escape-model-generated-content-in-uis"
+  },
+  {
+    "text": "",
+    "url": "https://github.com/google/adk-docs/edit/main/docs/safety/index.md"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/index.md"
+  },
+  {
+    "text": "Google Cloud Agent Platform",
+    "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/overview"
+  },
+  {
+    "text": "Tool Context",
+    "url": "https://google.github.io/adk-docs/tools-custom/#tool-context"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-0-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-0-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-0-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-0-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-0-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-0-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-0-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-0-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-0-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-0-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-0-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-0-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-0-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-0-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-0-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-0-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-1-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-1-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-1-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-1-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-1-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-1-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-1-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-1-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-1-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-1-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-1-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-1-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-1-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-1-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-1-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-1-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-2-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-2-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-2-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-2-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-2-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-2-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-2-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-2-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-2-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-2-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-2-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-2-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-2-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-2-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-2-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-2-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-2-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-2-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-2-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-3-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-3-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-3-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-3-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-3-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-3-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-3-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-3-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-3-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-3-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-3-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-3-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-3-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-3-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-3-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-3-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-4-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-4-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-4-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-4-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-4-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-4-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-4-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-4-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-4-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-4-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-4-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-4-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-4-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-4-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-4-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-4-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-4-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-4-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-4-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-4-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-5-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-32"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-33"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-34"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-35"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-36"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-37"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-38"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-39"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-40"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-41"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-42"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-43"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-44"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-45"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-46"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-47"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-48"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-49"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-50"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-51"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-6-52"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-32"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-33"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-34"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-35"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-36"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-37"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-7-38"
+  },
+  {
+    "text": "Content filters",
+    "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/configure-safety-attributes"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-8-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-8-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-8-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-8-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-8-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-8-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-8-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-8-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-8-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-8-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-8-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-8-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-8-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-8-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-9-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-9-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-9-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-9-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-9-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-9-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-9-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-9-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-9-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-9-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-9-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-9-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-9-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-9-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-9-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-9-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-10-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-10-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-10-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-10-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-10-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-10-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-10-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-10-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-10-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-10-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-10-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-10-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-10-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-10-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-10-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-10-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-10-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-10-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-10-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-10-20"
+  },
+  {
+    "text": "System instructions",
+    "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/safety-system-instructions"
+  },
+  {
+    "text": "Before Tool Callback",
+    "url": "https://google.github.io/adk-docs/callbacks/types-of-callbacks/#before-tool-callback"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-32"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-11-33"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-32"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-33"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-34"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-35"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-12-36"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-32"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-33"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-34"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-35"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-36"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-37"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-38"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-39"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-40"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-13-41"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-32"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-33"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-34"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/safety/#__codelineno-14-35"
+  },
+  {
+    "text": "Before Tool Callback",
+    "url": "https://google.github.io/plugins/#tool-callbacks"
+  },
+  {
+    "text": "Vertex Gemini Enterprise API code execution feature",
+    "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/code-execution-api"
+  },
+  {
+    "text": "Code Executor",
+    "url": "https://google.github.io/integrations/code-execution/"
+  },
+  {
+    "text": "Vertex Code Interpreter Extension",
+    "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/extensions/code-interpreter"
+  },
+  {
+    "text": "License",
+    "url": "https://github.com/google/adk-docs/blob/main/LICENSE"
+  },
+  {
+    "text": "Privacy",
+    "url": "https://policies.google.com/privacy"
+  },
+  {
+    "text": "Manage cookies",
+    "url": "https://google.github.io/adk-docs/safety/#__consent"
+  },
+  {
+    "text": "Material for MkDocs",
+    "url": "https://squidfunk.github.io/mkdocs-material/"
+  }
+]

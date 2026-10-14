@@ -1,0 +1,24 @@
+# Regenerable render and pipeline output
+media/
+smoke_media/
+output/
+
+# LaTeX build artifacts and previews
+deck/*.aux
+deck/*.fdb_latexmk
+deck/*.fls
+deck/*.log
+deck/*.nav
+deck/*.out
+deck/*.snm
+deck/*.toc
+deck/preview/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local secrets
+.env

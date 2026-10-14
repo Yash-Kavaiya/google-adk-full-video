@@ -1,0 +1,245 @@
+Home
+Build Agents Build Agents
+Get Started Get Started
+Python
+TypeScript
+Go
+Java
+Kotlin
+Agents CLI
+Installation
+Google Cloud
+Build your Agent Build your Agent
+Multi-tool agent
+Agent team
+Code with AI
+Agent Config
+Agents Agents
+Simple agents
+Managed agents
+Graph Workflows Graph Workflows
+Graph routes
+Data handling
+Human input
+Dynamic workflows
+Multi-Agent Workflows Multi-Agent Workflows
+Collaborative workflows
+Template workflows Template workflows
+Sequential workflow
+Loop workflow
+Parallel workflow
+Custom template workflows
+Agent routing
+Workflow patterns
+Models for Agents Models for Agents
+Gemini
+Gemma
+Claude
+Agent Platform hosted
+Apigee AI Gateway
+Model routing
+OpenAI
+Ollama
+vLLM
+LiteLLM
+LiteRT-LM
+Run Agents Run Agents
+Agent Runtime Agent Runtime
+Web Interface Web Interface
+Visual Builder
+Command Line
+API Server
+Ambient Agents
+Resume Agents
+Cancel Agent Runs
+Runtime Config
+Event Loop
+Deployment Deployment
+Agent Runtime Agent Runtime
+Standard deployment
+agents-cli
+Test deployed agents
+Cloud Run
+GKE
+Observability Observability
+Logging
+Metrics
+Traces
+Evaluation Evaluation
+Criteria
+User Simulation
+Environment Simulation
+Custom Metrics
+Optimization
+Safety and Security Safety and Security
+Components Components
+Technical Overview
+Custom Tools Custom Tools
+Function tools Function tools
+Overview
+Tool performance
+Action confirmations
+MCP tools
+OpenAPI tools
+Authentication
+Tool limitations
+Artifacts Artifacts
+Skills for Agents Skills for Agents
+App management App management
+Callbacks Callbacks
+Types of callbacks
+Callback patterns
+Plugins
+Agent context Agent context
+Conversational context Conversational context Table of contents
+Core Concepts
+Managing Context: Services
+What's Next?
+Sessions Sessions
+Rewind sessions
+Migrate sessions
+State
+Events
+Memory
+Context compression
+Model context caching
+MCP MCP
+A2A Protocol A2A Protocol
+Introduction to A2A
+A2A Quickstart (Exposing) A2A Quickstart (Exposing)
+Python
+Go
+Java
+A2A Quickstart (Consuming) A2A Quickstart (Consuming)
+Python
+Go
+Java
+Kotlin
+A2A Extension
+Live and Voice Agents Live and Voice Agents
+Get started Get started
+Python
+Java
+Building Building
+Workflows
+Tools
+Sessions
+Events
+Audio and video
+Configuration
+Production Production
+Evaluation
+Build a custom server
+Supported models
+Grounding Grounding
+Google Search Grounding
+Grounding with Search
+Integrations Integrations
+Reference Reference
+API Reference API Reference
+Python ADK
+TypeScript ADK
+Go ADK Go ADK
+Go v2.x
+Go v1.x
+Java ADK
+Kotlin ADK
+CLI Reference
+Agent Config Reference
+REST API
+Release Notes
+Community Community
+Contributing Guide
+ADK 2.0 ADK 2.0
+Core Concepts
+Managing Context: Services
+What's Next?
+Home
+Components
+Agent context
+Conversational Context: Session, State, and Memory ¶
+Meaningful, multi-turn conversations require agents to understand context. Just like humans, they need to recall the conversation history: what's been said and done to maintain continuity and avoid repetition. The Agent Development Kit (ADK) provides structured ways to manage this context through
+Session
+,
+State
+, and
+Memory
+.
+Core Concepts ¶
+Think of different instances of your conversations with the agent as distinct conversation threads , potentially drawing upon long-term knowledge .
+Session
+: The Current Conversation Thread
+Represents a single, ongoing interaction between a user and your agent system.
+Contains the chronological sequence of messages and actions taken by the agent (referred to
+Events
+) during that specific interaction .
+A
+Session
+can also hold temporary data (
+State
+) relevant only during this conversation .
+State
+(
+session.state
+) : Data Within the Current Conversation
+Data stored within a specific
+Session
+.
+Used to manage information relevant only to the current, active conversation thread (e.g., items in a shopping cart during this chat , user preferences mentioned in this session ).
+Memory
+: Searchable, Cross-Session Information
+Represents a store of information that might span multiple past sessions or include external data sources.
+It acts as a knowledge base the agent can search to recall information or context beyond the immediate conversation.
+Managing Context: Services ¶
+ADK provides services to manage these concepts:
+SessionService
+: Manages the different conversation threads (
+Session
+objects)
+Handles the lifecycle: creating, retrieving, updating (appending
+Events
+, modifying
+State
+), and deleting individual
+Session
+s.
+MemoryService
+: Manages the Long-Term Knowledge Store (
+Memory
+)
+Handles ingesting information (often from completed
+Session
+s) into the long-term store.
+Provides methods to search this stored knowledge based on queries.
+Implementations : ADK offers different implementations for both
+SessionService
+and
+MemoryService
+, allowing you to choose the storage backend that best fits your application's needs. Notably, in-memory implementations are provided for both services; these are designed specifically for local testing and fast development . It's important to remember that all data stored using these in-memory options (sessions, state, or long-term knowledge) is lost when your application restarts . For persistence and scalability beyond local testing, ADK also offers cloud-based and database service options.
+In Summary:
+Session
+&
+State
+: Focus on the current interaction – the history and data of the single, active conversation . Managed primarily by a
+SessionService
+.
+Memory : Focuses on the past and external information – a searchable archive potentially spanning across conversations. Managed by a
+MemoryService
+.
+What's Next? ¶
+In the following sections, we'll dive deeper into each of these components:
+Session
+: Understanding its structure and
+Events
+.
+State
+: How to effectively read, write, and manage session-specific data.
+SessionService
+: Choosing the right storage backend for your sessions.
+MemoryService
+: Exploring options for storing and retrieving broader context.
+Understanding these concepts is fundamental to building agents that can engage in complex, stateful, and context-aware conversations.
+Cookie consent
+We use cookies to recognize repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find the information they need. With your consent, you're helping us to make our documentation better.
+Google Analytics
+GitHub

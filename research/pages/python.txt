@@ -1,0 +1,250 @@
+Home
+Build Agents Build Agents
+Get Started Get Started
+Python Python Table of contents
+Installation
+Create an agent project
+Explore the agent project
+Update your agent project
+Set your API key
+Run your agent
+Run with command-line interface
+Run with web interface
+Next: Build your agent
+TypeScript
+Go
+Java
+Kotlin
+Agents CLI
+Installation
+Google Cloud
+Build your Agent Build your Agent
+Multi-tool agent
+Agent team
+Code with AI
+Agent Config
+Agents Agents
+Simple agents
+Managed agents
+Graph Workflows Graph Workflows
+Graph routes
+Data handling
+Human input
+Dynamic workflows
+Multi-Agent Workflows Multi-Agent Workflows
+Collaborative workflows
+Template workflows Template workflows
+Sequential workflow
+Loop workflow
+Parallel workflow
+Custom template workflows
+Agent routing
+Workflow patterns
+Models for Agents Models for Agents
+Gemini
+Gemma
+Claude
+Agent Platform hosted
+Apigee AI Gateway
+Model routing
+OpenAI
+Ollama
+vLLM
+LiteLLM
+LiteRT-LM
+Run Agents Run Agents
+Agent Runtime Agent Runtime
+Web Interface Web Interface
+Visual Builder
+Command Line
+API Server
+Ambient Agents
+Resume Agents
+Cancel Agent Runs
+Runtime Config
+Event Loop
+Deployment Deployment
+Agent Runtime Agent Runtime
+Standard deployment
+agents-cli
+Test deployed agents
+Cloud Run
+GKE
+Observability Observability
+Logging
+Metrics
+Traces
+Evaluation Evaluation
+Criteria
+User Simulation
+Environment Simulation
+Custom Metrics
+Optimization
+Safety and Security Safety and Security
+Components Components
+Technical Overview
+Custom Tools Custom Tools
+Function tools Function tools
+Overview
+Tool performance
+Action confirmations
+MCP tools
+OpenAPI tools
+Authentication
+Tool limitations
+Artifacts Artifacts
+Skills for Agents Skills for Agents
+App management App management
+Callbacks Callbacks
+Types of callbacks
+Callback patterns
+Plugins
+Agent context Agent context
+Conversational context
+Sessions Sessions
+Rewind sessions
+Migrate sessions
+State
+Events
+Memory
+Context compression
+Model context caching
+MCP MCP
+A2A Protocol A2A Protocol
+Introduction to A2A
+A2A Quickstart (Exposing) A2A Quickstart (Exposing)
+Python
+Go
+Java
+A2A Quickstart (Consuming) A2A Quickstart (Consuming)
+Python
+Go
+Java
+Kotlin
+A2A Extension
+Live and Voice Agents Live and Voice Agents
+Get started Get started
+Python
+Java
+Building Building
+Workflows
+Tools
+Sessions
+Events
+Audio and video
+Configuration
+Production Production
+Evaluation
+Build a custom server
+Supported models
+Grounding Grounding
+Google Search Grounding
+Grounding with Search
+Integrations Integrations
+Reference Reference
+API Reference API Reference
+Python ADK
+TypeScript ADK
+Go ADK Go ADK
+Go v2.x
+Go v1.x
+Java ADK
+Kotlin ADK
+CLI Reference
+Agent Config Reference
+REST API
+Release Notes
+Community Community
+Contributing Guide
+ADK 2.0 ADK 2.0
+Installation
+Create an agent project
+Explore the agent project
+Update your agent project
+Set your API key
+Run your agent
+Run with command-line interface
+Run with web interface
+Next: Build your agent
+Home
+Build Agents
+Get Started
+Python Quickstart for ADK ¶
+This guide shows you how to get up and running with Agent Development Kit (ADK) for Python. Before you start, make sure you have the following installed:
+Python 3.10 or later
+pip
+for installing packages
+Installation ¶
+Install ADK by running the following command:
+pip install google-adk
+Create a Python virtual environment:
+python3 -m venv .venv
+Activate the Python virtual environment:
+.venv\Scripts\activate.bat
+.venv\Scripts\Activate.ps1
+source .venv/bin/activate
+Create an agent project ¶
+Run the
+adk create
+command to start a new agent project.
+adk create my_agent
+Explore the agent project ¶
+The created agent project has the following structure, with the
+agent.py
+file containing the main control code for the agent.
+my_agent/ agent.py # main agent code .env # API keys or project IDs __init__.py
+Update your agent project ¶
+The
+agent.py
+file contains a
+root_agent
+definition which is the only required element of an ADK agent. You can also define tools for the agent to use. Update the generated
+agent.py
+code to include a
+get_current_time
+tool for use by the agent, as shown in the following code:
+from google.adk.agents.llm_agent import Agent # Mock tool implementation def get_current_time ( city : str ) -> dict : """Returns the current time in a specified city.""" return { "status" : "success" , "city" : city , "time" : "10:30 AM" } root_agent = Agent ( model = 'gemini-flash-latest' , name = 'root_agent' , description = "Tells the current time in a specified city." , instruction = "You are a helpful assistant that tells the current time in cities. Use the 'get_current_time' tool for this purpose." , tools = [ get_current_time ], )
+Set your API key ¶
+This project uses the Gemini API, which requires an API key. If you don't already have Gemini API key, create a key in Google AI Studio on the API Keys page.
+In a terminal window, write your API key into an
+.env
+file as an environment variable:
+echo 'GOOGLE_API_KEY="YOUR_API_KEY"' > .env
+echo GOOGLE_API_KEY="YOUR_API_KEY" > .env
+ADK supports the use of many generative AI models. For more information on configuring other models in ADK agents, see Models & Authentication .
+Run your agent ¶
+You can run your ADK agent with an interactive command-line interface using the
+adk run
+command or the ADK web user interface provided by the ADK using the
+adk web
+command. Both these options allow you to test and interact with your agent.
+Run with command-line interface ¶
+Run your agent using the
+adk run
+command-line tool.
+adk run my_agent
+Run with web interface ¶
+The ADK framework provides web interface you can use to test and interact with your agent. You can start the web interface using the following command:
+adk web --port 8000
+Note
+Run this command from the parent directory that contains your
+my_agent/
+folder. For example, if your agent is inside
+agents/my_agent/
+, run
+adk web
+from the
+agents/
+directory.
+This command starts a web server with a chat interface for your agent. You can access the web interface at
+http://localhost:8000
+. Select the agent at the upper left corner and type a request.
+Caution: ADK Web for development only
+ADK Web is not meant for use in production deployments . You should use ADK Web for development and debugging purposes only.
+Next: Build your agent ¶
+Now that you have ADK installed and your first agent running, try building your own agent with our build guides:
+Build your agent
+Cookie consent
+We use cookies to recognize repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find the information they need. With your consent, you're helping us to make our documentation better.
+Google Analytics
+GitHub

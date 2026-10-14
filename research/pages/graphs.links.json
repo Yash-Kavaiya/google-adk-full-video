@@ -1,0 +1,2030 @@
+[
+  {
+    "text": "Skip to content",
+    "url": "https://google.github.io/adk-docs/graphs/#graph-based-agent-workflows"
+  },
+  {
+    "text": "ADK TypeScript 2.0 GA",
+    "url": "https://google.github.io/2.0/"
+  },
+  {
+    "text": "Get started",
+    "url": "https://google.github.io/graphs/#typescript"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/"
+  },
+  {
+    "text": "Python",
+    "url": "https://github.com/google/adk-python"
+  },
+  {
+    "text": "JS",
+    "url": "https://github.com/google/adk-js"
+  },
+  {
+    "text": "Go",
+    "url": "https://github.com/google/adk-go"
+  },
+  {
+    "text": "Java",
+    "url": "https://github.com/google/adk-java"
+  },
+  {
+    "text": "Kotlin",
+    "url": "https://github.com/google/adk-kotlin"
+  },
+  {
+    "text": "Build Agents",
+    "url": "https://google.github.io/adk-docs/get-started/"
+  },
+  {
+    "text": "Run Agents",
+    "url": "https://google.github.io/adk-docs/runtime/"
+  },
+  {
+    "text": "Components",
+    "url": "https://google.github.io/adk-docs/get-started/about/"
+  },
+  {
+    "text": "Integrations",
+    "url": "https://google.github.io/adk-docs/integrations/"
+  },
+  {
+    "text": "Reference",
+    "url": "https://google.github.io/adk-docs/api-reference/"
+  },
+  {
+    "text": "Community",
+    "url": "https://google.github.io/adk-docs/community/"
+  },
+  {
+    "text": "ADK 2.0",
+    "url": "https://google.github.io/adk-docs/2.0/"
+  },
+  {
+    "text": "Python",
+    "url": "https://google.github.io/adk-docs/get-started/python/"
+  },
+  {
+    "text": "TypeScript",
+    "url": "https://google.github.io/adk-docs/get-started/typescript/"
+  },
+  {
+    "text": "Go",
+    "url": "https://google.github.io/adk-docs/get-started/go/"
+  },
+  {
+    "text": "Java",
+    "url": "https://google.github.io/adk-docs/get-started/java/"
+  },
+  {
+    "text": "Kotlin",
+    "url": "https://google.github.io/adk-docs/get-started/kotlin/"
+  },
+  {
+    "text": "Agents CLI",
+    "url": "https://google.github.io/adk-docs/get-started/agents-cli/"
+  },
+  {
+    "text": "Installation",
+    "url": "https://google.github.io/adk-docs/get-started/installation/"
+  },
+  {
+    "text": "Google Cloud",
+    "url": "https://google.github.io/adk-docs/get-started/google-cloud/"
+  },
+  {
+    "text": "Build your Agent",
+    "url": "https://google.github.io/adk-docs/tutorials/"
+  },
+  {
+    "text": "Multi-tool agent",
+    "url": "https://google.github.io/adk-docs/tutorials/multi-tool-agent/"
+  },
+  {
+    "text": "Agent team",
+    "url": "https://google.github.io/adk-docs/tutorials/agent-team/"
+  },
+  {
+    "text": "Code with AI",
+    "url": "https://google.github.io/adk-docs/tutorials/coding-with-ai/"
+  },
+  {
+    "text": "Agent Config",
+    "url": "https://google.github.io/adk-docs/agents/config/"
+  },
+  {
+    "text": "Agents",
+    "url": "https://google.github.io/adk-docs/agents/"
+  },
+  {
+    "text": "Simple agents",
+    "url": "https://google.github.io/adk-docs/agents/llm-agents/"
+  },
+  {
+    "text": "Managed agents",
+    "url": "https://google.github.io/adk-docs/agents/managed-agents/"
+  },
+  {
+    "text": "Graph Workflows",
+    "url": "https://google.github.io/adk-docs/graphs/"
+  },
+  {
+    "text": "Graph routes",
+    "url": "https://google.github.io/adk-docs/graphs/routes/"
+  },
+  {
+    "text": "Data handling",
+    "url": "https://google.github.io/adk-docs/graphs/data-handling/"
+  },
+  {
+    "text": "Human input",
+    "url": "https://google.github.io/adk-docs/graphs/human-input/"
+  },
+  {
+    "text": "Dynamic workflows",
+    "url": "https://google.github.io/adk-docs/graphs/dynamic/"
+  },
+  {
+    "text": "Multi-Agent Workflows",
+    "url": "https://google.github.io/adk-docs/workflows/"
+  },
+  {
+    "text": "Collaborative workflows",
+    "url": "https://google.github.io/adk-docs/workflows/collaboration/"
+  },
+  {
+    "text": "Template workflows",
+    "url": "https://google.github.io/adk-docs/agents/workflow-agents/"
+  },
+  {
+    "text": "Sequential workflow",
+    "url": "https://google.github.io/adk-docs/agents/workflow-agents/sequential-agents/"
+  },
+  {
+    "text": "Loop workflow",
+    "url": "https://google.github.io/adk-docs/agents/workflow-agents/loop-agents/"
+  },
+  {
+    "text": "Parallel workflow",
+    "url": "https://google.github.io/adk-docs/agents/workflow-agents/parallel-agents/"
+  },
+  {
+    "text": "Custom template workflows",
+    "url": "https://google.github.io/adk-docs/agents/custom-agents/"
+  },
+  {
+    "text": "Agent routing",
+    "url": "https://google.github.io/adk-docs/agents/routing/"
+  },
+  {
+    "text": "Workflow patterns",
+    "url": "https://google.github.io/adk-docs/workflows/patterns/"
+  },
+  {
+    "text": "Models for Agents",
+    "url": "https://google.github.io/adk-docs/agents/models/"
+  },
+  {
+    "text": "Gemini",
+    "url": "https://google.github.io/adk-docs/agents/models/google-gemini/"
+  },
+  {
+    "text": "Gemma",
+    "url": "https://google.github.io/adk-docs/agents/models/google-gemma/"
+  },
+  {
+    "text": "Claude",
+    "url": "https://google.github.io/adk-docs/agents/models/anthropic/"
+  },
+  {
+    "text": "Agent Platform hosted",
+    "url": "https://google.github.io/adk-docs/agents/models/agent-platform/"
+  },
+  {
+    "text": "Apigee AI Gateway",
+    "url": "https://google.github.io/adk-docs/agents/models/apigee/"
+  },
+  {
+    "text": "Model routing",
+    "url": "https://google.github.io/adk-docs/agents/models/routing/"
+  },
+  {
+    "text": "OpenAI",
+    "url": "https://google.github.io/adk-docs/agents/models/openai/"
+  },
+  {
+    "text": "Ollama",
+    "url": "https://google.github.io/adk-docs/agents/models/ollama/"
+  },
+  {
+    "text": "vLLM",
+    "url": "https://google.github.io/adk-docs/agents/models/vllm/"
+  },
+  {
+    "text": "LiteLLM",
+    "url": "https://google.github.io/adk-docs/agents/models/litellm/"
+  },
+  {
+    "text": "LiteRT-LM",
+    "url": "https://google.github.io/adk-docs/agents/models/litert-lm/"
+  },
+  {
+    "text": "Web Interface",
+    "url": "https://google.github.io/adk-docs/runtime/web-interface/"
+  },
+  {
+    "text": "Visual Builder",
+    "url": "https://google.github.io/adk-docs/visual-builder/"
+  },
+  {
+    "text": "Command Line",
+    "url": "https://google.github.io/adk-docs/runtime/command-line/"
+  },
+  {
+    "text": "API Server",
+    "url": "https://google.github.io/adk-docs/runtime/api-server/"
+  },
+  {
+    "text": "Ambient Agents",
+    "url": "https://google.github.io/adk-docs/runtime/ambient-agents/"
+  },
+  {
+    "text": "Resume Agents",
+    "url": "https://google.github.io/adk-docs/runtime/resume/"
+  },
+  {
+    "text": "Cancel Agent Runs",
+    "url": "https://google.github.io/adk-docs/runtime/cancel/"
+  },
+  {
+    "text": "Runtime Config",
+    "url": "https://google.github.io/adk-docs/runtime/runconfig/"
+  },
+  {
+    "text": "Event Loop",
+    "url": "https://google.github.io/adk-docs/runtime/event-loop/"
+  },
+  {
+    "text": "Deployment",
+    "url": "https://google.github.io/adk-docs/deploy/"
+  },
+  {
+    "text": "Agent Runtime",
+    "url": "https://google.github.io/adk-docs/deploy/agent-runtime/"
+  },
+  {
+    "text": "Standard deployment",
+    "url": "https://google.github.io/adk-docs/deploy/agent-runtime/deploy/"
+  },
+  {
+    "text": "agents-cli",
+    "url": "https://google.github.io/adk-docs/deploy/agent-runtime/agents-cli/"
+  },
+  {
+    "text": "Test deployed agents",
+    "url": "https://google.github.io/adk-docs/deploy/agent-runtime/test/"
+  },
+  {
+    "text": "Cloud Run",
+    "url": "https://google.github.io/adk-docs/deploy/cloud-run/"
+  },
+  {
+    "text": "GKE",
+    "url": "https://google.github.io/adk-docs/deploy/gke/"
+  },
+  {
+    "text": "Observability",
+    "url": "https://google.github.io/adk-docs/observability/"
+  },
+  {
+    "text": "Logging",
+    "url": "https://google.github.io/adk-docs/observability/logging/"
+  },
+  {
+    "text": "Metrics",
+    "url": "https://google.github.io/adk-docs/observability/metrics/"
+  },
+  {
+    "text": "Traces",
+    "url": "https://google.github.io/adk-docs/observability/traces/"
+  },
+  {
+    "text": "Evaluation",
+    "url": "https://google.github.io/adk-docs/evaluate/"
+  },
+  {
+    "text": "Criteria",
+    "url": "https://google.github.io/adk-docs/evaluate/criteria/"
+  },
+  {
+    "text": "User Simulation",
+    "url": "https://google.github.io/adk-docs/evaluate/user-sim/"
+  },
+  {
+    "text": "Environment Simulation",
+    "url": "https://google.github.io/adk-docs/evaluate/environment_simulation/"
+  },
+  {
+    "text": "Custom Metrics",
+    "url": "https://google.github.io/adk-docs/evaluate/custom_metrics/"
+  },
+  {
+    "text": "Optimization",
+    "url": "https://google.github.io/adk-docs/optimize/"
+  },
+  {
+    "text": "Safety and Security",
+    "url": "https://google.github.io/adk-docs/safety/"
+  },
+  {
+    "text": "Custom Tools",
+    "url": "https://google.github.io/adk-docs/tools-custom/"
+  },
+  {
+    "text": "Overview",
+    "url": "https://google.github.io/adk-docs/tools-custom/function-tools/"
+  },
+  {
+    "text": "Tool performance",
+    "url": "https://google.github.io/adk-docs/tools-custom/performance/"
+  },
+  {
+    "text": "Action confirmations",
+    "url": "https://google.github.io/adk-docs/tools-custom/confirmation/"
+  },
+  {
+    "text": "MCP tools",
+    "url": "https://google.github.io/adk-docs/tools-custom/mcp-tools/"
+  },
+  {
+    "text": "OpenAPI tools",
+    "url": "https://google.github.io/adk-docs/tools-custom/openapi-tools/"
+  },
+  {
+    "text": "Authentication",
+    "url": "https://google.github.io/adk-docs/tools-custom/authentication/"
+  },
+  {
+    "text": "Tool limitations",
+    "url": "https://google.github.io/adk-docs/tools/limitations/"
+  },
+  {
+    "text": "Artifacts",
+    "url": "https://google.github.io/adk-docs/artifacts/"
+  },
+  {
+    "text": "Skills for Agents",
+    "url": "https://google.github.io/adk-docs/skills/"
+  },
+  {
+    "text": "App management",
+    "url": "https://google.github.io/adk-docs/apps/"
+  },
+  {
+    "text": "Callbacks",
+    "url": "https://google.github.io/adk-docs/callbacks/"
+  },
+  {
+    "text": "Types of callbacks",
+    "url": "https://google.github.io/adk-docs/callbacks/types-of-callbacks/"
+  },
+  {
+    "text": "Callback patterns",
+    "url": "https://google.github.io/adk-docs/callbacks/design-patterns-and-best-practices/"
+  },
+  {
+    "text": "Plugins",
+    "url": "https://google.github.io/adk-docs/plugins/"
+  },
+  {
+    "text": "Agent context",
+    "url": "https://google.github.io/adk-docs/context/"
+  },
+  {
+    "text": "Conversational context",
+    "url": "https://google.github.io/adk-docs/sessions/"
+  },
+  {
+    "text": "Sessions",
+    "url": "https://google.github.io/adk-docs/sessions/session/"
+  },
+  {
+    "text": "Rewind sessions",
+    "url": "https://google.github.io/adk-docs/sessions/session/rewind/"
+  },
+  {
+    "text": "Migrate sessions",
+    "url": "https://google.github.io/adk-docs/sessions/session/migrate/"
+  },
+  {
+    "text": "State",
+    "url": "https://google.github.io/adk-docs/sessions/state/"
+  },
+  {
+    "text": "Events",
+    "url": "https://google.github.io/adk-docs/events/"
+  },
+  {
+    "text": "Memory",
+    "url": "https://google.github.io/adk-docs/sessions/memory/"
+  },
+  {
+    "text": "Context compression",
+    "url": "https://google.github.io/adk-docs/context/compaction/"
+  },
+  {
+    "text": "Model context caching",
+    "url": "https://google.github.io/adk-docs/context/caching/"
+  },
+  {
+    "text": "MCP",
+    "url": "https://google.github.io/adk-docs/mcp/"
+  },
+  {
+    "text": "A2A Protocol",
+    "url": "https://google.github.io/adk-docs/a2a/"
+  },
+  {
+    "text": "Introduction to A2A",
+    "url": "https://google.github.io/adk-docs/a2a/intro/"
+  },
+  {
+    "text": "Python",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-exposing/"
+  },
+  {
+    "text": "Go",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-exposing-go/"
+  },
+  {
+    "text": "Java",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-exposing-java/"
+  },
+  {
+    "text": "Python",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-consuming/"
+  },
+  {
+    "text": "Go",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-consuming-go/"
+  },
+  {
+    "text": "Java",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-consuming-java/"
+  },
+  {
+    "text": "Kotlin",
+    "url": "https://google.github.io/adk-docs/a2a/quickstart-consuming-kotlin/"
+  },
+  {
+    "text": "A2A Extension",
+    "url": "https://google.github.io/adk-docs/a2a/a2a-extension/"
+  },
+  {
+    "text": "Live and Voice Agents",
+    "url": "https://google.github.io/adk-docs/live/"
+  },
+  {
+    "text": "Get started",
+    "url": "https://google.github.io/adk-docs/live/get-started/"
+  },
+  {
+    "text": "Python",
+    "url": "https://google.github.io/adk-docs/live/get-started/streaming-python/"
+  },
+  {
+    "text": "Java",
+    "url": "https://google.github.io/adk-docs/live/get-started/streaming-java/"
+  },
+  {
+    "text": "Workflows",
+    "url": "https://google.github.io/adk-docs/live/workflows/"
+  },
+  {
+    "text": "Tools",
+    "url": "https://google.github.io/adk-docs/live/tools/"
+  },
+  {
+    "text": "Sessions",
+    "url": "https://google.github.io/adk-docs/live/sessions/"
+  },
+  {
+    "text": "Events",
+    "url": "https://google.github.io/adk-docs/live/events/"
+  },
+  {
+    "text": "Audio and video",
+    "url": "https://google.github.io/adk-docs/live/audio-video/"
+  },
+  {
+    "text": "Configuration",
+    "url": "https://google.github.io/adk-docs/live/configuration/"
+  },
+  {
+    "text": "Evaluation",
+    "url": "https://google.github.io/adk-docs/live/evaluation/"
+  },
+  {
+    "text": "Build a custom server",
+    "url": "https://google.github.io/adk-docs/live/custom-server/"
+  },
+  {
+    "text": "Supported models",
+    "url": "https://google.github.io/adk-docs/live/models/"
+  },
+  {
+    "text": "Grounding",
+    "url": "https://google.github.io/adk-docs/grounding/"
+  },
+  {
+    "text": "Google Search Grounding",
+    "url": "https://google.github.io/adk-docs/grounding/google_search_grounding/"
+  },
+  {
+    "text": "Grounding with Search",
+    "url": "https://google.github.io/adk-docs/grounding/grounding_with_search/"
+  },
+  {
+    "text": "Python ADK",
+    "url": "https://google.github.io/adk-docs/api-reference/python/"
+  },
+  {
+    "text": "TypeScript ADK",
+    "url": "https://google.github.io/adk-docs/api-reference/typescript/"
+  },
+  {
+    "text": "Go v2.x",
+    "url": "https://pkg.go.dev/google.golang.org/adk/v2"
+  },
+  {
+    "text": "Go v1.x",
+    "url": "https://pkg.go.dev/google.golang.org/adk"
+  },
+  {
+    "text": "Java ADK",
+    "url": "https://google.github.io/adk-docs/api-reference/java/"
+  },
+  {
+    "text": "Kotlin ADK",
+    "url": "https://google.github.io/adk-docs/api-reference/kotlin/"
+  },
+  {
+    "text": "CLI Reference",
+    "url": "https://google.github.io/adk-docs/api-reference/cli/"
+  },
+  {
+    "text": "Agent Config Reference",
+    "url": "https://google.github.io/adk-docs/api-reference/agentconfig/"
+  },
+  {
+    "text": "REST API",
+    "url": "https://google.github.io/adk-docs/api-reference/rest/"
+  },
+  {
+    "text": "Release Notes",
+    "url": "https://google.github.io/adk-docs/release-notes/"
+  },
+  {
+    "text": "Contributing Guide",
+    "url": "https://google.github.io/adk-docs/community/contributing-guide/"
+  },
+  {
+    "text": "Get started",
+    "url": "https://google.github.io/adk-docs/graphs/#get-started"
+  },
+  {
+    "text": "Build processes with graphs",
+    "url": "https://google.github.io/adk-docs/graphs/#build-processes-with-graphs"
+  },
+  {
+    "text": "Known limitations",
+    "url": "https://google.github.io/adk-docs/graphs/#known-limitations"
+  },
+  {
+    "text": "",
+    "url": "https://github.com/google/adk-docs/edit/main/docs/graphs/index.md"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/index.md"
+  },
+  {
+    "text": "template workflows",
+    "url": "https://google.github.io/agents/workflow-agents/"
+  },
+  {
+    "text": "Sequential Agents",
+    "url": "https://google.github.io/agents/workflow-agents/sequential-agents/"
+  },
+  {
+    "text": "Dynamic workflows",
+    "url": "https://google.github.io/graphs/dynamic/"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-32"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-33"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-34"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-35"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-36"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-37"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-38"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-39"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-40"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-41"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-0-42"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-32"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-33"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-34"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-35"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-36"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-37"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-38"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-39"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-40"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-41"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-42"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-43"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-44"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-45"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-46"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-47"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-48"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-49"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-50"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-51"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-52"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-53"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-54"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-55"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-56"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-57"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-58"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-1-59"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-32"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-33"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-34"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-35"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-36"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-37"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-38"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-39"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-40"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-41"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-42"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-43"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-44"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-45"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-46"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-47"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-48"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-49"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-50"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-51"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-52"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-2-53"
+  },
+  {
+    "text": "Data handling with workflow nodes and agents",
+    "url": "https://google.github.io/graphs/data-handling/"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-32"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-33"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-34"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-35"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-36"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-3-37"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-32"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-33"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-34"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-35"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-36"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-37"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-38"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-39"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-40"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-41"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-42"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-43"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-44"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-45"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-46"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-47"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-48"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-49"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-50"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-51"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-52"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-53"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-54"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-55"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-56"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-57"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-58"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-59"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-60"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-61"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-62"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-63"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-64"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-65"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-4-66"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-1"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-2"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-3"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-4"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-5"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-6"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-7"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-8"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-9"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-10"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-11"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-12"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-13"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-14"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-15"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-16"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-17"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-18"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-19"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-20"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-21"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-22"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-23"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-24"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-25"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-26"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-27"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-28"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-29"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-30"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-31"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-32"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-33"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-34"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-35"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-36"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-37"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-38"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-39"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-40"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-41"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-42"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-43"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-44"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-45"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-46"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-47"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-48"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-49"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-50"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-51"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-52"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-53"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-54"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-55"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-56"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-57"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-58"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-59"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-60"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-61"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-62"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-63"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-64"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-65"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-66"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-67"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-68"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-69"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-70"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-71"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-72"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-73"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-74"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-75"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-76"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-77"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-78"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-79"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-80"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-81"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-82"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-83"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-84"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-85"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-86"
+  },
+  {
+    "text": "",
+    "url": "https://google.github.io/adk-docs/graphs/#__codelineno-5-87"
+  },
+  {
+    "text": "Build graph routes for workflow agents",
+    "url": "https://google.github.io/graphs/routes/"
+  },
+  {
+    "text": "integrations",
+    "url": "https://google.github.io/integrations/"
+  },
+  {
+    "text": "License",
+    "url": "https://github.com/google/adk-docs/blob/main/LICENSE"
+  },
+  {
+    "text": "Privacy",
+    "url": "https://policies.google.com/privacy"
+  },
+  {
+    "text": "Manage cookies",
+    "url": "https://google.github.io/adk-docs/graphs/#__consent"
+  },
+  {
+    "text": "Material for MkDocs",
+    "url": "https://squidfunk.github.io/mkdocs-material/"
+  }
+]
