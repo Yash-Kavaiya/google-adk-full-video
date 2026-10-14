@@ -203,6 +203,8 @@ class GoogleADKFullInfo(Scene):
         total = len(rows)
         current = None
         absolute = 0
+        target = 0.0
+        half_frame = 0.5 / config.frame_rate
         for chapter in STORYBOARD["chapters"]:
             chapter_id = f"{int(chapter['number']):02d}"
             for beat_index, row in enumerate(chapter["beats"]):
@@ -214,5 +216,8 @@ class GoogleADKFullInfo(Scene):
                     self.play(FadeIn(frame, shift=UP * 0.08), run_time=transition)
                 else:
                     self.play(FadeOut(current, shift=UP * 0.03), FadeIn(frame, shift=UP * 0.03), run_time=transition)
-                self.wait(max(0.0, duration - transition))
+                target += duration
+                remaining = target - self.renderer.time + half_frame
+                if remaining >= 1 / config.frame_rate:
+                    self.wait(remaining)
                 current = frame
